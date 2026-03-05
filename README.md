@@ -120,7 +120,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02" width="36" height="36" alt="artist"/></td><td><b>Loading...</b></td><td><a href="https://open.spotify.com"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8" width="36" height="36" alt="artist"/></td><td><b>Red Hot Chili Peppers</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a" width="36" height="36" alt="artist"/></td><td><b>Kanye West</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174f8349dfb619a7f842242de77" width="36" height="36" alt="artist"/></td><td><b>Maroon 5</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051744170f1e4c72c0a9fc2eddc1d" width="36" height="36" alt="artist"/></td><td><b>Eric Prydz</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -132,17 +136,17 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0252cbfb62c42adc19d5637843" width="36" height="36" alt="album art"/></td><td><b>Jailhouse Rock</b><br/><sub>Elvis Presley</sub></td><td><a href="https://open.spotify.com/track/452KBpASS5lZLeJWX9Ixub"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022b74bf21c7e4f56758610949" width="36" height="36" alt="album art"/></td><td><b>Don't Stop 'Til You Get Enough</b><br/><sub>Michael Jackson</sub></td><td><a href="https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f64b9ea8a8a409c6af86134f" width="36" height="36" alt="album art"/></td><td><b>Ain't No Sunshine</b><br/><sub>Bill Withers</sub></td><td><a href="https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ba6340ac3b1653b6ea0e5da5" width="36" height="36" alt="album art"/></td><td><b>What a Fool Believes</b><br/><sub>The Doobie Brothers</sub></td><td><a href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e022273b40bf21a158297877e44" width="36" height="36" alt="album art"/></td><td><b>Get Up I Feel Like Being Like A Sex Machine</b><br/><sub>James Brown</sub></td><td><a href="https://open.spotify.com/track/67INp2Tc9IqLnGy432baEN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b" width="36" height="36" alt="album art"/></td><td><b>Dreams - 2004 Remaster</b><br/><sub>Fleetwood Mac</sub></td><td><a href="https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b184226408f981e3dd17c606" width="36" height="36" alt="album art"/></td><td><b>Can't Help Falling in Love</b><br/><sub>Elvis Presley</sub></td><td><a href="https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0232a7d87248d1b75463483df5" width="36" height="36" alt="album art"/></td><td><b>P.Y.T. (Pretty Young Thing)</b><br/><sub>Michael Jackson</sub></td><td><a href="https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
 <!-- SPOTIFY_RECENTLY_PLAYED:END -->
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Mar 2026, 15:27 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Mar 2026, 15:55 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 </tr>
