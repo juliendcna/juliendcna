@@ -113,7 +113,17 @@
 </table>
 
 <!-- SPOTIFY_TOP_TRACKS:END -->
+![Spotify](https://img.shields.io/badge/recently_played-1DB954?style=flat-square&logo=spotify&logoColor=white)
 
+<!-- SPOTIFY_RECENTLY_PLAYED:START -->
+
+<table>
+<tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70" width="36" height="36" alt="album art"/></td><td><b>Loading...</b><br/><sub>Spotify</sub></td><td><a href="https://open.spotify.com"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+</tbody>
+</table>
+
+<!-- SPOTIFY_RECENTLY_PLAYED:END -->
 <sub>↻ weekly &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
