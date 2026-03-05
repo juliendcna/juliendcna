@@ -91,6 +91,10 @@
 ![AZ‑900](https://img.shields.io/badge/Azure_AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![CCNA](https://img.shields.io/badge/Cisco_CCNA2-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
+<br/>
+
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Mar 2026, 15:27 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+
 </td>
 <td valign="top" width="50%">
 
@@ -146,7 +150,6 @@
 
 <!-- SPOTIFY_RECENTLY_PLAYED:END -->
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Mar 2026, 15:55 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 </tr>
