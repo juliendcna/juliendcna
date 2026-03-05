@@ -119,7 +119,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70" width="36" height="36" alt="album art"/></td><td><b>Loading...</b><br/><sub>Spotify</sub></td><td><a href="https://open.spotify.com"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b" width="36" height="36" alt="album art"/></td><td><b>Dreams - 2004 Remaster</b><br/><sub>Fleetwood Mac</sub></td><td><a href="https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b184226408f981e3dd17c606" width="36" height="36" alt="album art"/></td><td><b>Can't Help Falling in Love</b><br/><sub>Elvis Presley</sub></td><td><a href="https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0232a7d87248d1b75463483df5" width="36" height="36" alt="album art"/></td><td><b>P.Y.T. (Pretty Young Thing)</b><br/><sub>Michael Jackson</sub></td><td><a href="https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a07cc88003498f7559787673" width="36" height="36" alt="album art"/></td><td><b>Why Can't We Be Friends</b><br/><sub>War</sub></td><td><a href="https://open.spotify.com/track/6x959m2QDvatSwUAVCHIuf"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a520a167a62d5548cdb53101" width="36" height="36" alt="album art"/></td><td><b>I Wanna Dance with Somebody (Who Loves Me)</b><br/><sub>Whitney Houston</sub></td><td><a href="https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
