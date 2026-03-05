@@ -93,6 +93,16 @@
 
 <br/>
 
+**Hobbies**
+
+![Skiing](https://img.shields.io/badge/Skiing-1E90FF?style=flat-square&logo=snowflake&logoColor=white)
+![Travel](https://img.shields.io/badge/Travel-FF6F61?style=flat-square&logo=googleearth&logoColor=white)
+![Food](https://img.shields.io/badge/Food-FF9800?style=flat-square&logo=foodpanda&logoColor=white)
+![Music](https://img.shields.io/badge/Music-1DB954?style=flat-square&logo=spotify&logoColor=white)
+![Movies](https://img.shields.io/badge/Movies_&_Series-E50914?style=flat-square&logo=netflix&logoColor=white)
+
+<br/>
+
 <sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Mar 2026, 15:27 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
