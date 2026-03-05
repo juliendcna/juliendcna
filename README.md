@@ -24,8 +24,8 @@
 **Cloud**
 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
 **Technologies**
@@ -65,7 +65,7 @@
 
 ![Terraform](https://img.shields.io/badge/HashiCorp_Terraform_Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP_Professional_Cloud_Architect-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AZ‑900](https://img.shields.io/badge/Azure_AZ--900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AZ‑900](https://img.shields.io/badge/Azure_AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![CCNA](https://img.shields.io/badge/Cisco_CCNA2-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 </td>
