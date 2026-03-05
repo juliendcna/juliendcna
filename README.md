@@ -119,17 +119,17 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ba6340ac3b1653b6ea0e5da5" width="36" height="36" alt="album art"/></td><td><b>What a Fool Believes</b><br/><sub>The Doobie Brothers</sub></td><td><a href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022273b40bf21a158297877e44" width="36" height="36" alt="album art"/></td><td><b>Get Up I Feel Like Being Like A Sex Machine</b><br/><sub>James Brown</sub></td><td><a href="https://open.spotify.com/track/67INp2Tc9IqLnGy432baEN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b" width="36" height="36" alt="album art"/></td><td><b>Dreams - 2004 Remaster</b><br/><sub>Fleetwood Mac</sub></td><td><a href="https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b184226408f981e3dd17c606" width="36" height="36" alt="album art"/></td><td><b>Can't Help Falling in Love</b><br/><sub>Elvis Presley</sub></td><td><a href="https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0232a7d87248d1b75463483df5" width="36" height="36" alt="album art"/></td><td><b>P.Y.T. (Pretty Young Thing)</b><br/><sub>Michael Jackson</sub></td><td><a href="https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a07cc88003498f7559787673" width="36" height="36" alt="album art"/></td><td><b>Why Can't We Be Friends</b><br/><sub>War</sub></td><td><a href="https://open.spotify.com/track/6x959m2QDvatSwUAVCHIuf"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a520a167a62d5548cdb53101" width="36" height="36" alt="album art"/></td><td><b>I Wanna Dance with Somebody (Who Loves Me)</b><br/><sub>Whitney Houston</sub></td><td><a href="https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
 <!-- SPOTIFY_RECENTLY_PLAYED:END -->
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->--<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Mar 2026, 15:27 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 </tr>
