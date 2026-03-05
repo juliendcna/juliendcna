@@ -1,16 +1,102 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**juliendcna/juliendcna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:0D1117&height=180&section=header&text=Julien%20Da%20Cunha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cloud%20and%20DevOps%20Engineer%20%E2%80%94%20Geneva&descSize=16&descAlignY=60&descFontColor=58A6FF&animation=fadeIn" width="100%" alt="header"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=24&lines=GCP+%C2%B7+AWS+%C2%B7+Azure+%C2%B7+Terraform+%C2%B7+Kafka+%C2%B7+Kubernetes;Networking+%C2%B7+Cisco+%C2%B7+MikroTik+%C2%B7+pfSense+%C2%B7+Ansible" alt="subtitle"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![Website](https://img.shields.io/badge/dacunha.ovh-000?style=flat-square&logo=safari&logoColor=white)](https://dacunha.ovh)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-da-cunha)&nbsp;
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Cloud & DevOps Engineer** at Alpian — automating infrastructure across GCP, AWS and Azure. Passionate about cloud, networking, event streaming.
+
+<br/>
+
+**Cloud**
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+
+**Technologies**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**CI/CD**
+
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+**Monitoring**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Network & OS**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square)
+
+**Code**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+<br/>
+
+**Certifications**
+
+![Terraform](https://img.shields.io/badge/HashiCorp_Terraform_Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_Professional_Cloud_Architect-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AZ‑900](https://img.shields.io/badge/Azure_AZ--900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![CCNA](https://img.shields.io/badge/Cisco_CCNA2-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=juliendcna&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
+
+<br/>
+
+![Spotify](https://img.shields.io/badge/top_tracks_this_week-1DB954?style=flat-square&logo=spotify&logoColor=white)
+
+<!-- SPOTIFY_TOP_TRACKS:START -->
+
+<table>
+<tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70" width="36" height="36" alt="album art"/></td><td><b>Under the Bridge</b><br/><sub>Red Hot Chili Peppers</sub></td><td><a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0231548865f7c729290b96c794" width="36" height="36" alt="album art"/></td><td><b>What's My Name?</b><br/><sub>Rihanna, Drake</sub></td><td><a href="https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f62aa1dd0b43f583418cd018" width="36" height="36" alt="album art"/></td><td><b>Diles</b><br/><sub>Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow</sub></td><td><a href="https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ab2e4e06aaabcd5f4a69da8a" width="36" height="36" alt="album art"/></td><td><b>Quiéreme Sempre</b><br/><sub>Orquesta Aragón</sub></td><td><a href="https://open.spotify.com/track/2UkKWdjByMLTsxQDiP3XAc"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022ea1f035463d11e1fc3b193d" width="36" height="36" alt="album art"/></td><td><b>WHERE SHE GOES</b><br/><sub>Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/2sTDlCxmuZCTDKKk9f1qus"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+</tbody>
+</table>
+
+<!-- SPOTIFY_TOP_TRACKS:END -->
+
+<sub>↻ weekly &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:0D1117&height=100&section=footer&reversal=false" width="100%" alt="footer"/>
+</div>
