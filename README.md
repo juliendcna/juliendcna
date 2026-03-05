@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Mar 2026, 15:27 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Mar 2026, 20:42 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -119,10 +119,10 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70" width="36" height="36" alt="album art"/></td><td><b>Under the Bridge</b><br/><sub>Red Hot Chili Peppers</sub></td><td><a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0231548865f7c729290b96c794" width="36" height="36" alt="album art"/></td><td><b>What's My Name?</b><br/><sub>Rihanna, Drake</sub></td><td><a href="https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f62aa1dd0b43f583418cd018" width="36" height="36" alt="album art"/></td><td><b>Diles</b><br/><sub>Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow</sub></td><td><a href="https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ab2e4e06aaabcd5f4a69da8a" width="36" height="36" alt="album art"/></td><td><b>Quiéreme Sempre</b><br/><sub>Orquesta Aragón</sub></td><td><a href="https://open.spotify.com/track/2UkKWdjByMLTsxQDiP3XAc"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e022ea1f035463d11e1fc3b193d" width="36" height="36" alt="album art"/></td><td><b>WHERE SHE GOES</b><br/><sub>Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/2sTDlCxmuZCTDKKk9f1qus"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0231548865f7c729290b96c794" width="36" height="36" alt="album art"/></td><td><b>What's My Name?</b><br/><sub>Rihanna, Drake</sub></td><td><a href="https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0252cbfb62c42adc19d5637843" width="36" height="36" alt="album art"/></td><td><b>Jailhouse Rock</b><br/><sub>Elvis Presley</sub></td><td><a href="https://open.spotify.com/track/452KBpASS5lZLeJWX9Ixub"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022b74bf21c7e4f56758610949" width="36" height="36" alt="album art"/></td><td><b>Don't Stop 'Til You Get Enough</b><br/><sub>Michael Jackson</sub></td><td><a href="https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f64b9ea8a8a409c6af86134f" width="36" height="36" alt="album art"/></td><td><b>Ain't No Sunshine</b><br/><sub>Bill Withers</sub></td><td><a href="https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ba6340ac3b1653b6ea0e5da5" width="36" height="36" alt="album art"/></td><td><b>What a Fool Believes</b><br/><sub>The Doobie Brothers</sub></td><td><a href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022273b40bf21a158297877e44" width="36" height="36" alt="album art"/></td><td><b>Get Up I Feel Like Being Like A Sex Machine</b><br/><sub>James Brown</sub></td><td><a href="https://open.spotify.com/track/67INp2Tc9IqLnGy432baEN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021e0dc5baaabda304b0ad1815" width="36" height="36" alt="album art"/></td><td><b>Island In The Sun</b><br/><sub>Weezer</sub></td><td><a href="https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d76117186d0ad2b607e9fe3b" width="36" height="36" alt="album art"/></td><td><b>Get Up Offa That Thing</b><br/><sub>James Brown</sub></td><td><a href="https://open.spotify.com/track/7Lo1WgDyUkHowqThyRClzD"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02af52c228c9619ff6298b08cd" width="36" height="36" alt="album art"/></td><td><b>Feel It Still</b><br/><sub>Portugal. The Man</sub></td><td><a href="https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02678217496fb787a68f14f8af" width="36" height="36" alt="album art"/></td><td><b>Red Red Wine</b><br/><sub>UB40</sub></td><td><a href="https://open.spotify.com/track/4POgt5ayni68MeLqclubcC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c55d393c7225798e359bca60" width="36" height="36" alt="album art"/></td><td><b>Say Say Say - Remastered 2015</b><br/><sub>Paul McCartney, Michael Jackson</sub></td><td><a href="https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
