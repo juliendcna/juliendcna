@@ -19,11 +19,16 @@ TOP_END_MARKER = "<!-- SPOTIFY_TOP_TRACKS:END -->"
 RECENT_START_MARKER = "<!-- SPOTIFY_RECENTLY_PLAYED:START -->"
 RECENT_END_MARKER = "<!-- SPOTIFY_RECENTLY_PLAYED:END -->"
 
+# Markers for top artists
+ARTISTS_START_MARKER = "<!-- SPOTIFY_TOP_ARTISTS:START -->"
+ARTISTS_END_MARKER = "<!-- SPOTIFY_TOP_ARTISTS:END -->"
+
 # Markers for last update timestamp
 UPDATE_START_MARKER = "<!-- SPOTIFY_LAST_UPDATE:START -->"
 UPDATE_END_MARKER = "<!-- SPOTIFY_LAST_UPDATE:END -->"
 
 TOP_TRACKS_API = "https://api.spotify.com/v1/me/top/tracks"
+TOP_ARTISTS_API = "https://api.spotify.com/v1/me/top/artists"
 RECENTLY_PLAYED_API = "https://api.spotify.com/v1/me/player/recently-played"
 
 
@@ -73,6 +78,16 @@ def fetch_recently_played(limit: int = 5) -> list[dict]:
     return [item["track"] for item in items]
 
 
+def fetch_top_artists(limit: int = 5) -> list[dict]:
+    resp = requests.get(
+        TOP_ARTISTS_API,
+        headers={"Authorization": f"Bearer {ACCESS_TOKEN}"},
+        params={"time_range": "short_term", "limit": limit},
+    )
+    resp.raise_for_status()
+    return resp.json().get("items", [])
+
+
 def build_markdown_block(tracks: list[dict]) -> str:
     rows = ""
     for track in tracks:
@@ -101,7 +116,33 @@ def build_markdown_block(tracks: list[dict]) -> str:
     return block
 
 
-def update_readme(top_block: str, recent_block: str) -> None:
+def build_artists_block(artists: list[dict]) -> str:
+    rows = ""
+    for artist in artists:
+        name = artist["name"]
+        url = artist["external_urls"]["spotify"]
+        images = artist.get("images", [])
+        artist_img = images[1]["url"] if len(images) > 1 else (images[0]["url"] if images else "")
+        genres = ", ".join(artist.get("genres", [])[:2]) or "Artist"
+
+        rows += (
+            f"<tr>"
+            f'<td><img src="{artist_img}" width="36" height="36" alt="artist"/></td>'
+            f'<td><b>{name}</b><br/><sub>{genres}</sub></td>'
+            f'<td><a href="{url}"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td>'
+            f"</tr>\n"
+        )
+
+    block = (
+        '\n<table>\n'
+        '<tbody>\n'
+        + rows +
+        '</tbody>\n</table>\n'
+    )
+    return block
+
+
+def update_readme(top_block: str, artists_block: str, recent_block: str) -> None:
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
@@ -116,6 +157,18 @@ def update_readme(top_block: str, recent_block: str) -> None:
         raise ValueError("Top tracks markers not found in README.md")
 
     content = top_pattern.sub(top_replacement, content)
+
+    # Update top artists
+    artists_pattern = re.compile(
+        rf"{re.escape(ARTISTS_START_MARKER)}.*?{re.escape(ARTISTS_END_MARKER)}",
+        re.DOTALL,
+    )
+    artists_replacement = f"{ARTISTS_START_MARKER}\n{artists_block}\n{ARTISTS_END_MARKER}"
+
+    if not artists_pattern.search(content):
+        raise ValueError("Top artists markers not found in README.md")
+
+    content = artists_pattern.sub(artists_replacement, content)
 
     # Update recently played
     recent_pattern = re.compile(
@@ -146,9 +199,11 @@ def update_readme(top_block: str, recent_block: str) -> None:
 
 if __name__ == "__main__":
     top_tracks = fetch_top_tracks()
+    top_artists = fetch_top_artists()
     recent_tracks = fetch_recently_played()
     
     top_block = build_markdown_block(top_tracks)
+    artists_block = build_artists_block(top_artists)
     recent_block = build_markdown_block(recent_tracks)
     
-    update_readme(top_block, recent_block)
+    update_readme(top_block, artists_block, recent_block)

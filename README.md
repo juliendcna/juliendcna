@@ -113,6 +113,19 @@
 </table>
 
 <!-- SPOTIFY_TOP_TRACKS:END -->
+
+![Spotify](https://img.shields.io/badge/top_artists_this_month-1DB954?style=flat-square&logo=spotify&logoColor=white)
+
+<!-- SPOTIFY_TOP_ARTISTS:START -->
+
+<table>
+<tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02" width="36" height="36" alt="artist"/></td><td><b>Loading...</b></td><td><a href="https://open.spotify.com"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+</tbody>
+</table>
+
+<!-- SPOTIFY_TOP_ARTISTS:END -->
+
 ![Spotify](https://img.shields.io/badge/recently_played-1DB954?style=flat-square&logo=spotify&logoColor=white)
 
 <!-- SPOTIFY_RECENTLY_PLAYED:START -->
