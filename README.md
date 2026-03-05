@@ -128,7 +128,8 @@
 </table>
 
 <!-- SPOTIFY_RECENTLY_PLAYED:END -->
-<sub>↻ weekly &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->--<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 </tr>

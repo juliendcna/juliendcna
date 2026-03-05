@@ -2,8 +2,8 @@ name: Update Spotify Top Tracks
 
 on:
   schedule:
-    # Every Monday at 08:00 UTC
-    - cron: "0 8 * * 1"
+    # Every day at 20:00 UTC (8 PM)
+    - cron: "0 20 * * *"
   workflow_dispatch: # Allow manual trigger
 
 jobs:

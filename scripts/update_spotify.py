@@ -4,6 +4,7 @@ from the Spotify API and rewrites the README.md blocks.
 """
 
 import base64
+from datetime import datetime, timezone
 import os
 import re
 import requests
@@ -17,6 +18,10 @@ TOP_END_MARKER = "<!-- SPOTIFY_TOP_TRACKS:END -->"
 # Markers for recently played
 RECENT_START_MARKER = "<!-- SPOTIFY_RECENTLY_PLAYED:START -->"
 RECENT_END_MARKER = "<!-- SPOTIFY_RECENTLY_PLAYED:END -->"
+
+# Markers for last update timestamp
+UPDATE_START_MARKER = "<!-- SPOTIFY_LAST_UPDATE:START -->"
+UPDATE_END_MARKER = "<!-- SPOTIFY_LAST_UPDATE:END -->"
 
 TOP_TRACKS_API = "https://api.spotify.com/v1/me/top/tracks"
 RECENTLY_PLAYED_API = "https://api.spotify.com/v1/me/player/recently-played"
@@ -123,6 +128,15 @@ def update_readme(top_block: str, recent_block: str) -> None:
         raise ValueError("Recently played markers not found in README.md")
 
     content = recent_pattern.sub(recent_replacement, content)
+
+    # Update timestamp
+    now = datetime.now(timezone.utc).strftime("%d %b %Y, %H:%M UTC")
+    update_pattern = re.compile(
+        rf"{re.escape(UPDATE_START_MARKER)}.*?{re.escape(UPDATE_END_MARKER)}",
+        re.DOTALL,
+    )
+    update_replacement = f"{UPDATE_START_MARKER}{now}{UPDATE_END_MARKER}"
+    content = update_pattern.sub(update_replacement, content)
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(content)
