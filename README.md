@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Mar 2026, 20:42 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->06 Mar 2026, 20:38 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021e0dc5baaabda304b0ad1815" width="36" height="36" alt="album art"/></td><td><b>Island In The Sun</b><br/><sub>Weezer</sub></td><td><a href="https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d76117186d0ad2b607e9fe3b" width="36" height="36" alt="album art"/></td><td><b>Get Up Offa That Thing</b><br/><sub>James Brown</sub></td><td><a href="https://open.spotify.com/track/7Lo1WgDyUkHowqThyRClzD"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02af52c228c9619ff6298b08cd" width="36" height="36" alt="album art"/></td><td><b>Feel It Still</b><br/><sub>Portugal. The Man</sub></td><td><a href="https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02678217496fb787a68f14f8af" width="36" height="36" alt="album art"/></td><td><b>Red Red Wine</b><br/><sub>UB40</sub></td><td><a href="https://open.spotify.com/track/4POgt5ayni68MeLqclubcC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c55d393c7225798e359bca60" width="36" height="36" alt="album art"/></td><td><b>Say Say Say - Remastered 2015</b><br/><sub>Paul McCartney, Michael Jackson</sub></td><td><a href="https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5" width="36" height="36" alt="album art"/></td><td><b>Finesse</b><br/><sub>Bruno Mars</sub></td><td><a href="https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e5a95573f1b91234630fd2cf" width="36" height="36" alt="album art"/></td><td><b>A Sky Full of Stars</b><br/><sub>Coldplay</sub></td><td><a href="https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028e0ff34ad21955b6f4da9b86" width="36" height="36" alt="album art"/></td><td><b>Do For Love</b><br/><sub>2Pac</sub></td><td><a href="https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ad27e16c5f844ea1ad6797cd" width="36" height="36" alt="album art"/></td><td><b>Your Love Is King</b><br/><sub>Sade</sub></td><td><a href="https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0243a58a3269fa18d1e4f8b5ca" width="36" height="36" alt="album art"/></td><td><b>Virtual Insanity - Remastered 2006</b><br/><sub>Jamiroquai</sub></td><td><a href="https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
