@@ -17,7 +17,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**Cloud & DevOps Engineer** at Alpian — automating infrastructure across GCP, AWS and Azure. Passionate about cloud, networking, event streaming.
+**Cloud & DevOps Engineer** at Alpian — automating infrastructure across GCP, AWS and Azure. Working on cloud, network and event streaming topics.
 
 <br/>
 
