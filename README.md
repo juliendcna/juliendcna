@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->07 Mar 2026, 20:31 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->08 Mar 2026, 20:33 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e21cc1db05580b6f2d2a3b6e" width="36" height="36" alt="album art"/></td><td><b>Viva La Vida</b><br/><sub>Coldplay</sub></td><td><a href="https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021cc6f24606517f854014ca69" width="36" height="36" alt="album art"/></td><td><b>Something Serious</b><br/><sub>Bruno Mars</sub></td><td><a href="https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c88bae7846e62a8ba59ee0bd" width="36" height="36" alt="album art"/></td><td><b>Levitating</b><br/><sub>Dua Lipa</sub></td><td><a href="https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02caa23612279c2d059a0d3a82" width="36" height="36" alt="album art"/></td><td><b>Nothin' on You (feat. Bruno Mars)</b><br/><sub>B.o.B, Bruno Mars</sub></td><td><a href="https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023781a47fee690ad0b5c6c071" width="36" height="36" alt="album art"/></td><td><b>Dance The Night - From Barbie The Album</b><br/><sub>Dua Lipa</sub></td><td><a href="https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eb15b69407230b713423d3cb" width="36" height="36" alt="album art"/></td><td><b>Smooth Criminal - Radio Edit</b><br/><sub>Michael Jackson</sub></td><td><a href="https://open.spotify.com/track/4N7LcVNKV13oxts55xpdIx"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0215ebbedaacef61af244262a8" width="36" height="36" alt="album art"/></td><td><b>Never Gonna Give You Up</b><br/><sub>Rick Astley</sub></td><td><a href="https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02428b65f827217fe824aaa2bd" width="36" height="36" alt="album art"/></td><td><b>Crab Rave</b><br/><sub>Noisestorm</sub></td><td><a href="https://open.spotify.com/track/4qDHt2ClApBBzDAvhNGWFd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e8b066f70c206551210d902b" width="36" height="36" alt="album art"/></td><td><b>Another One Bites The Dust</b><br/><sub>Queen</sub></td><td><a href="https://open.spotify.com/track/2k1yPYf9WGA4LiqcLVwtzn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02590e89b4c65a02050d8086b9" width="36" height="36" alt="album art"/></td><td><b>House of the Rising Sun</b><br/><sub>The Animals</sub></td><td><a href="https://open.spotify.com/track/3XC7Jd6SfrQYKZJ6inyRHK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
