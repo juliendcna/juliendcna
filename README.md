@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->10 Mar 2026, 20:40 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->11 Mar 2026, 20:39 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -118,11 +118,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5" width="36" height="36" alt="album art"/></td><td><b>That's What I Like</b><br/><sub>Bruno Mars</sub></td><td><a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70" width="36" height="36" alt="album art"/></td><td><b>Under the Bridge</b><br/><sub>Red Hot Chili Peppers</sub></td><td><a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0231548865f7c729290b96c794" width="36" height="36" alt="album art"/></td><td><b>What's My Name?</b><br/><sub>Rihanna, Drake</sub></td><td><a href="https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0289bf0e789f596ceef5b5418b" width="36" height="36" alt="album art"/></td><td><b>3SEX</b><br/><sub>Indochine, Christine and the Queens</sub></td><td><a href="https://open.spotify.com/track/7tbbz1bDAW8T9cmhTPZPTQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0257fc4730e06c9ab20c1e073b" width="36" height="36" alt="album art"/></td><td><b>Take Ü There (feat. Kiesza)</b><br/><sub>Jack Ü, Skrillex, Diplo, Kiesza</sub></td><td><a href="https://open.spotify.com/track/2RpKh7kXSdO8NLrW9VQ46p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5" width="36" height="36" alt="album art"/></td><td><b>That's What I Like</b><br/><sub>Bruno Mars</sub></td><td><a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f62aa1dd0b43f583418cd018" width="36" height="36" alt="album art"/></td><td><b>Diles</b><br/><sub>Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow</sub></td><td><a href="https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -135,10 +135,10 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8" width="36" height="36" alt="artist"/></td><td><b>Red Hot Chili Peppers</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174ab47d8dae2b24f5afe7f9d38" width="36" height="36" alt="artist"/></td><td><b>Imagine Dragons</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174655ca8f3196953554b479452" width="36" height="36" alt="artist"/></td><td><b>Flo Rida</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f8349dfb619a7f842242de77" width="36" height="36" alt="artist"/></td><td><b>Maroon 5</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174ae07171f989fb39736674113" width="36" height="36" alt="artist"/></td><td><b>Avicii</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8" width="36" height="36" alt="artist"/></td><td><b>Red Hot Chili Peppers</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0292f2d790c6a97b195f66d51e" width="36" height="36" alt="album art"/></td><td><b>This Love</b><br/><sub>Maroon 5</sub></td><td><a href="https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b03e92f4e7dcd9db3a06c869" width="36" height="36" alt="album art"/></td><td><b>Safe and Sound</b><br/><sub>Capital Cities</sub></td><td><a href="https://open.spotify.com/track/5JVbvCHX10U2pLa5DEqGav"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0231548865f7c729290b96c794" width="36" height="36" alt="album art"/></td><td><b>What's My Name?</b><br/><sub>Rihanna, Drake</sub></td><td><a href="https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f" width="36" height="36" alt="album art"/></td><td><b>All Of The Lights</b><br/><sub>Kanye West</sub></td><td><a href="https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021e81bff9807a9e629fce5ade" width="36" height="36" alt="album art"/></td><td><b>One More Time</b><br/><sub>Daft Punk</sub></td><td><a href="https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b1d860ab1ba847e778b2796d" width="36" height="36" alt="album art"/></td><td><b>Hate It Or Love It</b><br/><sub>The Game, 50 Cent</sub></td><td><a href="https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ddf2f9edabd166c60047e3c4" width="36" height="36" alt="album art"/></td><td><b>Miami</b><br/><sub>Will Smith</sub></td><td><a href="https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a6f439c8957170652f9410e2" width="36" height="36" alt="album art"/></td><td><b>Promiscuous</b><br/><sub>Nelly Furtado, Timbaland</sub></td><td><a href="https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a9fd4a0405945cd51e8de130" width="36" height="36" alt="album art"/></td><td><b>Crazy In Love (feat. JAY-Z)</b><br/><sub>Beyoncé, JAŸ-Z</sub></td><td><a href="https://open.spotify.com/track/0TwBtDAWpkpM3srywFVOV5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029a9b1cc067e4460da04adce2" width="36" height="36" alt="album art"/></td><td><b>Thunderstruck</b><br/><sub>AC/DC</sub></td><td><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
