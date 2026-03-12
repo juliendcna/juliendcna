@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->11 Mar 2026, 20:39 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->12 Mar 2026, 20:41 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -137,8 +137,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174ab47d8dae2b24f5afe7f9d38" width="36" height="36" alt="artist"/></td><td><b>Imagine Dragons</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174655ca8f3196953554b479452" width="36" height="36" alt="artist"/></td><td><b>Flo Rida</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174ae07171f989fb39736674113" width="36" height="36" alt="artist"/></td><td><b>Avicii</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f8349dfb619a7f842242de77" width="36" height="36" alt="artist"/></td><td><b>Maroon 5</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8" width="36" height="36" alt="artist"/></td><td><b>Red Hot Chili Peppers</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b1d860ab1ba847e778b2796d" width="36" height="36" alt="album art"/></td><td><b>Hate It Or Love It</b><br/><sub>The Game, 50 Cent</sub></td><td><a href="https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ddf2f9edabd166c60047e3c4" width="36" height="36" alt="album art"/></td><td><b>Miami</b><br/><sub>Will Smith</sub></td><td><a href="https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a6f439c8957170652f9410e2" width="36" height="36" alt="album art"/></td><td><b>Promiscuous</b><br/><sub>Nelly Furtado, Timbaland</sub></td><td><a href="https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a9fd4a0405945cd51e8de130" width="36" height="36" alt="album art"/></td><td><b>Crazy In Love (feat. JAY-Z)</b><br/><sub>Beyoncé, JAŸ-Z</sub></td><td><a href="https://open.spotify.com/track/0TwBtDAWpkpM3srywFVOV5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029a9b1cc067e4460da04adce2" width="36" height="36" alt="album art"/></td><td><b>Thunderstruck</b><br/><sub>AC/DC</sub></td><td><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027438996f6fe67c59d75d4e43" width="36" height="36" alt="album art"/></td><td><b>Gangsta's Paradise</b><br/><sub>Coolio, L.V.</sub></td><td><a href="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0280498b63e98960e2dbac41ea" width="36" height="36" alt="album art"/></td><td><b>Won’t Let You Go</b><br/><sub>Martin Garrix, Matisse & Sadko, John Martin</sub></td><td><a href="https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b9ce268630bea28fbd453651" width="36" height="36" alt="album art"/></td><td><b>No One</b><br/><sub>Alicia Keys</sub></td><td><a href="https://open.spotify.com/track/0mZ5GyrHG908lqrHaTw4hi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02395ee31df8ad9108f5775b1c" width="36" height="36" alt="album art"/></td><td><b>My Feelings For You - Radio Edit</b><br/><sub>Avicii, Sebastien Drums</sub></td><td><a href="https://open.spotify.com/track/3Yv9CEIOJjpw8tgKJhbOcc"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023b4f58e95e5598ecf6d90ed1" width="36" height="36" alt="album art"/></td><td><b>Get Down Saturday Night</b><br/><sub>Oliver Cheatham</sub></td><td><a href="https://open.spotify.com/track/1MvIzSyxQjMIIBKrkGpN3K"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
