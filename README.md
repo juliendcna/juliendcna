@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->12 Mar 2026, 20:41 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->13 Mar 2026, 20:41 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f80fe67d0f4293be5b8f5251" width="36" height="36" alt="album art"/></td><td><b>L'aventurier</b><br/><sub>Indochine</sub></td><td><a href="https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e027438996f6fe67c59d75d4e43" width="36" height="36" alt="album art"/></td><td><b>Gangsta's Paradise</b><br/><sub>Coolio, L.V.</sub></td><td><a href="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0280498b63e98960e2dbac41ea" width="36" height="36" alt="album art"/></td><td><b>Won’t Let You Go</b><br/><sub>Martin Garrix, Matisse & Sadko, John Martin</sub></td><td><a href="https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b9ce268630bea28fbd453651" width="36" height="36" alt="album art"/></td><td><b>No One</b><br/><sub>Alicia Keys</sub></td><td><a href="https://open.spotify.com/track/0mZ5GyrHG908lqrHaTw4hi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02395ee31df8ad9108f5775b1c" width="36" height="36" alt="album art"/></td><td><b>My Feelings For You - Radio Edit</b><br/><sub>Avicii, Sebastien Drums</sub></td><td><a href="https://open.spotify.com/track/3Yv9CEIOJjpw8tgKJhbOcc"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023b4f58e95e5598ecf6d90ed1" width="36" height="36" alt="album art"/></td><td><b>Get Down Saturday Night</b><br/><sub>Oliver Cheatham</sub></td><td><a href="https://open.spotify.com/track/1MvIzSyxQjMIIBKrkGpN3K"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
