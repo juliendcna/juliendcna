@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->14 Mar 2026, 20:35 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->15 Mar 2026, 20:36 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e2f9df5c00476154a4fbdfff" width="36" height="36" alt="album art"/></td><td><b>Omen</b><br/><sub>Disclosure, Sam Smith</sub></td><td><a href="https://open.spotify.com/track/4kuPeLqTPXDkPB2injreCw"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029234d656a24527d4fc27ec15" width="36" height="36" alt="album art"/></td><td><b>Love Me Again - Vice Remix</b><br/><sub>John Newman, Vice, Kemal Golden</sub></td><td><a href="https://open.spotify.com/track/2KEtbCU9LVC4u7Ah9suEuK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02786828906b330e1690816d3b" width="36" height="36" alt="album art"/></td><td><b>Waiting All Night (feat. Ella Eyre)</b><br/><sub>Rudimental, Ella Eyre</sub></td><td><a href="https://open.spotify.com/track/666elemQTQGi8xbjAAdIgB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0273c5fc4d116faaa53bae414d" width="36" height="36" alt="album art"/></td><td><b>Jubel</b><br/><sub>Klingande</sub></td><td><a href="https://open.spotify.com/track/6iMVaXDaA08ngSyANVuMp8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e022e472e400f8eeedab51f0df5" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/1m9pAngTAzDam2NG4NSWR3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02dcef905cb144d4867119850b" width="36" height="36" alt="album art"/></td><td><b>Thinking About You (feat. Ayah Marar)</b><br/><sub>Calvin Harris, Ayah Marar</sub></td><td><a href="https://open.spotify.com/track/1KtD0xaLAikgIt5tPbteZQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b" width="36" height="36" alt="album art"/></td><td><b>Latch</b><br/><sub>Disclosure, Sam Smith</sub></td><td><a href="https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b84e077bb3f2e36adbdeb6d4" width="36" height="36" alt="album art"/></td><td><b>Desire</b><br/><sub>Olly Alexander (Years & Years), Tove Lo</sub></td><td><a href="https://open.spotify.com/track/6TMzuNLw1ZPgBqPKmnnObm"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ae93736b94ab74a465021d5d" width="36" height="36" alt="album art"/></td><td><b>Say Say Say (feat. Paul McCartney & Michael Jackson)</b><br/><sub>Kygo, Paul McCartney, Michael Jackson</sub></td><td><a href="https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
