@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->15 Mar 2026, 20:36 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->16 Mar 2026, 20:44 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -138,7 +138,7 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174ab47d8dae2b24f5afe7f9d38" width="36" height="36" alt="artist"/></td><td><b>Imagine Dragons</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174655ca8f3196953554b479452" width="36" height="36" alt="artist"/></td><td><b>Flo Rida</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174ae07171f989fb39736674113" width="36" height="36" alt="artist"/></td><td><b>Avicii</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174f8349dfb619a7f842242de77" width="36" height="36" alt="artist"/></td><td><b>Maroon 5</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e2f9df5c00476154a4fbdfff" width="36" height="36" alt="album art"/></td><td><b>Omen</b><br/><sub>Disclosure, Sam Smith</sub></td><td><a href="https://open.spotify.com/track/4kuPeLqTPXDkPB2injreCw"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029234d656a24527d4fc27ec15" width="36" height="36" alt="album art"/></td><td><b>Love Me Again - Vice Remix</b><br/><sub>John Newman, Vice, Kemal Golden</sub></td><td><a href="https://open.spotify.com/track/2KEtbCU9LVC4u7Ah9suEuK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02786828906b330e1690816d3b" width="36" height="36" alt="album art"/></td><td><b>Waiting All Night (feat. Ella Eyre)</b><br/><sub>Rudimental, Ella Eyre</sub></td><td><a href="https://open.spotify.com/track/666elemQTQGi8xbjAAdIgB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0273c5fc4d116faaa53bae414d" width="36" height="36" alt="album art"/></td><td><b>Jubel</b><br/><sub>Klingande</sub></td><td><a href="https://open.spotify.com/track/6iMVaXDaA08ngSyANVuMp8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022e472e400f8eeedab51f0df5" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/1m9pAngTAzDam2NG4NSWR3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0273f63c217b6396b104848b14" width="36" height="36" alt="album art"/></td><td><b>Leave The World Behind - Radio Edit</b><br/><sub>Axwell, Sebastian Ingrosso, Steve Angello, Laidback Luke, Deborah Cox</sub></td><td><a href="https://open.spotify.com/track/25ZEYUgCJyf3gRxkqYbkIc"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bc468eb72512a5d0a7d47493" width="36" height="36" alt="album art"/></td><td><b>How You Feel (ft Leven Kali)</b><br/><sub>ANOTR, Leven Kali, Erik Bandt</sub></td><td><a href="https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026818aa231aa543cf87e1374a" width="36" height="36" alt="album art"/></td><td><b>Love$ick (feat. A$AP Rocky)</b><br/><sub>Mura Masa, A$AP Rocky</sub></td><td><a href="https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028a31195a371b2233456f6c07" width="36" height="36" alt="album art"/></td><td><b>Unforgettable</b><br/><sub>French Montana, Swae Lee</sub></td><td><a href="https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028d2cfad007b9431f48aef135" width="36" height="36" alt="album art"/></td><td><b>Roses</b><br/><sub>The Chainsmokers, ROZES</sub></td><td><a href="https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
