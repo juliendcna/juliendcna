@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->16 Mar 2026, 20:44 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->17 Mar 2026, 20:46 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021f940a29cda31a3da68d48fc" width="36" height="36" alt="album art"/></td><td><b>Magnets - A-Trak Remix</b><br/><sub>Disclosure, Lorde, A-Trak</sub></td><td><a href="https://open.spotify.com/track/2M0wZ9iOCsul9PgKCHnIWT"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021e81bff9807a9e629fce5ade" width="36" height="36" alt="album art"/></td><td><b>One More Time</b><br/><sub>Daft Punk</sub></td><td><a href="https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0273f63c217b6396b104848b14" width="36" height="36" alt="album art"/></td><td><b>Leave The World Behind - Radio Edit</b><br/><sub>Axwell, Sebastian Ingrosso, Steve Angello, Laidback Luke, Deborah Cox</sub></td><td><a href="https://open.spotify.com/track/25ZEYUgCJyf3gRxkqYbkIc"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bc468eb72512a5d0a7d47493" width="36" height="36" alt="album art"/></td><td><b>How You Feel (ft Leven Kali)</b><br/><sub>ANOTR, Leven Kali, Erik Bandt</sub></td><td><a href="https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e026818aa231aa543cf87e1374a" width="36" height="36" alt="album art"/></td><td><b>Love$ick (feat. A$AP Rocky)</b><br/><sub>Mura Masa, A$AP Rocky</sub></td><td><a href="https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028a31195a371b2233456f6c07" width="36" height="36" alt="album art"/></td><td><b>Unforgettable</b><br/><sub>French Montana, Swae Lee</sub></td><td><a href="https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028d2cfad007b9431f48aef135" width="36" height="36" alt="album art"/></td><td><b>Roses</b><br/><sub>The Chainsmokers, ROZES</sub></td><td><a href="https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
