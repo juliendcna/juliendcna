@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->18 Mar 2026, 20:44 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->19 Mar 2026, 20:44 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b11cfdc2ec9192e1df2e3690" width="36" height="36" alt="album art"/></td><td><b>Sun Don't Shine</b><br/><sub>Klangkarussell, Jaymes Young</sub></td><td><a href="https://open.spotify.com/track/1xU08ZbBCDmwZ4eghweS1c"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02af72d0856c5527dc97f3ea08" width="36" height="36" alt="album art"/></td><td><b>I Feel So Bad</b><br/><sub>Kungs, Ephemerals</sub></td><td><a href="https://open.spotify.com/track/6SqX9J8tXk7rXaspk7GWX1"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bd6f8ac82dc5fe1028c14f7d" width="36" height="36" alt="album art"/></td><td><b>Heaven Takes You Home (feat. Connie Constance)</b><br/><sub>Swedish House Mafia, Connie Constance</sub></td><td><a href="https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028ff7c3580d429c8212b9a3b6" width="36" height="36" alt="album art"/></td><td><b>Adventure of a Lifetime</b><br/><sub>Coldplay</sub></td><td><a href="https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0240ecb1490cd625b1a47f5a83" width="36" height="36" alt="album art"/></td><td><b>Reload - Radio Edit</b><br/><sub>Sebastian Ingrosso, Tommy Trash, John Martin</sub></td><td><a href="https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a50857440f7a945279955e00" width="36" height="36" alt="album art"/></td><td><b>Aparentemente</b><br/><sub>Yaga & Mackie, Arcangel, De La Ghetto</sub></td><td><a href="https://open.spotify.com/track/3AuZYCpYf82OirSYJXZRep"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b28f1e517df57f6339f08f8c" width="36" height="36" alt="album art"/></td><td><b>Sunshine (feat. Dan Harkna) - Radio Edit</b><br/><sub>TIEKS, Dan Harkna</sub></td><td><a href="https://open.spotify.com/track/3jbsz68DZXoqTlCz0n05xn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02dafd1cd6e9537ec8463ea691" width="36" height="36" alt="album art"/></td><td><b>Daddy Cool</b><br/><sub>Boney M.</sub></td><td><a href="https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022e472e400f8eeedab51f0df5" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/1m9pAngTAzDam2NG4NSWR3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027247979b8bc6027bf97043ef" width="36" height="36" alt="album art"/></td><td><b>Stole the Show</b><br/><sub>Kygo, Parson James</sub></td><td><a href="https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
