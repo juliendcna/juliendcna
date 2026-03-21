@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->20 Mar 2026, 20:39 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->21 Mar 2026, 20:33 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0204a5e9280739d24c9c127864" width="36" height="36" alt="album art"/></td><td><b>Buscando Money - Extended Mix</b><br/><sub>TWENTY SIX, Tayson Kryss</sub></td><td><a href="https://open.spotify.com/track/42hA5oerrhLaOdiZm2oGWk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02609a446e3a7cc255977f0520" width="36" height="36" alt="album art"/></td><td><b>Pa Lante</b><br/><sub>HUGEL, Ryan Arnold, El Chuape</sub></td><td><a href="https://open.spotify.com/track/2eIQvkQiHXSfX0GSRw29gA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ec3a327d9cf4acfb809b633c" width="36" height="36" alt="album art"/></td><td><b>Lose Control - Tiësto Extended Remix</b><br/><sub>Teddy Swims, Tiësto</sub></td><td><a href="https://open.spotify.com/track/2xsJAmqspGsVb2OK4tkBKS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028e04f4bd585437dc74b49ac0" width="36" height="36" alt="album art"/></td><td><b>Adicta a Ti</b><br/><sub>Juan Giron, JuanJo Martinez DJ, Dj Andres Galvis</sub></td><td><a href="https://open.spotify.com/track/3GCMKkdKXdGg61uR5O6LQn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a8561dc0a23613e09bcd763a" width="36" height="36" alt="album art"/></td><td><b>VAMO A DARLE (feat. Cosculluela)</b><br/><sub>Myke Towers, Cosculluela</sub></td><td><a href="https://open.spotify.com/track/7M0UiiYYmCoh3QIlwT4pme"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d8568f2d249e1de939de49c3" width="36" height="36" alt="album art"/></td><td><b>Tequila y Limon - Club Mix</b><br/><sub>JOHN ELLE, Elilluminari, KALMA, Rubens Vibes</sub></td><td><a href="https://open.spotify.com/track/0mIvXWzuinHZLZxAV1b4oR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028c19c36bf5aa2b2247d4fd25" width="36" height="36" alt="album art"/></td><td><b>It Feels So Good - Jamy Nox Remix</b><br/><sub>Matt Sassari, HUGEL, Sonique, Jamy Nox</sub></td><td><a href="https://open.spotify.com/track/4o1t8bOiuHwjijH2b0LrmA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a7f06c5a91287458c9df9ce4" width="36" height="36" alt="album art"/></td><td><b>Valerie</b><br/><sub>CASSIMM</sub></td><td><a href="https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029d871d0684b96efbe9c7713a" width="36" height="36" alt="album art"/></td><td><b>una noche con hugel</b><br/><sub>HUGEL, Alleh, Yorghaki</sub></td><td><a href="https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021a672c63fced17c8217dd2cc" width="36" height="36" alt="album art"/></td><td><b>Celular</b><br/><sub>Sistek</sub></td><td><a href="https://open.spotify.com/track/28Dw5KTUvyauj8RZnc8r2N"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
