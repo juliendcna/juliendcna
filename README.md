@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->21 Mar 2026, 20:33 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->22 Mar 2026, 20:34 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d8568f2d249e1de939de49c3" width="36" height="36" alt="album art"/></td><td><b>Tequila y Limon - Club Mix</b><br/><sub>JOHN ELLE, Elilluminari, KALMA, Rubens Vibes</sub></td><td><a href="https://open.spotify.com/track/0mIvXWzuinHZLZxAV1b4oR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028c19c36bf5aa2b2247d4fd25" width="36" height="36" alt="album art"/></td><td><b>It Feels So Good - Jamy Nox Remix</b><br/><sub>Matt Sassari, HUGEL, Sonique, Jamy Nox</sub></td><td><a href="https://open.spotify.com/track/4o1t8bOiuHwjijH2b0LrmA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a7f06c5a91287458c9df9ce4" width="36" height="36" alt="album art"/></td><td><b>Valerie</b><br/><sub>CASSIMM</sub></td><td><a href="https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029d871d0684b96efbe9c7713a" width="36" height="36" alt="album art"/></td><td><b>una noche con hugel</b><br/><sub>HUGEL, Alleh, Yorghaki</sub></td><td><a href="https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021a672c63fced17c8217dd2cc" width="36" height="36" alt="album art"/></td><td><b>Celular</b><br/><sub>Sistek</sub></td><td><a href="https://open.spotify.com/track/28Dw5KTUvyauj8RZnc8r2N"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42" width="36" height="36" alt="album art"/></td><td><b>The Real Slim Shady</b><br/><sub>Eminem</sub></td><td><a href="https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02cfcd3807ee80780b3394e22f" width="36" height="36" alt="album art"/></td><td><b>No Beef (feat. Miss Palmer) - Vocal Mix</b><br/><sub>AFROJACK, Steve Aoki, Miss Palmer</sub></td><td><a href="https://open.spotify.com/track/1CZyEpQeKPWp9Eeq4ppzyR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0232c09e0d1223de1b2c49e5e3" width="36" height="36" alt="album art"/></td><td><b>CAFé CON RON</b><br/><sub>Mareels</sub></td><td><a href="https://open.spotify.com/track/4mj0rWZkEupbbMer23YrBL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e0c595c1a9a2f98535072fdd" width="36" height="36" alt="album art"/></td><td><b>Move Ya Body</b><br/><sub>Nina Sky, Jabba</sub></td><td><a href="https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a8b9f97b9ea065b9a857e93f" width="36" height="36" alt="album art"/></td><td><b>Dilemma</b><br/><sub>Nelly, Kelly Rowland</sub></td><td><a href="https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
