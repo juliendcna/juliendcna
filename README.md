@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->22 Mar 2026, 20:34 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->23 Mar 2026, 20:41 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -118,11 +118,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02db79155640e788e18d6bbef3" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5" width="36" height="36" alt="album art"/></td><td><b>That's What I Like</b><br/><sub>Bruno Mars</sub></td><td><a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70" width="36" height="36" alt="album art"/></td><td><b>Under the Bridge</b><br/><sub>Red Hot Chili Peppers</sub></td><td><a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0263d77f99117b28af9f656918" width="36" height="36" alt="album art"/></td><td><b>I Don’t Wanna Live Forever (Fifty Shades Darker)</b><br/><sub>ZAYN, Taylor Swift</sub></td><td><a href="https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0231548865f7c729290b96c794" width="36" height="36" alt="album art"/></td><td><b>What's My Name?</b><br/><sub>Rihanna, Drake</sub></td><td><a href="https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0289bf0e789f596ceef5b5418b" width="36" height="36" alt="album art"/></td><td><b>3SEX</b><br/><sub>Indochine, Christine and the Queens</sub></td><td><a href="https://open.spotify.com/track/7tbbz1bDAW8T9cmhTPZPTQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42" width="36" height="36" alt="album art"/></td><td><b>The Real Slim Shady</b><br/><sub>Eminem</sub></td><td><a href="https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02cfcd3807ee80780b3394e22f" width="36" height="36" alt="album art"/></td><td><b>No Beef (feat. Miss Palmer) - Vocal Mix</b><br/><sub>AFROJACK, Steve Aoki, Miss Palmer</sub></td><td><a href="https://open.spotify.com/track/1CZyEpQeKPWp9Eeq4ppzyR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0232c09e0d1223de1b2c49e5e3" width="36" height="36" alt="album art"/></td><td><b>CAFé CON RON</b><br/><sub>Mareels</sub></td><td><a href="https://open.spotify.com/track/4mj0rWZkEupbbMer23YrBL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e0c595c1a9a2f98535072fdd" width="36" height="36" alt="album art"/></td><td><b>Move Ya Body</b><br/><sub>Nina Sky, Jabba</sub></td><td><a href="https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a8b9f97b9ea065b9a857e93f" width="36" height="36" alt="album art"/></td><td><b>Dilemma</b><br/><sub>Nelly, Kelly Rowland</sub></td><td><a href="https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fa2f15550438b7e71404ea84" width="36" height="36" alt="album art"/></td><td><b>Waves - :DARREN Remix</b><br/><sub>Mr. Probz, :DARREN</sub></td><td><a href="https://open.spotify.com/track/3o4evb4nIjAthxMify0LrF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0295173b2e80f31c4ffda92fed" width="36" height="36" alt="album art"/></td><td><b>Call My Name</b><br/><sub>BLOND:ISH</sub></td><td><a href="https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b551a40379830d2cad6a0877" width="36" height="36" alt="album art"/></td><td><b>Koala - Radio Edit</b><br/><sub>Oliver Heldens</sub></td><td><a href="https://open.spotify.com/track/2LsKvF1f5PVm18UZgQrwml"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026901b4f4490faaf121cfb64c" width="36" height="36" alt="album art"/></td><td><b>The Weekend - Radio Edit</b><br/><sub>Michael Gray</sub></td><td><a href="https://open.spotify.com/track/6KzkqZqhUBEsWYJJa2aBOd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02af5e185b80d374b0c6beb10f" width="36" height="36" alt="album art"/></td><td><b>Body</b><br/><sub>Loud Luxury, Brando</sub></td><td><a href="https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
