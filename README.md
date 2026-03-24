@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->23 Mar 2026, 20:41 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->24 Mar 2026, 20:49 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fa2f15550438b7e71404ea84" width="36" height="36" alt="album art"/></td><td><b>Waves - :DARREN Remix</b><br/><sub>Mr. Probz, :DARREN</sub></td><td><a href="https://open.spotify.com/track/3o4evb4nIjAthxMify0LrF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0295173b2e80f31c4ffda92fed" width="36" height="36" alt="album art"/></td><td><b>Call My Name</b><br/><sub>BLOND:ISH</sub></td><td><a href="https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b551a40379830d2cad6a0877" width="36" height="36" alt="album art"/></td><td><b>Koala - Radio Edit</b><br/><sub>Oliver Heldens</sub></td><td><a href="https://open.spotify.com/track/2LsKvF1f5PVm18UZgQrwml"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026901b4f4490faaf121cfb64c" width="36" height="36" alt="album art"/></td><td><b>The Weekend - Radio Edit</b><br/><sub>Michael Gray</sub></td><td><a href="https://open.spotify.com/track/6KzkqZqhUBEsWYJJa2aBOd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02af5e185b80d374b0c6beb10f" width="36" height="36" alt="album art"/></td><td><b>Body</b><br/><sub>Loud Luxury, Brando</sub></td><td><a href="https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b84e077bb3f2e36adbdeb6d4" width="36" height="36" alt="album art"/></td><td><b>Desire</b><br/><sub>Olly Alexander (Years & Years), Tove Lo</sub></td><td><a href="https://open.spotify.com/track/6TMzuNLw1ZPgBqPKmnnObm"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ffb343926530168be4724dd4" width="36" height="36" alt="album art"/></td><td><b>Levels - Radio Edit</b><br/><sub>Avicii</sub></td><td><a href="https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02254d9a590f345309e209b558" width="36" height="36" alt="album art"/></td><td><b>Nobody To Love - Radio Edit</b><br/><sub>Sigma</sub></td><td><a href="https://open.spotify.com/track/2jsmSLoX8y0h6k4YzDCFH1"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c1259f3f26c4616545400008" width="36" height="36" alt="album art"/></td><td><b>Deeper (Rudimental Remix)</b><br/><sub>Disclosure, Leon Thomas, Rudimental</sub></td><td><a href="https://open.spotify.com/track/6DGn66J00q9XTO83y0g6wV"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021468dc3911c9abea1dcf9676" width="36" height="36" alt="album art"/></td><td><b>Feel the Love (feat. John Newman)</b><br/><sub>Rudimental, John Newman</sub></td><td><a href="https://open.spotify.com/track/0k73nWaD6RPx2sHFEkGPcn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
