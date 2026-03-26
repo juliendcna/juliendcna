@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->25 Mar 2026, 20:45 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->26 Mar 2026, 20:40 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -134,9 +134,9 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174ab47d8dae2b24f5afe7f9d38" width="36" height="36" alt="artist"/></td><td><b>Imagine Dragons</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174ae07171f989fb39736674113" width="36" height="36" alt="artist"/></td><td><b>Avicii</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174655ca8f3196953554b479452" width="36" height="36" alt="artist"/></td><td><b>Flo Rida</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b84e077bb3f2e36adbdeb6d4" width="36" height="36" alt="album art"/></td><td><b>Desire</b><br/><sub>Olly Alexander (Years & Years), Tove Lo</sub></td><td><a href="https://open.spotify.com/track/6TMzuNLw1ZPgBqPKmnnObm"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ffb343926530168be4724dd4" width="36" height="36" alt="album art"/></td><td><b>Levels - Radio Edit</b><br/><sub>Avicii</sub></td><td><a href="https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02254d9a590f345309e209b558" width="36" height="36" alt="album art"/></td><td><b>Nobody To Love - Radio Edit</b><br/><sub>Sigma</sub></td><td><a href="https://open.spotify.com/track/2jsmSLoX8y0h6k4YzDCFH1"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c1259f3f26c4616545400008" width="36" height="36" alt="album art"/></td><td><b>Deeper (Rudimental Remix)</b><br/><sub>Disclosure, Leon Thomas, Rudimental</sub></td><td><a href="https://open.spotify.com/track/6DGn66J00q9XTO83y0g6wV"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021468dc3911c9abea1dcf9676" width="36" height="36" alt="album art"/></td><td><b>Feel the Love (feat. John Newman)</b><br/><sub>Rudimental, John Newman</sub></td><td><a href="https://open.spotify.com/track/0k73nWaD6RPx2sHFEkGPcn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023dc1ad51381cfbb9800bced8" width="36" height="36" alt="album art"/></td><td><b>Rumour Mill (feat. Anne-Marie & Will Heard)</b><br/><sub>Rudimental, Anne-Marie, Will Heard</sub></td><td><a href="https://open.spotify.com/track/6vV9NyQIsWMQ08KOWMSp3a"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027418a5d71e4614d3f45afb8a" width="36" height="36" alt="album art"/></td><td><b>Rave Out</b><br/><sub>Turno, Skepsis, Charlotte Plank</sub></td><td><a href="https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c078542bc49206109e6e730b" width="36" height="36" alt="album art"/></td><td><b>Show Me Love - EDX Remix / Radio Edit</b><br/><sub>Sam Feldt, Kimberly Anne, EDX</sub></td><td><a href="https://open.spotify.com/track/4bAmAVdks2Y84VNVVLXFwN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0294f7ca697c46710bf077ec92" width="36" height="36" alt="album art"/></td><td><b>WANT NEED LOVE - Dimension Remix</b><br/><sub>Prospa, Dimension</sub></td><td><a href="https://open.spotify.com/track/1IHOCU7v322k1TPovsbInD"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b574d4c9929a31926d5faf1b" width="36" height="36" alt="album art"/></td><td><b>Peanut Butter Jelly</b><br/><sub>Galantis</sub></td><td><a href="https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
