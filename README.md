@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->26 Mar 2026, 20:40 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->27 Mar 2026, 20:46 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -120,9 +120,9 @@
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02db79155640e788e18d6bbef3" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5" width="36" height="36" alt="album art"/></td><td><b>That's What I Like</b><br/><sub>Bruno Mars</sub></td><td><a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0263d77f99117b28af9f656918" width="36" height="36" alt="album art"/></td><td><b>I Don’t Wanna Live Forever (Fifty Shades Darker)</b><br/><sub>ZAYN, Taylor Swift</sub></td><td><a href="https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0231548865f7c729290b96c794" width="36" height="36" alt="album art"/></td><td><b>What's My Name?</b><br/><sub>Rihanna, Drake</sub></td><td><a href="https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0289bf0e789f596ceef5b5418b" width="36" height="36" alt="album art"/></td><td><b>3SEX</b><br/><sub>Indochine, Christine and the Queens</sub></td><td><a href="https://open.spotify.com/track/7tbbz1bDAW8T9cmhTPZPTQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0257fc4730e06c9ab20c1e073b" width="36" height="36" alt="album art"/></td><td><b>Take Ü There (feat. Kiesza)</b><br/><sub>Jack Ü, Skrillex, Diplo, Kiesza</sub></td><td><a href="https://open.spotify.com/track/2RpKh7kXSdO8NLrW9VQ46p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02de09e02aa7febf30b7c02d82" width="36" height="36" alt="album art"/></td><td><b>Clocks</b><br/><sub>Coldplay</sub></td><td><a href="https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023dc1ad51381cfbb9800bced8" width="36" height="36" alt="album art"/></td><td><b>Rumour Mill (feat. Anne-Marie & Will Heard)</b><br/><sub>Rudimental, Anne-Marie, Will Heard</sub></td><td><a href="https://open.spotify.com/track/6vV9NyQIsWMQ08KOWMSp3a"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027418a5d71e4614d3f45afb8a" width="36" height="36" alt="album art"/></td><td><b>Rave Out</b><br/><sub>Turno, Skepsis, Charlotte Plank</sub></td><td><a href="https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c078542bc49206109e6e730b" width="36" height="36" alt="album art"/></td><td><b>Show Me Love - EDX Remix / Radio Edit</b><br/><sub>Sam Feldt, Kimberly Anne, EDX</sub></td><td><a href="https://open.spotify.com/track/4bAmAVdks2Y84VNVVLXFwN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0294f7ca697c46710bf077ec92" width="36" height="36" alt="album art"/></td><td><b>WANT NEED LOVE - Dimension Remix</b><br/><sub>Prospa, Dimension</sub></td><td><a href="https://open.spotify.com/track/1IHOCU7v322k1TPovsbInD"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b574d4c9929a31926d5faf1b" width="36" height="36" alt="album art"/></td><td><b>Peanut Butter Jelly</b><br/><sub>Galantis</sub></td><td><a href="https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028a5d95673779f651b3557391" width="36" height="36" alt="album art"/></td><td><b>Look Right Through - MK Vocal Edit</b><br/><sub>Storm Queen, MK</sub></td><td><a href="https://open.spotify.com/track/4lpmPsw2NIkfyL0NWDA3PN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027b96e12630832b12cf636341" width="36" height="36" alt="album art"/></td><td><b>Drowning Mind</b><br/><sub>goddard., Billy Lockett</sub></td><td><a href="https://open.spotify.com/track/2FD8e8lJgul2phNSMlOHDM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ff86507cb1a9c7645a330314" width="36" height="36" alt="album art"/></td><td><b>Blessings</b><br/><sub>Calvin Harris, Clementine Douglas</sub></td><td><a href="https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0231ed6460c3b1b81e0df5b293" width="36" height="36" alt="album art"/></td><td><b>Alibi (feat. Rudimental)</b><br/><sub>Ella Henderson, Rudimental</sub></td><td><a href="https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0216a5ae6eb56b2721ae48aa34" width="36" height="36" alt="album art"/></td><td><b>These Days (feat. Jess Glynne, Macklemore & Dan Caplen)</b><br/><sub>Rudimental, Jess Glynne, Macklemore, Dan Caplen</sub></td><td><a href="https://open.spotify.com/track/20ZP3Om9DvDazXrNUC7WM2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
