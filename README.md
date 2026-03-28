@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->27 Mar 2026, 20:46 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->28 Mar 2026, 20:37 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -122,7 +122,7 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5" width="36" height="36" alt="album art"/></td><td><b>That's What I Like</b><br/><sub>Bruno Mars</sub></td><td><a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0289bf0e789f596ceef5b5418b" width="36" height="36" alt="album art"/></td><td><b>3SEX</b><br/><sub>Indochine, Christine and the Queens</sub></td><td><a href="https://open.spotify.com/track/7tbbz1bDAW8T9cmhTPZPTQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0257fc4730e06c9ab20c1e073b" width="36" height="36" alt="album art"/></td><td><b>Take Ü There (feat. Kiesza)</b><br/><sub>Jack Ü, Skrillex, Diplo, Kiesza</sub></td><td><a href="https://open.spotify.com/track/2RpKh7kXSdO8NLrW9VQ46p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02de09e02aa7febf30b7c02d82" width="36" height="36" alt="album art"/></td><td><b>Clocks</b><br/><sub>Coldplay</sub></td><td><a href="https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02daec124ccc68ab287ca44a7f" width="36" height="36" alt="album art"/></td><td><b>Jubel</b><br/><sub>Klingande</sub></td><td><a href="https://open.spotify.com/track/6atPq2Ddqi9itmoZHb5Vsi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -137,8 +137,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174ab47d8dae2b24f5afe7f9d38" width="36" height="36" alt="artist"/></td><td><b>Imagine Dragons</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051740b084ede947f009beade9a6a" width="36" height="36" alt="artist"/></td><td><b>Disclosure</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174ae07171f989fb39736674113" width="36" height="36" alt="artist"/></td><td><b>Avicii</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174655ca8f3196953554b479452" width="36" height="36" alt="artist"/></td><td><b>Flo Rida</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028a5d95673779f651b3557391" width="36" height="36" alt="album art"/></td><td><b>Look Right Through - MK Vocal Edit</b><br/><sub>Storm Queen, MK</sub></td><td><a href="https://open.spotify.com/track/4lpmPsw2NIkfyL0NWDA3PN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027b96e12630832b12cf636341" width="36" height="36" alt="album art"/></td><td><b>Drowning Mind</b><br/><sub>goddard., Billy Lockett</sub></td><td><a href="https://open.spotify.com/track/2FD8e8lJgul2phNSMlOHDM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ff86507cb1a9c7645a330314" width="36" height="36" alt="album art"/></td><td><b>Blessings</b><br/><sub>Calvin Harris, Clementine Douglas</sub></td><td><a href="https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0231ed6460c3b1b81e0df5b293" width="36" height="36" alt="album art"/></td><td><b>Alibi (feat. Rudimental)</b><br/><sub>Ella Henderson, Rudimental</sub></td><td><a href="https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0216a5ae6eb56b2721ae48aa34" width="36" height="36" alt="album art"/></td><td><b>These Days (feat. Jess Glynne, Macklemore & Dan Caplen)</b><br/><sub>Rudimental, Jess Glynne, Macklemore, Dan Caplen</sub></td><td><a href="https://open.spotify.com/track/20ZP3Om9DvDazXrNUC7WM2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bc468eb72512a5d0a7d47493" width="36" height="36" alt="album art"/></td><td><b>How You Feel (ft Leven Kali)</b><br/><sub>ANOTR, Leven Kali, Erik Bandt</sub></td><td><a href="https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024f332d9ab547a524bb777e82" width="36" height="36" alt="album art"/></td><td><b>Sweet Disposition - Bootleg</b><br/><sub>The Temper Trap, Youngr</sub></td><td><a href="https://open.spotify.com/track/03eTALTNimKSmi5xx018li"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023359e53cfd93f063f8c00d8d" width="36" height="36" alt="album art"/></td><td><b>Finder</b><br/><sub>Ninetoes</sub></td><td><a href="https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0275d5d9084ef075899f0285a6" width="36" height="36" alt="album art"/></td><td><b>Innerbloom - Radio Edit</b><br/><sub>RÜFÜS DU SOL</sub></td><td><a href="https://open.spotify.com/track/233AL29SR6QWnD7hu7ylbf"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0220062cf8da0f580e9118b487" width="36" height="36" alt="album art"/></td><td><b>Waves - Robin Schulz Radio Edit</b><br/><sub>Mr. Probz, Robin Schulz</sub></td><td><a href="https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
