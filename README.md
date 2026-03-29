@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->28 Mar 2026, 20:37 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->29 Mar 2026, 20:39 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -120,9 +120,9 @@
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02db79155640e788e18d6bbef3" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5" width="36" height="36" alt="album art"/></td><td><b>That's What I Like</b><br/><sub>Bruno Mars</sub></td><td><a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026e1de92c4b09fd4cff8f4adc" width="36" height="36" alt="album art"/></td><td><b>Be Where I Am (feat. Daniel Wilson)</b><br/><sub>Metroplane, Daniel Wilson</sub></td><td><a href="https://open.spotify.com/track/5TpjOWJzpRz2AwcPEdrpLz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0289bf0e789f596ceef5b5418b" width="36" height="36" alt="album art"/></td><td><b>3SEX</b><br/><sub>Indochine, Christine and the Queens</sub></td><td><a href="https://open.spotify.com/track/7tbbz1bDAW8T9cmhTPZPTQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0257fc4730e06c9ab20c1e073b" width="36" height="36" alt="album art"/></td><td><b>Take Ü There (feat. Kiesza)</b><br/><sub>Jack Ü, Skrillex, Diplo, Kiesza</sub></td><td><a href="https://open.spotify.com/track/2RpKh7kXSdO8NLrW9VQ46p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02daec124ccc68ab287ca44a7f" width="36" height="36" alt="album art"/></td><td><b>Jubel</b><br/><sub>Klingande</sub></td><td><a href="https://open.spotify.com/track/6atPq2Ddqi9itmoZHb5Vsi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bc468eb72512a5d0a7d47493" width="36" height="36" alt="album art"/></td><td><b>How You Feel (ft Leven Kali)</b><br/><sub>ANOTR, Leven Kali, Erik Bandt</sub></td><td><a href="https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024f332d9ab547a524bb777e82" width="36" height="36" alt="album art"/></td><td><b>Sweet Disposition - Bootleg</b><br/><sub>The Temper Trap, Youngr</sub></td><td><a href="https://open.spotify.com/track/03eTALTNimKSmi5xx018li"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023359e53cfd93f063f8c00d8d" width="36" height="36" alt="album art"/></td><td><b>Finder</b><br/><sub>Ninetoes</sub></td><td><a href="https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0275d5d9084ef075899f0285a6" width="36" height="36" alt="album art"/></td><td><b>Innerbloom - Radio Edit</b><br/><sub>RÜFÜS DU SOL</sub></td><td><a href="https://open.spotify.com/track/233AL29SR6QWnD7hu7ylbf"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0220062cf8da0f580e9118b487" width="36" height="36" alt="album art"/></td><td><b>Waves - Robin Schulz Radio Edit</b><br/><sub>Mr. Probz, Robin Schulz</sub></td><td><a href="https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029173e50e99bdea2400222f02" width="36" height="36" alt="album art"/></td><td><b>Ain't No Mountain High Enough</b><br/><sub>Marvin Gaye, Tammi Terrell</sub></td><td><a href="https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020afe71cef9e2f4db5ebfcc82" width="36" height="36" alt="album art"/></td><td><b>Fresh</b><br/><sub>Kool & The Gang</sub></td><td><a href="https://open.spotify.com/track/1mMYaXpT65iZDtvfRA9EkE"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c61fd7cba6914924fea49ea9" width="36" height="36" alt="album art"/></td><td><b>Easy Lover</b><br/><sub>Philip Bailey, Phil Collins</sub></td><td><a href="https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028ccc17f29764d812062204a8" width="36" height="36" alt="album art"/></td><td><b>Bette Davis Eyes</b><br/><sub>Kim Carnes</sub></td><td><a href="https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0231d75f3f2e324241d58a6e7b" width="36" height="36" alt="album art"/></td><td><b>Forget Me Nots - Remastered</b><br/><sub>Patrice Rushen</sub></td><td><a href="https://open.spotify.com/track/4UQH52FfgGpzDShKDbBvEA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
