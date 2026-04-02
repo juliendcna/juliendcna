@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->01 Apr 2026, 20:52 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->02 Apr 2026, 20:40 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -135,8 +135,8 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174ab47d8dae2b24f5afe7f9d38" width="36" height="36" alt="artist"/></td><td><b>Imagine Dragons</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174ab47d8dae2b24f5afe7f9d38" width="36" height="36" alt="artist"/></td><td><b>Imagine Dragons</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740b084ede947f009beade9a6a" width="36" height="36" alt="artist"/></td><td><b>Disclosure</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174ae07171f989fb39736674113" width="36" height="36" alt="artist"/></td><td><b>Avicii</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020b28f02c24b7dc72e61e7a07" width="36" height="36" alt="album art"/></td><td><b>Send Me on My Way</b><br/><sub>Rusted Root</sub></td><td><a href="https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411" width="36" height="36" alt="album art"/></td><td><b>NUEVAYoL</b><br/><sub>Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bcc8cce0e2fa4f6e990fea63" width="36" height="36" alt="album art"/></td><td><b>Groovejet (If This Ain't Love)</b><br/><sub>Spiller, Sophie Ellis-Bextor</sub></td><td><a href="https://open.spotify.com/track/1o2QXBJvkXTgDDM6EvjU9I"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e029173e50e99bdea2400222f02" width="36" height="36" alt="album art"/></td><td><b>Ain't No Mountain High Enough</b><br/><sub>Marvin Gaye, Tammi Terrell</sub></td><td><a href="https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e020afe71cef9e2f4db5ebfcc82" width="36" height="36" alt="album art"/></td><td><b>Fresh</b><br/><sub>Kool & The Gang</sub></td><td><a href="https://open.spotify.com/track/1mMYaXpT65iZDtvfRA9EkE"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c61fd7cba6914924fea49ea9" width="36" height="36" alt="album art"/></td><td><b>Easy Lover</b><br/><sub>Philip Bailey, Phil Collins</sub></td><td><a href="https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
