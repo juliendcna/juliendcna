@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->02 Apr 2026, 20:40 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->03 Apr 2026, 20:42 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0221286878af360fe38ad2b60d" width="36" height="36" alt="album art"/></td><td><b>Body - Dirtcaps Remix</b><br/><sub>Loud Luxury, Brando, Dirtcaps</sub></td><td><a href="https://open.spotify.com/track/7K6FtlfyFi5VCiCw6NA8Ij"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e020b28f02c24b7dc72e61e7a07" width="36" height="36" alt="album art"/></td><td><b>Send Me on My Way</b><br/><sub>Rusted Root</sub></td><td><a href="https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411" width="36" height="36" alt="album art"/></td><td><b>NUEVAYoL</b><br/><sub>Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bcc8cce0e2fa4f6e990fea63" width="36" height="36" alt="album art"/></td><td><b>Groovejet (If This Ain't Love)</b><br/><sub>Spiller, Sophie Ellis-Bextor</sub></td><td><a href="https://open.spotify.com/track/1o2QXBJvkXTgDDM6EvjU9I"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e029173e50e99bdea2400222f02" width="36" height="36" alt="album art"/></td><td><b>Ain't No Mountain High Enough</b><br/><sub>Marvin Gaye, Tammi Terrell</sub></td><td><a href="https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020afe71cef9e2f4db5ebfcc82" width="36" height="36" alt="album art"/></td><td><b>Fresh</b><br/><sub>Kool & The Gang</sub></td><td><a href="https://open.spotify.com/track/1mMYaXpT65iZDtvfRA9EkE"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
