@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->03 Apr 2026, 20:42 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->04 Apr 2026, 20:38 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0221286878af360fe38ad2b60d" width="36" height="36" alt="album art"/></td><td><b>Body - Dirtcaps Remix</b><br/><sub>Loud Luxury, Brando, Dirtcaps</sub></td><td><a href="https://open.spotify.com/track/7K6FtlfyFi5VCiCw6NA8Ij"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020b28f02c24b7dc72e61e7a07" width="36" height="36" alt="album art"/></td><td><b>Send Me on My Way</b><br/><sub>Rusted Root</sub></td><td><a href="https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411" width="36" height="36" alt="album art"/></td><td><b>NUEVAYoL</b><br/><sub>Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bcc8cce0e2fa4f6e990fea63" width="36" height="36" alt="album art"/></td><td><b>Groovejet (If This Ain't Love)</b><br/><sub>Spiller, Sophie Ellis-Bextor</sub></td><td><a href="https://open.spotify.com/track/1o2QXBJvkXTgDDM6EvjU9I"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029173e50e99bdea2400222f02" width="36" height="36" alt="album art"/></td><td><b>Ain't No Mountain High Enough</b><br/><sub>Marvin Gaye, Tammi Terrell</sub></td><td><a href="https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02cc465e4724f5dc13228191d2" width="36" height="36" alt="album art"/></td><td><b>Feelin' Good - Edit</b><br/><sub>Chambray, Laurent Garnier</sub></td><td><a href="https://open.spotify.com/track/7crxOiKNyPIb2rkCkCWlH7"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025066d151ec99769ff560fcbf" width="36" height="36" alt="album art"/></td><td><b>Livin' 4 Ya (feat. Katt Niall)</b><br/><sub>MOTi, Katt Niall</sub></td><td><a href="https://open.spotify.com/track/42DsNAYP3JAqzhjUJ3ohPm"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0229fd710b60895a3cc125171d" width="36" height="36" alt="album art"/></td><td><b>Fonsdé toute la night</b><br/><sub>Lorenzo</sub></td><td><a href="https://open.spotify.com/track/3Pa032KwuumGYM2jx5nS81"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ba98cc1a536b19f54fbf66a3" width="36" height="36" alt="album art"/></td><td><b>La Colegiala (feat. Jody Bernal)</b><br/><sub>The Boy Next Door, Fresh Coast, Jody Bernal</sub></td><td><a href="https://open.spotify.com/track/3rvmJ3Z2zWzKQUTQSntZU0"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029c3e368d0f0c43578ec7d0d4" width="36" height="36" alt="album art"/></td><td><b>I Got U - Radio Edit</b><br/><sub>Duke Dumont, Jax Jones</sub></td><td><a href="https://open.spotify.com/track/7zT1g7FxLVIZKwrw41jBci"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
