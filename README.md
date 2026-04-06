@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Apr 2026, 20:39 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->06 Apr 2026, 20:41 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -119,10 +119,10 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02db79155640e788e18d6bbef3" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026e1de92c4b09fd4cff8f4adc" width="36" height="36" alt="album art"/></td><td><b>Be Where I Am (feat. Daniel Wilson)</b><br/><sub>Metroplane, Daniel Wilson</sub></td><td><a href="https://open.spotify.com/track/5TpjOWJzpRz2AwcPEdrpLz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0257fc4730e06c9ab20c1e073b" width="36" height="36" alt="album art"/></td><td><b>Take Ü There (feat. Kiesza)</b><br/><sub>Jack Ü, Skrillex, Diplo, Kiesza</sub></td><td><a href="https://open.spotify.com/track/2RpKh7kXSdO8NLrW9VQ46p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5" width="36" height="36" alt="album art"/></td><td><b>That's What I Like</b><br/><sub>Bruno Mars</sub></td><td><a href="https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0289bf0e789f596ceef5b5418b" width="36" height="36" alt="album art"/></td><td><b>3SEX</b><br/><sub>Indochine, Christine and the Queens</sub></td><td><a href="https://open.spotify.com/track/7tbbz1bDAW8T9cmhTPZPTQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026e1de92c4b09fd4cff8f4adc" width="36" height="36" alt="album art"/></td><td><b>Be Where I Am (feat. Daniel Wilson)</b><br/><sub>Metroplane, Daniel Wilson</sub></td><td><a href="https://open.spotify.com/track/5TpjOWJzpRz2AwcPEdrpLz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02daec124ccc68ab287ca44a7f" width="36" height="36" alt="album art"/></td><td><b>Jubel</b><br/><sub>Klingande</sub></td><td><a href="https://open.spotify.com/track/6atPq2Ddqi9itmoZHb5Vsi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b9ce268630bea28fbd453651" width="36" height="36" alt="album art"/></td><td><b>No One</b><br/><sub>Alicia Keys</sub></td><td><a href="https://open.spotify.com/track/0mZ5GyrHG908lqrHaTw4hi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -135,10 +135,10 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174ab47d8dae2b24f5afe7f9d38" width="36" height="36" alt="artist"/></td><td><b>Imagine Dragons</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740b084ede947f009beade9a6a" width="36" height="36" alt="artist"/></td><td><b>Disclosure</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174ae07171f989fb39736674113" width="36" height="36" alt="artist"/></td><td><b>Avicii</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051746725802588d7dc1aba076ca5" width="36" height="36" alt="artist"/></td><td><b>Ariana Grande</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0253596a050e8369c51da11029" width="36" height="36" alt="album art"/></td><td><b>capaz (merengueton)</b><br/><sub>Alleh, Yorghaki</sub></td><td><a href="https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02922a7339d969b5f0262580f5" width="36" height="36" alt="album art"/></td><td><b>UN DIA (ONE DAY)</b><br/><sub>J Balvin, Dua Lipa, Bad Bunny, Tainy</sub></td><td><a href="https://open.spotify.com/track/66x45Yh9x397PWpxMX0ZDT"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024603462dd193f76ab1f98218" width="36" height="36" alt="album art"/></td><td><b>Mónaco</b><br/><sub>LAGOS, Danny Ocean</sub></td><td><a href="https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027a8bca543021b9502f0fb531" width="36" height="36" alt="album art"/></td><td><b>All This</b><br/><sub>Jay Pryor</sub></td><td><a href="https://open.spotify.com/track/0mOwE3mAiBEvIukVKBlMkI"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0220a2ae582934150e1fddaeda" width="36" height="36" alt="album art"/></td><td><b>Mirador</b><br/><sub>Kezah, Freddy Gladieux, Squeezie</sub></td><td><a href="https://open.spotify.com/track/4j5Bb0saeXmiz62XIZjcHj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02707fe4c159f0384c613dc4d2" width="36" height="36" alt="album art"/></td><td><b>Sleepwalking</b><br/><sub>The Chain Gang Of 1974</sub></td><td><a href="https://open.spotify.com/track/0j4mJiFv3L87bl9X5MPMsm"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0273860afa62c4332d4c4fa85f" width="36" height="36" alt="album art"/></td><td><b>You're On (feat. Kyan)</b><br/><sub>Madeon, Kyan</sub></td><td><a href="https://open.spotify.com/track/4PTPZeJlK1rYlYr6bf11hk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024ed674ab91bdc566534f9285" width="36" height="36" alt="album art"/></td><td><b>Apologize</b><br/><sub>Timbaland, OneRepublic</sub></td><td><a href="https://open.spotify.com/track/6q3zC9dDD4lUNk8nfUztXy"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e0d2093fa62ed8027f904377" width="36" height="36" alt="album art"/></td><td><b>Back for More (feat. Daecolm)</b><br/><sub>Feder, Daecolm</sub></td><td><a href="https://open.spotify.com/track/0dJhKHDhqu1QYWfMy54G3F"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
