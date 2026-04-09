@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->08 Apr 2026, 20:52 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->09 Apr 2026, 20:57 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -121,8 +121,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02db79155640e788e18d6bbef3" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02daec124ccc68ab287ca44a7f" width="36" height="36" alt="album art"/></td><td><b>Jubel</b><br/><sub>Klingande</sub></td><td><a href="https://open.spotify.com/track/6atPq2Ddqi9itmoZHb5Vsi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fd13588a958fbd23d5524e1b" width="36" height="36" alt="album art"/></td><td><b>Thunder</b><br/><sub>Gabry Ponte, LUM!X, Prezioso</sub></td><td><a href="https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ec51a7785bbafba42c0577ea" width="36" height="36" alt="album art"/></td><td><b>Disco Inferno</b><br/><sub>The Trammps</sub></td><td><a href="https://open.spotify.com/track/4NHLhoZgBkICm5LtTRXFAP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d2f81e79e4ed0319197816d7" width="36" height="36" alt="album art"/></td><td><b>Get Down Saturday Night</b><br/><sub>Oliver Cheatham</sub></td><td><a href="https://open.spotify.com/track/58bsVCyN73XiWPhxRmvZi3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026e1de92c4b09fd4cff8f4adc" width="36" height="36" alt="album art"/></td><td><b>Be Where I Am (feat. Daniel Wilson)</b><br/><sub>Metroplane, Daniel Wilson</sub></td><td><a href="https://open.spotify.com/track/5TpjOWJzpRz2AwcPEdrpLz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024dbdd4d3c69bec0d471fc479" width="36" height="36" alt="album art"/></td><td><b>Nevermind</b><br/><sub>Dennis Lloyd</sub></td><td><a href="https://open.spotify.com/track/63SevszngYpZOwf63o61K4"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024dbdd4d3c69bec0d471fc479" width="36" height="36" alt="album art"/></td><td><b>Nevermind</b><br/><sub>Dennis Lloyd</sub></td><td><a href="https://open.spotify.com/track/63SevszngYpZOwf63o61K4"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028daa8ac6367fc997c1873b9b" width="36" height="36" alt="album art"/></td><td><b>Promises (with Sam Smith)</b><br/><sub>Calvin Harris, Sam Smith</sub></td><td><a href="https://open.spotify.com/track/6auDCEMr5aHTNu4Kw9h5U6"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021cbdf6e04a64c34bbb5f62f5" width="36" height="36" alt="album art"/></td><td><b>Renaissance - Edit</b><br/><sub>Culture Shock</sub></td><td><a href="https://open.spotify.com/track/6pet6V7NvRBiYhT7I243Xi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c88f4342b96bc66c68381606" width="36" height="36" alt="album art"/></td><td><b>All I Know (with Khalid)</b><br/><sub>Rudimental, Khalid</sub></td><td><a href="https://open.spotify.com/track/4DdCH1WbRz8KacHVMdRfmt"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02cd7db85678ea7ba817771fe7" width="36" height="36" alt="album art"/></td><td><b>Disco Inferno - Edit</b><br/><sub>The Trammps</sub></td><td><a href="https://open.spotify.com/track/3GXo1eWlT2flv4x01l5OTu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021756c2022529aacfa98d2eb8" width="36" height="36" alt="album art"/></td><td><b>Leave The Door Open</b><br/><sub>Bruno Mars, Anderson .Paak, Silk Sonic</sub></td><td><a href="https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029e730d8fbd256885242f1e96" width="36" height="36" alt="album art"/></td><td><b>Break Free</b><br/><sub>Ariana Grande, Zedd</sub></td><td><a href="https://open.spotify.com/track/3rWbIR3rJIT0Rpu3iR9ZXg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022e472e400f8eeedab51f0df5" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/1m9pAngTAzDam2NG4NSWR3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040" width="36" height="36" alt="album art"/></td><td><b>The Wind Cries Mary</b><br/><sub>Jimi Hendrix</sub></td><td><a href="https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
