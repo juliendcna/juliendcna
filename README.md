@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->10 Apr 2026, 20:45 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->11 Apr 2026, 20:40 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -119,10 +119,10 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02db79155640e788e18d6bbef3" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023d032d3653955186330aab1b" width="36" height="36" alt="album art"/></td><td><b>Closer</b><br/><sub>Lemaitre, Jennie A.</sub></td><td><a href="https://open.spotify.com/track/3h5IIiL9vK5aR0DZO6jD7D"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f47caf7b48c39ddacef244be" width="36" height="36" alt="album art"/></td><td><b>Trampoline (with ZAYN)</b><br/><sub>SHAED, ZAYN</sub></td><td><a href="https://open.spotify.com/track/5UpI3vWoP90LFNct9GBHMe"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02daec124ccc68ab287ca44a7f" width="36" height="36" alt="album art"/></td><td><b>Jubel</b><br/><sub>Klingande</sub></td><td><a href="https://open.spotify.com/track/6atPq2Ddqi9itmoZHb5Vsi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fd13588a958fbd23d5524e1b" width="36" height="36" alt="album art"/></td><td><b>Thunder</b><br/><sub>Gabry Ponte, LUM!X, Prezioso</sub></td><td><a href="https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ec51a7785bbafba42c0577ea" width="36" height="36" alt="album art"/></td><td><b>Disco Inferno</b><br/><sub>The Trammps</sub></td><td><a href="https://open.spotify.com/track/4NHLhoZgBkICm5LtTRXFAP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026e1de92c4b09fd4cff8f4adc" width="36" height="36" alt="album art"/></td><td><b>Be Where I Am (feat. Daniel Wilson)</b><br/><sub>Metroplane, Daniel Wilson</sub></td><td><a href="https://open.spotify.com/track/5TpjOWJzpRz2AwcPEdrpLz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0251b4a23b47059a9aef703df6" width="36" height="36" alt="album art"/></td><td><b>I Love It (feat. Charli XCX)</b><br/><sub>Icona Pop, Charli xcx</sub></td><td><a href="https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -135,9 +135,9 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051740b084ede947f009beade9a6a" width="36" height="36" alt="artist"/></td><td><b>Disclosure</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051740b084ede947f009beade9a6a" width="36" height="36" alt="artist"/></td><td><b>Disclosure</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174e0de3617061247aa35ff7865" width="36" height="36" alt="artist"/></td><td><b>Oliver Heldens</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022dc5b802303ff19c62a346ab" width="36" height="36" alt="album art"/></td><td><b>For What It's Worth</b><br/><sub>Buffalo Springfield</sub></td><td><a href="https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029ddec2a9c771fcd96ca3fe1d" width="36" height="36" alt="album art"/></td><td><b>Destination Calabria - Radio Edit</b><br/><sub>Alex Gaudino, Crystal Waters</sub></td><td><a href="https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0215f897fbd2ce1c28abae76ae" width="36" height="36" alt="album art"/></td><td><b>Café Del Mar 2016 - Dimitri Vegas & Like Mike vs Klaas Radio Mix</b><br/><sub>MATTN, Futuristic Polar Bears, Roland Clark, Dimitri Vegas & Like Mike, Klaas</sub></td><td><a href="https://open.spotify.com/track/70myEX6NaDyDQGtBKz1Wds"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026500b68b5138f81d895654b5" width="36" height="36" alt="album art"/></td><td><b>Infinity 2008 - Klaas Vocal Edit</b><br/><sub>Guru Josh Project, Klaas</sub></td><td><a href="https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02300f214e7cf6b5cee9b9f164" width="36" height="36" alt="album art"/></td><td><b>Rapture - Avicii New Generation Radio Edit</b><br/><sub>Nadia Ali, Avicii</sub></td><td><a href="https://open.spotify.com/track/5Sr4SdwPmLhDuKMs8QviLe"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025921096535733d90092393b6" width="36" height="36" alt="album art"/></td><td><b>Hecha Pa' Mi</b><br/><sub>Boza</sub></td><td><a href="https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0283a5cf876497c823696748be" width="36" height="36" alt="album art"/></td><td><b>Fuera del mercado</b><br/><sub>Danny Ocean</sub></td><td><a href="https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72" width="36" height="36" alt="album art"/></td><td><b>Tarot</b><br/><sub>Bad Bunny, JHAYCO</sub></td><td><a href="https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024603462dd193f76ab1f98218" width="36" height="36" alt="album art"/></td><td><b>Mónaco</b><br/><sub>LAGOS, Danny Ocean</sub></td><td><a href="https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0273c5fc4d116faaa53bae414d" width="36" height="36" alt="album art"/></td><td><b>Jubel</b><br/><sub>Klingande</sub></td><td><a href="https://open.spotify.com/track/6iMVaXDaA08ngSyANVuMp8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
