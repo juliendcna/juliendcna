@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->14 Apr 2026, 21:00 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->15 Apr 2026, 20:57 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -119,10 +119,10 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02db79155640e788e18d6bbef3" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040" width="36" height="36" alt="album art"/></td><td><b>The Wind Cries Mary</b><br/><sub>Jimi Hendrix</sub></td><td><a href="https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0217e1907923e91181f38290ac" width="36" height="36" alt="album art"/></td><td><b>Sweet Home Alabama</b><br/><sub>Lynyrd Skynyrd</sub></td><td><a href="https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ec51a7785bbafba42c0577ea" width="36" height="36" alt="album art"/></td><td><b>Disco Inferno</b><br/><sub>The Trammps</sub></td><td><a href="https://open.spotify.com/track/4NHLhoZgBkICm5LtTRXFAP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0251b4a23b47059a9aef703df6" width="36" height="36" alt="album art"/></td><td><b>I Love It (feat. Charli XCX)</b><br/><sub>Icona Pop, Charli xcx</sub></td><td><a href="https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fd13588a958fbd23d5524e1b" width="36" height="36" alt="album art"/></td><td><b>Thunder</b><br/><sub>Gabry Ponte, LUM!X, Prezioso</sub></td><td><a href="https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023d032d3653955186330aab1b" width="36" height="36" alt="album art"/></td><td><b>Closer</b><br/><sub>Lemaitre, Jennie A.</sub></td><td><a href="https://open.spotify.com/track/3h5IIiL9vK5aR0DZO6jD7D"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e7639e45d5213cb381d337da" width="36" height="36" alt="album art"/></td><td><b>Or Noir</b><br/><sub>Kaaris</sub></td><td><a href="https://open.spotify.com/track/48vVLay0B0HdQ5SJbgBqLG"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -136,9 +136,9 @@
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174e0de3617061247aa35ff7865" width="36" height="36" alt="artist"/></td><td><b>Oliver Heldens</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517474cf50aa63068966ceebe8ff" width="36" height="36" alt="artist"/></td><td><b>D.O.D</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6761610000517490c8b988fa6e6b40e0d0bf81" width="36" height="36" alt="artist"/></td><td><b>Jimi Hendrix</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174e0de3617061247aa35ff7865" width="36" height="36" alt="artist"/></td><td><b>Oliver Heldens</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028c5b6f7dcdc5817dc5050b2a" width="36" height="36" alt="album art"/></td><td><b>Born to Run</b><br/><sub>Bruce Springsteen</sub></td><td><a href="https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024d55ba84324e0055be32087b" width="36" height="36" alt="album art"/></td><td><b>Yo te conozco :):</b><br/><sub>De La Rose</sub></td><td><a href="https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0241af3c4ff909a600fee44b70" width="36" height="36" alt="album art"/></td><td><b>UNA BABY EN SANTIAGO</b><br/><sub>Lil Naay</sub></td><td><a href="https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0233dba85c0860b77b79b9b12a" width="36" height="36" alt="album art"/></td><td><b>SANKA</b><br/><sub>Ryan Castro, Dongo</sub></td><td><a href="https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0290af5246adcaa93acb721c17" width="36" height="36" alt="album art"/></td><td><b>POR SI MAÑANA NO ESTOY</b><br/><sub>Omar Courtz</sub></td><td><a href="https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022e472e400f8eeedab51f0df5" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/1m9pAngTAzDam2NG4NSWR3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040" width="36" height="36" alt="album art"/></td><td><b>The Wind Cries Mary</b><br/><sub>Jimi Hendrix</sub></td><td><a href="https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040" width="36" height="36" alt="album art"/></td><td><b>The Wind Cries Mary</b><br/><sub>Jimi Hendrix</sub></td><td><a href="https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040" width="36" height="36" alt="album art"/></td><td><b>Hey Joe</b><br/><sub>Jimi Hendrix</sub></td><td><a href="https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02015c484a7aca592df1a77828" width="36" height="36" alt="album art"/></td><td><b>House of the Rising Sun</b><br/><sub>The Animals</sub></td><td><a href="https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
