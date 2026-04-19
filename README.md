@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->18 Apr 2026, 20:42 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->19 Apr 2026, 20:44 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022feb67a486bcf117e7fb15b0" width="36" height="36" alt="album art"/></td><td><b>no tiene sentido</b><br/><sub>Beéle</sub></td><td><a href="https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0250e39d9e088f6d86467aff15" width="36" height="36" alt="album art"/></td><td><b>Tonto</b><br/><sub>J Balvin, Ryan Castro, DJ Snake</sub></td><td><a href="https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0278ffed8b001052c020c4db18" width="36" height="36" alt="album art"/></td><td><b>Feel The Vibration</b><br/><sub>Kanine</sub></td><td><a href="https://open.spotify.com/track/3dcWKFefG4Otjdb6ykBVcY"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0273f4b15aef403faa71a2d94e" width="36" height="36" alt="album art"/></td><td><b>Bittersweet Goodbye</b><br/><sub>Issey Cross</sub></td><td><a href="https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e026d49385462316ae6b952be9b" width="36" height="36" alt="album art"/></td><td><b>Dawning</b><br/><sub>Monrroe, Emily Jones</sub></td><td><a href="https://open.spotify.com/track/4mEjAS47cEnesVH2oXLkTO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d67c3c9495718fce6ffc9a27" width="36" height="36" alt="album art"/></td><td><b>Solitude</b><br/><sub>Hybrid Minds, Alexa Harley</sub></td><td><a href="https://open.spotify.com/track/487Ump1JOYK3wSqB6KIOUd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/cd0dabcf9c627c40444081e09213a0017ebdf567" width="36" height="36" alt="album art"/></td><td><b>Getaway - Koven Remix</b><br/><sub>Tritonal, Angel Taylor, Koven</sub></td><td><a href="https://open.spotify.com/track/10EpXLXKHmNSVKvX7A5hg8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
