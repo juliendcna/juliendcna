@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->20 Apr 2026, 20:54 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->21 Apr 2026, 20:58 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -137,8 +137,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174e503b6dfac4d1e96bce46077" width="36" height="36" alt="artist"/></td><td><b>Sigma</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174e0de3617061247aa35ff7865" width="36" height="36" alt="artist"/></td><td><b>Oliver Heldens</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6761610000517490c8b988fa6e6b40e0d0bf81" width="36" height="36" alt="artist"/></td><td><b>Jimi Hendrix</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026c0294796e2ee5cf87a47b5f" width="36" height="36" alt="album art"/></td><td><b>Verano Rosa</b><br/><sub>KAROL G, Feid</sub></td><td><a href="https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e938517baf9bd13b8ba72455" width="36" height="36" alt="album art"/></td><td><b>ALGO TÚ</b><br/><sub>Shakira, Beéle</sub></td><td><a href="https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e642500777950f8f396f47b5" width="36" height="36" alt="album art"/></td><td><b>PANTI Y COLALE 2.0</b><br/><sub>El Alfa, De La Ghetto, Zion, DJ Chulo NYC, El Cherry Scom</sub></td><td><a href="https://open.spotify.com/track/11mDIi9MNeOXoeSqiYQnWI"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0290af5246adcaa93acb721c17" width="36" height="36" alt="album art"/></td><td><b>POR SI MAÑANA NO ESTOY</b><br/><sub>Omar Courtz</sub></td><td><a href="https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c57e047d70eeb2bc810bf3a6" width="36" height="36" alt="album art"/></td><td><b>ENTRÉGAME</b><br/><sub>Chino & Nacho, Chyno Miranda, Nacho, Danny Ocean</sub></td><td><a href="https://open.spotify.com/track/3rkzQE7dyRH6UlbFgoqbWf"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411" width="36" height="36" alt="album art"/></td><td><b>VOY A LLeVARTE PA PR</b><br/><sub>Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02caf82abb2338880577e472be" width="36" height="36" alt="album art"/></td><td><b>Loco Contigo (feat. J. Balvin & Tyga)</b><br/><sub>DJ Snake, J Balvin, Tyga</sub></td><td><a href="https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0285c9b560af459f57491d5246" width="36" height="36" alt="album art"/></td><td><b>DÓNDE</b><br/><sub>Kapo, Ryan Castro</sub></td><td><a href="https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fafb4022c8ca1c4498e10b19" width="36" height="36" alt="album art"/></td><td><b>La La La</b><br/><sub>Naughty Boy, Sam Smith</sub></td><td><a href="https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0250e39d9e088f6d86467aff15" width="36" height="36" alt="album art"/></td><td><b>Tonto</b><br/><sub>J Balvin, Ryan Castro, DJ Snake</sub></td><td><a href="https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
