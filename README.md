@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->21 Apr 2026, 20:58 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->22 Apr 2026, 21:01 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411" width="36" height="36" alt="album art"/></td><td><b>VOY A LLeVARTE PA PR</b><br/><sub>Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02caf82abb2338880577e472be" width="36" height="36" alt="album art"/></td><td><b>Loco Contigo (feat. J. Balvin & Tyga)</b><br/><sub>DJ Snake, J Balvin, Tyga</sub></td><td><a href="https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0285c9b560af459f57491d5246" width="36" height="36" alt="album art"/></td><td><b>DÓNDE</b><br/><sub>Kapo, Ryan Castro</sub></td><td><a href="https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fafb4022c8ca1c4498e10b19" width="36" height="36" alt="album art"/></td><td><b>La La La</b><br/><sub>Naughty Boy, Sam Smith</sub></td><td><a href="https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0250e39d9e088f6d86467aff15" width="36" height="36" alt="album art"/></td><td><b>Tonto</b><br/><sub>J Balvin, Ryan Castro, DJ Snake</sub></td><td><a href="https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021e9a057052d59004caf47e22" width="36" height="36" alt="album art"/></td><td><b>Dark Horse</b><br/><sub>Katy Perry, Juicy J</sub></td><td><a href="https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0202df2d642b572cf4f284a5c3" width="36" height="36" alt="album art"/></td><td><b>Don't Let Me Down</b><br/><sub>The Chainsmokers, Daya</sub></td><td><a href="https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021dba361996f5b70c1df2b4ee" width="36" height="36" alt="album art"/></td><td><b>Hurts Me</b><br/><sub>Tory Lanez, Trippie Redd, Yoko Gold</sub></td><td><a href="https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b5097b81179824803664aaaf" width="36" height="36" alt="album art"/></td><td><b>Save Your Tears (Remix) (with Ariana Grande) - Bonus Track</b><br/><sub>The Weeknd, Ariana Grande</sub></td><td><a href="https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02deae7d931928fc1543e70203" width="36" height="36" alt="album art"/></td><td><b>Cold (feat. Future)</b><br/><sub>Maroon 5, Future</sub></td><td><a href="https://open.spotify.com/track/2NlTOhsAamXOaZciOXbITb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
