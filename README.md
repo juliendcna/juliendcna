@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->23 Apr 2026, 20:57 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->24 Apr 2026, 20:55 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -137,8 +137,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d" width="36" height="36" alt="artist"/></td><td><b>J Balvin</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740dc44404c0cbb9311d9e192d" width="36" height="36" alt="artist"/></td><td><b>Blessd</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174e0de3617061247aa35ff7865" width="36" height="36" alt="artist"/></td><td><b>Oliver Heldens</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b961172ecb9063a778dea528" width="36" height="36" alt="album art"/></td><td><b>Oye Mi Canto</b><br/><sub>N.O.R.E., Daddy Yankee, Nina Sky, Gemstar, Big Mato</sub></td><td><a href="https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0274063b2c20fb50f80388eac2" width="36" height="36" alt="album art"/></td><td><b>Qué Más Pues?</b><br/><sub>J Balvin, Maria Becerra</sub></td><td><a href="https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025c469837f14caa284f77cee4" width="36" height="36" alt="album art"/></td><td><b>Se Menea</b><br/><sub>Don Omar, Nio Garcia</sub></td><td><a href="https://open.spotify.com/track/0S2bSxQZo9oiArvkEIpsPu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d162833dd3d21b99f446cc82" width="36" height="36" alt="album art"/></td><td><b>Ginza - Remix</b><br/><sub>J Balvin, Yandel, Farruko, Nicky Jam, De La Ghetto</sub></td><td><a href="https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72" width="36" height="36" alt="album art"/></td><td><b>La Corriente</b><br/><sub>Bad Bunny, Tony Dize</sub></td><td><a href="https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a17af5440337fb5694a13939" width="36" height="36" alt="album art"/></td><td><b>Siente El Boom</b><br/><sub>Tito "El Bambino", Randy Nota Loca</sub></td><td><a href="https://open.spotify.com/track/2iHr1co9ElgzHredwMNKOy"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02aa3bbf26a1ff6343348f501d" width="36" height="36" alt="album art"/></td><td><b>SEJODIOTO</b><br/><sub>KAROL G</sub></td><td><a href="https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0257fc4730e06c9ab20c1e073b" width="36" height="36" alt="album art"/></td><td><b>Where Are Ü Now (with Justin Bieber)</b><br/><sub>Jack Ü, Skrillex, Diplo, Justin Bieber</sub></td><td><a href="https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a048415db06a5b6fa7ec4e1a" width="36" height="36" alt="album art"/></td><td><b>Die For You</b><br/><sub>The Weeknd</sub></td><td><a href="https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02deae7d931928fc1543e70203" width="36" height="36" alt="album art"/></td><td><b>Cold (feat. Future)</b><br/><sub>Maroon 5, Future</sub></td><td><a href="https://open.spotify.com/track/2NlTOhsAamXOaZciOXbITb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
