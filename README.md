@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->25 Apr 2026, 20:46 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->26 Apr 2026, 20:46 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -118,11 +118,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02db79155640e788e18d6bbef3" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040" width="36" height="36" alt="album art"/></td><td><b>The Wind Cries Mary</b><br/><sub>Jimi Hendrix</sub></td><td><a href="https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0217e1907923e91181f38290ac" width="36" height="36" alt="album art"/></td><td><b>Sweet Home Alabama</b><br/><sub>Lynyrd Skynyrd</sub></td><td><a href="https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ec51a7785bbafba42c0577ea" width="36" height="36" alt="album art"/></td><td><b>Disco Inferno</b><br/><sub>The Trammps</sub></td><td><a href="https://open.spotify.com/track/4NHLhoZgBkICm5LtTRXFAP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fd13588a958fbd23d5524e1b" width="36" height="36" alt="album art"/></td><td><b>Thunder</b><br/><sub>Gabry Ponte, LUM!X, Prezioso</sub></td><td><a href="https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02db79155640e788e18d6bbef3" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023d032d3653955186330aab1b" width="36" height="36" alt="album art"/></td><td><b>Closer</b><br/><sub>Lemaitre, Jennie A.</sub></td><td><a href="https://open.spotify.com/track/3h5IIiL9vK5aR0DZO6jD7D"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d7f3e4d143c198d3542a775d" width="36" height="36" alt="album art"/></td><td><b>Three Little Birds</b><br/><sub>Bob Marley & The Wailers</sub></td><td><a href="https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02219973bcf027114a95e7996b" width="36" height="36" alt="album art"/></td><td><b>Volare</b><br/><sub>Danny Ocean</sub></td><td><a href="https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020398d2406a0ff0ed7c7d4f52" width="36" height="36" alt="album art"/></td><td><b>cómo dormiste?</b><br/><sub>Rels B</sub></td><td><a href="https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0282de1ca074ae63cb18fce335" width="36" height="36" alt="album art"/></td><td><b>TUS GAFITAS</b><br/><sub>KAROL G</sub></td><td><a href="https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024603462dd193f76ab1f98218" width="36" height="36" alt="album art"/></td><td><b>En Línea</b><br/><sub>LAGOS</sub></td><td><a href="https://open.spotify.com/track/3FAjcxd3qDrSh0F8bG4CWX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b242b4213fb5c21d97dbbf4d" width="36" height="36" alt="album art"/></td><td><b>Hasta el Amanecer</b><br/><sub>Nicky Jam</sub></td><td><a href="https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0279e8bc472031b01f90891a1a" width="36" height="36" alt="album art"/></td><td><b>Boom Clap</b><br/><sub>Charli xcx</sub></td><td><a href="https://open.spotify.com/track/094RugjgLW6CdPLOJctBZ3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0204a5e9280739d24c9c127864" width="36" height="36" alt="album art"/></td><td><b>Buscando Money</b><br/><sub>TWENTY SIX, Tayson Kryss</sub></td><td><a href="https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02077d7940376773bfc37f09d8" width="36" height="36" alt="album art"/></td><td><b>Boomerang</b><br/><sub>Brooks, GRX</sub></td><td><a href="https://open.spotify.com/track/6Gw2dHX6FsQcIuiWxe0vWk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024194dd6b324eeb0f902566c0" width="36" height="36" alt="album art"/></td><td><b>The Jam</b><br/><sub>Kideko</sub></td><td><a href="https://open.spotify.com/track/3eEStD7Va1vlaN5NBEbQmf"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
