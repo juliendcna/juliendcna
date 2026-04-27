@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->26 Apr 2026, 20:46 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->27 Apr 2026, 21:08 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027ceb9cb013ee93a6f681aec7" width="36" height="36" alt="album art"/></td><td><b>Use Me Again - Remastered</b><br/><sub>Tom Trago</sub></td><td><a href="https://open.spotify.com/track/1xrUFNza7ztV00cAIXfM9C"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b242b4213fb5c21d97dbbf4d" width="36" height="36" alt="album art"/></td><td><b>Hasta el Amanecer</b><br/><sub>Nicky Jam</sub></td><td><a href="https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0279e8bc472031b01f90891a1a" width="36" height="36" alt="album art"/></td><td><b>Boom Clap</b><br/><sub>Charli xcx</sub></td><td><a href="https://open.spotify.com/track/094RugjgLW6CdPLOJctBZ3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0204a5e9280739d24c9c127864" width="36" height="36" alt="album art"/></td><td><b>Buscando Money</b><br/><sub>TWENTY SIX, Tayson Kryss</sub></td><td><a href="https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02077d7940376773bfc37f09d8" width="36" height="36" alt="album art"/></td><td><b>Boomerang</b><br/><sub>Brooks, GRX</sub></td><td><a href="https://open.spotify.com/track/6Gw2dHX6FsQcIuiWxe0vWk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024194dd6b324eeb0f902566c0" width="36" height="36" alt="album art"/></td><td><b>The Jam</b><br/><sub>Kideko</sub></td><td><a href="https://open.spotify.com/track/3eEStD7Va1vlaN5NBEbQmf"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
