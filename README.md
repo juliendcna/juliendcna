@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->27 Apr 2026, 21:08 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->28 Apr 2026, 21:11 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -137,8 +137,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d" width="36" height="36" alt="artist"/></td><td><b>J Balvin</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051746725802588d7dc1aba076ca5" width="36" height="36" alt="artist"/></td><td><b>Ariana Grande</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051740dc44404c0cbb9311d9e192d" width="36" height="36" alt="artist"/></td><td><b>Blessd</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174175df1a8848d8ff67c6d5600" width="36" height="36" alt="artist"/></td><td><b>DJ Snake</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174766397ec42a573a53eb5fb87" width="36" height="36" alt="artist"/></td><td><b>Ariana Grande</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027ceb9cb013ee93a6f681aec7" width="36" height="36" alt="album art"/></td><td><b>Use Me Again - Remastered</b><br/><sub>Tom Trago</sub></td><td><a href="https://open.spotify.com/track/1xrUFNza7ztV00cAIXfM9C"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b242b4213fb5c21d97dbbf4d" width="36" height="36" alt="album art"/></td><td><b>Hasta el Amanecer</b><br/><sub>Nicky Jam</sub></td><td><a href="https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0279e8bc472031b01f90891a1a" width="36" height="36" alt="album art"/></td><td><b>Boom Clap</b><br/><sub>Charli xcx</sub></td><td><a href="https://open.spotify.com/track/094RugjgLW6CdPLOJctBZ3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0204a5e9280739d24c9c127864" width="36" height="36" alt="album art"/></td><td><b>Buscando Money</b><br/><sub>TWENTY SIX, Tayson Kryss</sub></td><td><a href="https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02077d7940376773bfc37f09d8" width="36" height="36" alt="album art"/></td><td><b>Boomerang</b><br/><sub>Brooks, GRX</sub></td><td><a href="https://open.spotify.com/track/6Gw2dHX6FsQcIuiWxe0vWk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a4fe49eb27e8152710e7a590" width="36" height="36" alt="album art"/></td><td><b>Girl on Fire</b><br/><sub>Alicia Keys</sub></td><td><a href="https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0280498b63e98960e2dbac41ea" width="36" height="36" alt="album art"/></td><td><b>Won’t Let You Go</b><br/><sub>Martin Garrix, Matisse & Sadko, John Martin</sub></td><td><a href="https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0244b7277d2d6247722b26e2a3" width="36" height="36" alt="album art"/></td><td><b>One Day (Vandaag) - Radio Edit</b><br/><sub>Bakermat</sub></td><td><a href="https://open.spotify.com/track/0GSU6yLOJqO10ziQuBLWOE"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02212d776c31027c511f0ee3bc" width="36" height="36" alt="album art"/></td><td><b>Let Me Love You</b><br/><sub>DJ Snake, Justin Bieber</sub></td><td><a href="https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b2b45ba815670e92164581c5" width="36" height="36" alt="album art"/></td><td><b>Un Poco</b><br/><sub>Ninho</sub></td><td><a href="https://open.spotify.com/track/3MVTefqbeNX5yHFOmnHy3X"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
