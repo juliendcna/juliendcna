@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->29 Apr 2026, 21:11 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->30 Apr 2026, 21:06 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029daf7b461a827acbbb0e4971" width="36" height="36" alt="album art"/></td><td><b>Blame It on the Boogie</b><br/><sub>The Jacksons</sub></td><td><a href="https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e2c879f3983d1488f2c3ca4e" width="36" height="36" alt="album art"/></td><td><b>FRIENDS</b><br/><sub>Marshmello, Anne-Marie</sub></td><td><a href="https://open.spotify.com/track/1wIyr1y5wiWqo7nqbxHpWt"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e6efeff81a318670a292090f" width="36" height="36" alt="album art"/></td><td><b>Fireball (feat. John Ryan)</b><br/><sub>Pitbull, John Ryan</sub></td><td><a href="https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e3ef28d409b48c2ffb55edf9" width="36" height="36" alt="album art"/></td><td><b>Be Where I Am</b><br/><sub>Metroplane, Alex Metric, Aeroplane, Daniel Wilson</sub></td><td><a href="https://open.spotify.com/track/0kcAJw55kxj358HJmnGTFX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02cce6bab1f59b165133175d88" width="36" height="36" alt="album art"/></td><td><b>Chained To The Rhythm</b><br/><sub>Katy Perry, Skip Marley</sub></td><td><a href="https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027829128ec004044e2c73d4f5" width="36" height="36" alt="album art"/></td><td><b>Julia</b><br/><sub>LAGOS, Lasso</sub></td><td><a href="https://open.spotify.com/track/7ryxHPm6oNuVYiBLB2RuNX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a6dae629d3f23aa5a725f601" width="36" height="36" alt="album art"/></td><td><b>Ese Vato No Te Queda</b><br/><sub>Carín León, Gabito Ballesteros</sub></td><td><a href="https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b93a8b769978904e9677f620" width="36" height="36" alt="album art"/></td><td><b>Antes de Morirme - feat. ROSALÍA</b><br/><sub>C. Tangana, ROSALÍA</sub></td><td><a href="https://open.spotify.com/track/5FMPWjgWG5Rl6PNtQYk1ek"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0283a5cf876497c823696748be" width="36" height="36" alt="album art"/></td><td><b>Istanbul</b><br/><sub>Danny Ocean</sub></td><td><a href="https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022e18e979297ea0f4861735c9" width="36" height="36" alt="album art"/></td><td><b>Bailarina</b><br/><sub>Abraham Mateo, Danny Ocean</sub></td><td><a href="https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
