@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->30 Apr 2026, 21:06 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->01 May 2026, 20:58 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -120,9 +120,9 @@
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040" width="36" height="36" alt="album art"/></td><td><b>The Wind Cries Mary</b><br/><sub>Jimi Hendrix</sub></td><td><a href="https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0217e1907923e91181f38290ac" width="36" height="36" alt="album art"/></td><td><b>Sweet Home Alabama</b><br/><sub>Lynyrd Skynyrd</sub></td><td><a href="https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f62aa1dd0b43f583418cd018" width="36" height="36" alt="album art"/></td><td><b>Diles</b><br/><sub>Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow</sub></td><td><a href="https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fd13588a958fbd23d5524e1b" width="36" height="36" alt="album art"/></td><td><b>Thunder</b><br/><sub>Gabry Ponte, LUM!X, Prezioso</sub></td><td><a href="https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02db79155640e788e18d6bbef3" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023d032d3653955186330aab1b" width="36" height="36" alt="album art"/></td><td><b>Closer</b><br/><sub>Lemaitre, Jennie A.</sub></td><td><a href="https://open.spotify.com/track/3h5IIiL9vK5aR0DZO6jD7D"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -138,7 +138,7 @@
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d" width="36" height="36" alt="artist"/></td><td><b>J Balvin</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174175df1a8848d8ff67c6d5600" width="36" height="36" alt="artist"/></td><td><b>DJ Snake</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174766397ec42a573a53eb5fb87" width="36" height="36" alt="artist"/></td><td><b>Ariana Grande</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051740dc44404c0cbb9311d9e192d" width="36" height="36" alt="artist"/></td><td><b>Blessd</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027829128ec004044e2c73d4f5" width="36" height="36" alt="album art"/></td><td><b>Julia</b><br/><sub>LAGOS, Lasso</sub></td><td><a href="https://open.spotify.com/track/7ryxHPm6oNuVYiBLB2RuNX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a6dae629d3f23aa5a725f601" width="36" height="36" alt="album art"/></td><td><b>Ese Vato No Te Queda</b><br/><sub>Carín León, Gabito Ballesteros</sub></td><td><a href="https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b93a8b769978904e9677f620" width="36" height="36" alt="album art"/></td><td><b>Antes de Morirme - feat. ROSALÍA</b><br/><sub>C. Tangana, ROSALÍA</sub></td><td><a href="https://open.spotify.com/track/5FMPWjgWG5Rl6PNtQYk1ek"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0283a5cf876497c823696748be" width="36" height="36" alt="album art"/></td><td><b>Istanbul</b><br/><sub>Danny Ocean</sub></td><td><a href="https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022e18e979297ea0f4861735c9" width="36" height="36" alt="album art"/></td><td><b>Bailarina</b><br/><sub>Abraham Mateo, Danny Ocean</sub></td><td><a href="https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029bb3182c7bef46498c961562" width="36" height="36" alt="album art"/></td><td><b>AMOR</b><br/><sub>Danny Ocean</sub></td><td><a href="https://open.spotify.com/track/58UCQZoSDprVXVLgcCVBHt"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02519266cd05491a5b5bc22d1e" width="36" height="36" alt="album art"/></td><td><b>Otra Noche en Miami</b><br/><sub>Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e4d260b37299107b0b94dd36" width="36" height="36" alt="album art"/></td><td><b>Sal rosa</b><br/><sub>LATIN MAFIA</sub></td><td><a href="https://open.spotify.com/track/1TWAUx1pXxA5XxJmHMGT0b"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0215e89052494b36ed052730a8" width="36" height="36" alt="album art"/></td><td><b>Himno Nacional</b><br/><sub>LAGOS</sub></td><td><a href="https://open.spotify.com/track/3GJGNWgJgQN6xaftJQsBFd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0282de1ca074ae63cb18fce335" width="36" height="36" alt="album art"/></td><td><b>AMARGURA</b><br/><sub>KAROL G</sub></td><td><a href="https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
