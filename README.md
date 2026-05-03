@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->02 May 2026, 20:50 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->03 May 2026, 20:52 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -121,8 +121,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040" width="36" height="36" alt="album art"/></td><td><b>The Wind Cries Mary</b><br/><sub>Jimi Hendrix</sub></td><td><a href="https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0217e1907923e91181f38290ac" width="36" height="36" alt="album art"/></td><td><b>Sweet Home Alabama</b><br/><sub>Lynyrd Skynyrd</sub></td><td><a href="https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f62aa1dd0b43f583418cd018" width="36" height="36" alt="album art"/></td><td><b>Diles</b><br/><sub>Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow</sub></td><td><a href="https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fd13588a958fbd23d5524e1b" width="36" height="36" alt="album art"/></td><td><b>Thunder</b><br/><sub>Gabry Ponte, LUM!X, Prezioso</sub></td><td><a href="https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02db79155640e788e18d6bbef3" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023d032d3653955186330aab1b" width="36" height="36" alt="album art"/></td><td><b>Closer</b><br/><sub>Lemaitre, Jennie A.</sub></td><td><a href="https://open.spotify.com/track/3h5IIiL9vK5aR0DZO6jD7D"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -138,7 +138,7 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034" width="36" height="36" alt="artist"/></td><td><b>Justin Bieber</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d" width="36" height="36" alt="artist"/></td><td><b>J Balvin</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174175df1a8848d8ff67c6d5600" width="36" height="36" alt="artist"/></td><td><b>DJ Snake</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051740dc44404c0cbb9311d9e192d" width="36" height="36" alt="artist"/></td><td><b>Blessd</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02aed1660585c1e3c9ffb50b6a" width="36" height="36" alt="album art"/></td><td><b>STAY (with Justin Bieber)</b><br/><sub>The Kid LAROI, Justin Bieber</sub></td><td><a href="https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2" width="36" height="36" alt="album art"/></td><td><b>SPEED DEMON</b><br/><sub>Justin Bieber</sub></td><td><a href="https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0257fc4730e06c9ab20c1e073b" width="36" height="36" alt="album art"/></td><td><b>Where Are Ü Now (with Justin Bieber)</b><br/><sub>Jack Ü, Skrillex, Diplo, Justin Bieber</sub></td><td><a href="https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028a6872349f425c2d9e2d40a3" width="36" height="36" alt="album art"/></td><td><b>One Less Lonely Girl</b><br/><sub>Justin Bieber</sub></td><td><a href="https://open.spotify.com/track/3x2deUZXOdREKNaZ2qqzjz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026036cfd2a718036fc523855f" width="36" height="36" alt="album art"/></td><td><b>Ghost</b><br/><sub>Justin Bieber</sub></td><td><a href="https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a4c01842096428fb14859bdc" width="36" height="36" alt="album art"/></td><td><b>You Make Me Feel... (feat. Sabi)</b><br/><sub>Cobra Starship, Sabi</sub></td><td><a href="https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0215785fa4f22f8c50902b3a42" width="36" height="36" alt="album art"/></td><td><b>Good Feeling</b><br/><sub>Flo Rida</sub></td><td><a href="https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028ff7c3580d429c8212b9a3b6" width="36" height="36" alt="album art"/></td><td><b>Adventure of a Lifetime</b><br/><sub>Coldplay</sub></td><td><a href="https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5" width="36" height="36" alt="album art"/></td><td><b>Still D.R.E.</b><br/><sub>Dr. Dre, Snoop Dogg</sub></td><td><a href="https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020c13d3d5a503c84fcc60ae94" width="36" height="36" alt="album art"/></td><td><b>Something Just Like This</b><br/><sub>The Chainsmokers, Coldplay</sub></td><td><a href="https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
