@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->04 May 2026, 21:12 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 May 2026, 21:07 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -122,7 +122,7 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e026bc7473df6c9d1fd90972e84" width="36" height="36" alt="album art"/></td><td><b>Same Old Love</b><br/><sub>Selena Gomez</sub></td><td><a href="https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0217e1907923e91181f38290ac" width="36" height="36" alt="album art"/></td><td><b>Sweet Home Alabama</b><br/><sub>Lynyrd Skynyrd</sub></td><td><a href="https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f62aa1dd0b43f583418cd018" width="36" height="36" alt="album art"/></td><td><b>Diles</b><br/><sub>Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow</sub></td><td><a href="https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02db79155640e788e18d6bbef3" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel Better - Radio Edit</b><br/><sub>Alex Adair</sub></td><td><a href="https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02093920c6d1f62f023e5a9a68" width="36" height="36" alt="album art"/></td><td><b>Evacuate the Dancefloor - Radio Edit</b><br/><sub>Cascada</sub></td><td><a href="https://open.spotify.com/track/2JreXnkSzK2oVk2yQInpsi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -137,8 +137,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034" width="36" height="36" alt="artist"/></td><td><b>Justin Bieber</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d" width="36" height="36" alt="artist"/></td><td><b>J Balvin</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6761610000517490c8b988fa6e6b40e0d0bf81" width="36" height="36" alt="artist"/></td><td><b>Jimi Hendrix</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051740dc44404c0cbb9311d9e192d" width="36" height="36" alt="artist"/></td><td><b>Blessd</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a658ab0f60cc249da0b97de5" width="36" height="36" alt="album art"/></td><td><b>(It Goes Like) Nanana</b><br/><sub>Peggy Gou</sub></td><td><a href="https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028daa8ac6367fc997c1873b9b" width="36" height="36" alt="album art"/></td><td><b>How Deep Is Your Love</b><br/><sub>Calvin Harris, Disciples</sub></td><td><a href="https://open.spotify.com/track/4slBllHFZYlpg3IjeX5CBl"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0224cf74fdd2af5d6d43ca2a07" width="36" height="36" alt="album art"/></td><td><b>It's Alright - Radio Edit</b><br/><sub>Gadjo</sub></td><td><a href="https://open.spotify.com/track/1siIBajQ4oUG8Rnh9tFF9X"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bb3c162ddba09bfba12199ea" width="36" height="36" alt="album art"/></td><td><b>You Don't Know Me (feat. RAYE)</b><br/><sub>Jax Jones, RAYE</sub></td><td><a href="https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ca876f49b24ffcea74e2547d" width="36" height="36" alt="album art"/></td><td><b>Ruleta</b><br/><sub>INNA, Erik</sub></td><td><a href="https://open.spotify.com/track/0J0MCHLeT05bWq8EM5QYD0"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029585ff55fff75c5c07a619cb" width="36" height="36" alt="album art"/></td><td><b>Moves Like Jagger - Studio Recording From "The Voice" Performance</b><br/><sub>Maroon 5, Christina Aguilera</sub></td><td><a href="https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02522088789d49e216d9818292" width="36" height="36" alt="album art"/></td><td><b>All Along the Watchtower</b><br/><sub>Jimi Hendrix</sub></td><td><a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eec120f35546507f59f05c41" width="36" height="36" alt="album art"/></td><td><b>Chantaje (feat. Maluma)</b><br/><sub>Shakira, Maluma</sub></td><td><a href="https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028fba5806a323efd272677c4d" width="36" height="36" alt="album art"/></td><td><b>Blame (feat. John Newman)</b><br/><sub>Calvin Harris, John Newman</sub></td><td><a href="https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a67377dbc9afa69daf2a7ad8" width="36" height="36" alt="album art"/></td><td><b>Fancy</b><br/><sub>Iggy Azalea, Charli xcx</sub></td><td><a href="https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
