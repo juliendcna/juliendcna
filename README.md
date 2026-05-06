@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 May 2026, 21:07 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->06 May 2026, 21:14 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029585ff55fff75c5c07a619cb" width="36" height="36" alt="album art"/></td><td><b>Moves Like Jagger - Studio Recording From "The Voice" Performance</b><br/><sub>Maroon 5, Christina Aguilera</sub></td><td><a href="https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02522088789d49e216d9818292" width="36" height="36" alt="album art"/></td><td><b>All Along the Watchtower</b><br/><sub>Jimi Hendrix</sub></td><td><a href="https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eec120f35546507f59f05c41" width="36" height="36" alt="album art"/></td><td><b>Chantaje (feat. Maluma)</b><br/><sub>Shakira, Maluma</sub></td><td><a href="https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028fba5806a323efd272677c4d" width="36" height="36" alt="album art"/></td><td><b>Blame (feat. John Newman)</b><br/><sub>Calvin Harris, John Newman</sub></td><td><a href="https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a67377dbc9afa69daf2a7ad8" width="36" height="36" alt="album art"/></td><td><b>Fancy</b><br/><sub>Iggy Azalea, Charli xcx</sub></td><td><a href="https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020aaf00589090dec4b0ab6b28" width="36" height="36" alt="album art"/></td><td><b>Lucky Star (feat. Ron Carroll)</b><br/><sub>Faul & Wad, Superfunk, Ron Carroll</sub></td><td><a href="https://open.spotify.com/track/4slxXTWry1dUhJi8y0a6lL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a03a119d2adb25e05b6042c3" width="36" height="36" alt="album art"/></td><td><b>World Hold On (Children Of The Sky) - FISHER Rework</b><br/><sub>Bob Sinclar, FISHER, Steve Edwards</sub></td><td><a href="https://open.spotify.com/track/6kTwzV93qpcovlRPmBOXmn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bc8337368995366d48650871" width="36" height="36" alt="album art"/></td><td><b>There For You</b><br/><sub>Gorgon City, MK</sub></td><td><a href="https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0203789dffddef5e9a917fde8a" width="36" height="36" alt="album art"/></td><td><b>Pretty Baby</b><br/><sub>Redondo, Rockefeller</sub></td><td><a href="https://open.spotify.com/track/4EJI2XGViSQp6WscLKgYDD"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0203789dffddef5e9a917fde8a" width="36" height="36" alt="album art"/></td><td><b>Pretty Baby</b><br/><sub>Redondo, Rockefeller</sub></td><td><a href="https://open.spotify.com/track/4EJI2XGViSQp6WscLKgYDD"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
