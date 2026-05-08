@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->07 May 2026, 21:08 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->08 May 2026, 21:06 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029281e0266cc5222a750380eb" width="36" height="36" alt="album art"/></td><td><b>Born To Love (feat. SHELLS)</b><br/><sub>MEDUZA, SHELLS</sub></td><td><a href="https://open.spotify.com/track/7cX5H82DTZ5iHRLbewBEBd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02cdbedaa05c3c55df536d6db8" width="36" height="36" alt="album art"/></td><td><b>Douha (Mali Mali) (Edit)</b><br/><sub>Disclosure, Fatoumata Diawara</sub></td><td><a href="https://open.spotify.com/track/6O7jGud1gZ6s5uWDY3LJTb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0274d588a05df8a4aa7af75489" width="36" height="36" alt="album art"/></td><td><b>Nothing Else (When I Think Of You)</b><br/><sub>Joe Stone</sub></td><td><a href="https://open.spotify.com/track/3hHcL95Pqlj93e8YCAkkys"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f526b608c2e8b20e46625411" width="36" height="36" alt="album art"/></td><td><b>(G)rave</b><br/><sub>Vladimir Cauchemar</sub></td><td><a href="https://open.spotify.com/track/5Qx4tRDy8RnVxACujLF6Vp"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bc8945f4d18a31b09b80819b" width="36" height="36" alt="album art"/></td><td><b>Afraid To Feel</b><br/><sub>LF SYSTEM</sub></td><td><a href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e37608ac9405cd4163c20207" width="36" height="36" alt="album art"/></td><td><b>Sonnentanz - Sun Don't Shine</b><br/><sub>Klangkarussell, Will Heard</sub></td><td><a href="https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02195a9a1c1609418db216fe2e" width="36" height="36" alt="album art"/></td><td><b>Do It Tonight</b><br/><sub>Cedric Gervais</sub></td><td><a href="https://open.spotify.com/track/624OsUC4x3pIHUrKJBSuDC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
