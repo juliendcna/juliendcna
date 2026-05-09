@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->08 May 2026, 21:06 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->09 May 2026, 20:51 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -138,7 +138,7 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034" width="36" height="36" alt="artist"/></td><td><b>Justin Bieber</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d" width="36" height="36" alt="artist"/></td><td><b>J Balvin</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174175df1a8848d8ff67c6d5600" width="36" height="36" alt="artist"/></td><td><b>DJ Snake</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174e0de3617061247aa35ff7865" width="36" height="36" alt="artist"/></td><td><b>Oliver Heldens</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029281e0266cc5222a750380eb" width="36" height="36" alt="album art"/></td><td><b>Born To Love (feat. SHELLS)</b><br/><sub>MEDUZA, SHELLS</sub></td><td><a href="https://open.spotify.com/track/7cX5H82DTZ5iHRLbewBEBd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02cdbedaa05c3c55df536d6db8" width="36" height="36" alt="album art"/></td><td><b>Douha (Mali Mali) (Edit)</b><br/><sub>Disclosure, Fatoumata Diawara</sub></td><td><a href="https://open.spotify.com/track/6O7jGud1gZ6s5uWDY3LJTb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0274d588a05df8a4aa7af75489" width="36" height="36" alt="album art"/></td><td><b>Nothing Else (When I Think Of You)</b><br/><sub>Joe Stone</sub></td><td><a href="https://open.spotify.com/track/3hHcL95Pqlj93e8YCAkkys"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f526b608c2e8b20e46625411" width="36" height="36" alt="album art"/></td><td><b>(G)rave</b><br/><sub>Vladimir Cauchemar</sub></td><td><a href="https://open.spotify.com/track/5Qx4tRDy8RnVxACujLF6Vp"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bc8945f4d18a31b09b80819b" width="36" height="36" alt="album art"/></td><td><b>Afraid To Feel</b><br/><sub>LF SYSTEM</sub></td><td><a href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c3155fac7fbb6940c4d073b4" width="36" height="36" alt="album art"/></td><td><b>Deep End</b><br/><sub>John Summit</sub></td><td><a href="https://open.spotify.com/track/5xdDQFCjgizAurT6Xi5lYT"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02571ca3d76372773bea064a2b" width="36" height="36" alt="album art"/></td><td><b>Cooler Than Me</b><br/><sub>Lucky Luke</sub></td><td><a href="https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c9b9c41e0ada2f8bda6bf025" width="36" height="36" alt="album art"/></td><td><b>Hot Summer Night (Oh La La La)</b><br/><sub>David Tavaré, 2 Eivissa</sub></td><td><a href="https://open.spotify.com/track/3lVoMDiuzWhYjnfU062PWJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022b79437b4d0aa1145add6bb0" width="36" height="36" alt="album art"/></td><td><b>Secrets</b><br/><sub>Regard, RAYE</sub></td><td><a href="https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02630041624d58f2e0c420df0d" width="36" height="36" alt="album art"/></td><td><b>Hello Pretty (Junktion Remix)</b><br/><sub>Moony Me, Junktion</sub></td><td><a href="https://open.spotify.com/track/0Sw5EO4Oky2hHI3L4FBeJ4"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
