@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->09 May 2026, 20:51 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->10 May 2026, 20:54 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -119,10 +119,10 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e026bc7473df6c9d1fd90972e84" width="36" height="36" alt="album art"/></td><td><b>Same Old Love</b><br/><sub>Selena Gomez</sub></td><td><a href="https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0223b82f8efef5a4b0082271e4" width="36" height="36" alt="album art"/></td><td><b>Turn off the Lights</b><br/><sub>Chris Lake, Alexis Roberts</sub></td><td><a href="https://open.spotify.com/track/42CMeHqi0S8sbKvrzLyixS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040" width="36" height="36" alt="album art"/></td><td><b>The Wind Cries Mary</b><br/><sub>Jimi Hendrix</sub></td><td><a href="https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0217e1907923e91181f38290ac" width="36" height="36" alt="album art"/></td><td><b>Sweet Home Alabama</b><br/><sub>Lynyrd Skynyrd</sub></td><td><a href="https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f62aa1dd0b43f583418cd018" width="36" height="36" alt="album art"/></td><td><b>Diles</b><br/><sub>Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow</sub></td><td><a href="https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02093920c6d1f62f023e5a9a68" width="36" height="36" alt="album art"/></td><td><b>Evacuate the Dancefloor - Radio Edit</b><br/><sub>Cascada</sub></td><td><a href="https://open.spotify.com/track/2JreXnkSzK2oVk2yQInpsi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c3155fac7fbb6940c4d073b4" width="36" height="36" alt="album art"/></td><td><b>Deep End</b><br/><sub>John Summit</sub></td><td><a href="https://open.spotify.com/track/5xdDQFCjgizAurT6Xi5lYT"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02571ca3d76372773bea064a2b" width="36" height="36" alt="album art"/></td><td><b>Cooler Than Me</b><br/><sub>Lucky Luke</sub></td><td><a href="https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c9b9c41e0ada2f8bda6bf025" width="36" height="36" alt="album art"/></td><td><b>Hot Summer Night (Oh La La La)</b><br/><sub>David Tavaré, 2 Eivissa</sub></td><td><a href="https://open.spotify.com/track/3lVoMDiuzWhYjnfU062PWJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022b79437b4d0aa1145add6bb0" width="36" height="36" alt="album art"/></td><td><b>Secrets</b><br/><sub>Regard, RAYE</sub></td><td><a href="https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02630041624d58f2e0c420df0d" width="36" height="36" alt="album art"/></td><td><b>Hello Pretty (Junktion Remix)</b><br/><sub>Moony Me, Junktion</sub></td><td><a href="https://open.spotify.com/track/0Sw5EO4Oky2hHI3L4FBeJ4"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028d6fd2a68d0b258ad27e9316" width="36" height="36" alt="album art"/></td><td><b>I Want You</b><br/><sub>Butch, Nic Fanciulli</sub></td><td><a href="https://open.spotify.com/track/01GaxIwhazmBJGncZImt6p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b0beabe2251b03892cafe930" width="36" height="36" alt="album art"/></td><td><b>Let's Get Ill</b><br/><sub>DJ Snake, Mercer</sub></td><td><a href="https://open.spotify.com/track/3J5AcWRzmgbq4svZt91l3e"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0223b82f8efef5a4b0082271e4" width="36" height="36" alt="album art"/></td><td><b>Turn off the Lights</b><br/><sub>Chris Lake, Alexis Roberts</sub></td><td><a href="https://open.spotify.com/track/42CMeHqi0S8sbKvrzLyixS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027e0edeaddaafea61f13874a2" width="36" height="36" alt="album art"/></td><td><b>The Feeling - 2022 Remaster</b><br/><sub>Massano</sub></td><td><a href="https://open.spotify.com/track/6IPjMtSY2fR6GtW9ezdfaY"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020aaf00589090dec4b0ab6b28" width="36" height="36" alt="album art"/></td><td><b>Lucky Star (feat. Ron Carroll)</b><br/><sub>Faul & Wad, Superfunk, Ron Carroll</sub></td><td><a href="https://open.spotify.com/track/4slxXTWry1dUhJi8y0a6lL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
