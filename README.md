@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->11 May 2026, 21:21 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->12 May 2026, 21:22 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -135,10 +135,10 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034" width="36" height="36" alt="artist"/></td><td><b>Justin Bieber</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d" width="36" height="36" alt="artist"/></td><td><b>J Balvin</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174a0d42a558309507a6a3b3311" width="36" height="36" alt="artist"/></td><td><b>Tainy</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034" width="36" height="36" alt="artist"/></td><td><b>Justin Bieber</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6761610000517466041ce9eb4497057cbc3496" width="36" height="36" alt="artist"/></td><td><b>KAROL G</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174766397ec42a573a53eb5fb87" width="36" height="36" alt="artist"/></td><td><b>Ariana Grande</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021c55d3d40620e803f93aad57" width="36" height="36" alt="album art"/></td><td><b>Agua (with J Balvin)</b><br/><sub>Tainy, J Balvin</sub></td><td><a href="https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029f6800546cfaaacb3fa4b145" width="36" height="36" alt="album art"/></td><td><b>Tacones Rojos</b><br/><sub>Sebastian Yatra</sub></td><td><a href="https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0274063b2c20fb50f80388eac2" width="36" height="36" alt="album art"/></td><td><b>Qué Más Pues?</b><br/><sub>J Balvin, Maria Becerra</sub></td><td><a href="https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a311e21ac3313c4c60135fe4" width="36" height="36" alt="album art"/></td><td><b>Envolver</b><br/><sub>Anitta</sub></td><td><a href="https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0280f5e31c0a66b5aed16d98e3" width="36" height="36" alt="album art"/></td><td><b>Hey Mor</b><br/><sub>Ozuna, Feid</sub></td><td><a href="https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024ab2520c2c77a1d66b9ee21d" width="36" height="36" alt="album art"/></td><td><b>Sacrifice</b><br/><sub>The Weeknd</sub></td><td><a href="https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029e730d8fbd256885242f1e96" width="36" height="36" alt="album art"/></td><td><b>One Last Time (Attends-Moi)</b><br/><sub>Ariana Grande, Kendji Girac</sub></td><td><a href="https://open.spotify.com/track/6McECqsEsUv8WuWtz0WS0t"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029e730d8fbd256885242f1e96" width="36" height="36" alt="album art"/></td><td><b>Love Me Harder</b><br/><sub>Ariana Grande, The Weeknd</sub></td><td><a href="https://open.spotify.com/track/3RknjKzaZkjBqIGEN1Q871"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b5097b81179824803664aaaf" width="36" height="36" alt="album art"/></td><td><b>Save Your Tears (Remix) (with Ariana Grande) - Bonus Track</b><br/><sub>The Weeknd, Ariana Grande</sub></td><td><a href="https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029e730d8fbd256885242f1e96" width="36" height="36" alt="album art"/></td><td><b>Problem</b><br/><sub>Ariana Grande, Iggy Azalea</sub></td><td><a href="https://open.spotify.com/track/5w048fMWMdqxT2UAyXXB1Z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
