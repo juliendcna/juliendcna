@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->12 May 2026, 21:22 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->13 May 2026, 21:39 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -121,8 +121,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e029c684d9cc55defa208560829" width="36" height="36" alt="album art"/></td><td><b>Beneath the Surface</b><br/><sub>Demons Of Ruby Mae</sub></td><td><a href="https://open.spotify.com/track/4Jd1CAMpMCkGEnuxXGLtjU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e026bc7473df6c9d1fd90972e84" width="36" height="36" alt="album art"/></td><td><b>Same Old Love</b><br/><sub>Selena Gomez</sub></td><td><a href="https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0223b82f8efef5a4b0082271e4" width="36" height="36" alt="album art"/></td><td><b>Turn off the Lights</b><br/><sub>Chris Lake, Alexis Roberts</sub></td><td><a href="https://open.spotify.com/track/42CMeHqi0S8sbKvrzLyixS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040" width="36" height="36" alt="album art"/></td><td><b>The Wind Cries Mary</b><br/><sub>Jimi Hendrix</sub></td><td><a href="https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0217e1907923e91181f38290ac" width="36" height="36" alt="album art"/></td><td><b>Sweet Home Alabama</b><br/><sub>Lynyrd Skynyrd</sub></td><td><a href="https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f62aa1dd0b43f583418cd018" width="36" height="36" alt="album art"/></td><td><b>Diles</b><br/><sub>Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow</sub></td><td><a href="https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02093920c6d1f62f023e5a9a68" width="36" height="36" alt="album art"/></td><td><b>Evacuate the Dancefloor - Radio Edit</b><br/><sub>Cascada</sub></td><td><a href="https://open.spotify.com/track/2JreXnkSzK2oVk2yQInpsi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024ab2520c2c77a1d66b9ee21d" width="36" height="36" alt="album art"/></td><td><b>Sacrifice</b><br/><sub>The Weeknd</sub></td><td><a href="https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029e730d8fbd256885242f1e96" width="36" height="36" alt="album art"/></td><td><b>One Last Time (Attends-Moi)</b><br/><sub>Ariana Grande, Kendji Girac</sub></td><td><a href="https://open.spotify.com/track/6McECqsEsUv8WuWtz0WS0t"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029e730d8fbd256885242f1e96" width="36" height="36" alt="album art"/></td><td><b>Love Me Harder</b><br/><sub>Ariana Grande, The Weeknd</sub></td><td><a href="https://open.spotify.com/track/3RknjKzaZkjBqIGEN1Q871"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b5097b81179824803664aaaf" width="36" height="36" alt="album art"/></td><td><b>Save Your Tears (Remix) (with Ariana Grande) - Bonus Track</b><br/><sub>The Weeknd, Ariana Grande</sub></td><td><a href="https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029e730d8fbd256885242f1e96" width="36" height="36" alt="album art"/></td><td><b>Problem</b><br/><sub>Ariana Grande, Iggy Azalea</sub></td><td><a href="https://open.spotify.com/track/5w048fMWMdqxT2UAyXXB1Z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0240ecb1490cd625b1a47f5a83" width="36" height="36" alt="album art"/></td><td><b>Reload - Radio Edit</b><br/><sub>Sebastian Ingrosso, Tommy Trash, John Martin</sub></td><td><a href="https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ff13ea6975bf87a481b800bf" width="36" height="36" alt="album art"/></td><td><b>Fireball (feat. John Ryan)</b><br/><sub>Pitbull, John Ryan</sub></td><td><a href="https://open.spotify.com/track/49eplIHvgCLY8HAgcaWrUb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02519266cd05491a5b5bc22d1e" width="36" height="36" alt="album art"/></td><td><b>MIA</b><br/><sub>Bad Bunny, Drake</sub></td><td><a href="https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ac08ece7ad90165ac7d532c4" width="36" height="36" alt="album art"/></td><td><b>Hymn for the Weekend - Seeb Remix</b><br/><sub>Coldplay, Seeb</sub></td><td><a href="https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0257fc4730e06c9ab20c1e073b" width="36" height="36" alt="album art"/></td><td><b>Take Ü There (feat. Kiesza)</b><br/><sub>Jack Ü, Skrillex, Diplo, Kiesza</sub></td><td><a href="https://open.spotify.com/track/2RpKh7kXSdO8NLrW9VQ46p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
