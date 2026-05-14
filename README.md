@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->13 May 2026, 21:39 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->14 May 2026, 21:14 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0240ecb1490cd625b1a47f5a83" width="36" height="36" alt="album art"/></td><td><b>Reload - Radio Edit</b><br/><sub>Sebastian Ingrosso, Tommy Trash, John Martin</sub></td><td><a href="https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ff13ea6975bf87a481b800bf" width="36" height="36" alt="album art"/></td><td><b>Fireball (feat. John Ryan)</b><br/><sub>Pitbull, John Ryan</sub></td><td><a href="https://open.spotify.com/track/49eplIHvgCLY8HAgcaWrUb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02519266cd05491a5b5bc22d1e" width="36" height="36" alt="album art"/></td><td><b>MIA</b><br/><sub>Bad Bunny, Drake</sub></td><td><a href="https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ac08ece7ad90165ac7d532c4" width="36" height="36" alt="album art"/></td><td><b>Hymn for the Weekend - Seeb Remix</b><br/><sub>Coldplay, Seeb</sub></td><td><a href="https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0257fc4730e06c9ab20c1e073b" width="36" height="36" alt="album art"/></td><td><b>Take Ü There (feat. Kiesza)</b><br/><sub>Jack Ü, Skrillex, Diplo, Kiesza</sub></td><td><a href="https://open.spotify.com/track/2RpKh7kXSdO8NLrW9VQ46p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02927c93e23ede299f18afc9c5" width="36" height="36" alt="album art"/></td><td><b>My Love (2024)</b><br/><sub>Alex Wann, Route 94, Jess Glynne</sub></td><td><a href="https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0235f23dd3c46967b6459286c8" width="36" height="36" alt="album art"/></td><td><b>We Could Be Love</b><br/><sub>Hayden James, AR/CO</sub></td><td><a href="https://open.spotify.com/track/0bVZmDucXR96aZQJxHlE5m"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02490db4a35f658b73b30e18fe" width="36" height="36" alt="album art"/></td><td><b>HOLLYWOOD</b><br/><sub>Peso Pluma, Estevan Plazola</sub></td><td><a href="https://open.spotify.com/track/7j5DZTwgUTbBS39DZucDz9"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ff34611201eb1d4eed0cddbd" width="36" height="36" alt="album art"/></td><td><b>Nothing Left (feat. Will Heard)</b><br/><sub>Kygo, Will Heard</sub></td><td><a href="https://open.spotify.com/track/0j0DNujXWeupLpZobbABoo"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028ea5cb3019ba4d4d8dd302ef" width="36" height="36" alt="album art"/></td><td><b>Muhuuuuu</b><br/><sub>Lazare, ADDAM (BE)</sub></td><td><a href="https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
