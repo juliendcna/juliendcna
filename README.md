@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->16 May 2026, 20:55 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->17 May 2026, 20:59 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e7031965c3b6938d71212535" width="36" height="36" alt="album art"/></td><td><b>Cry (Just A Little) - Radio Edit</b><br/><sub>Bingo Players</sub></td><td><a href="https://open.spotify.com/track/3PXamtUEGjrl9vaFxZ318n"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e1c5abf73f4283a1754e20c0" width="36" height="36" alt="album art"/></td><td><b>All I Know (with Khalid)</b><br/><sub>Rudimental, Khalid</sub></td><td><a href="https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b3e7c22cb885cb6cb36b7049" width="36" height="36" alt="album art"/></td><td><b>Blind (feat. Emmi) - Radio Edit</b><br/><sub>Feder, Emmi</sub></td><td><a href="https://open.spotify.com/track/66Cipjt48FUYGrdNSRfkIC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02927c93e23ede299f18afc9c5" width="36" height="36" alt="album art"/></td><td><b>My Love (2024)</b><br/><sub>Alex Wann, Route 94, Jess Glynne</sub></td><td><a href="https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0235f23dd3c46967b6459286c8" width="36" height="36" alt="album art"/></td><td><b>We Could Be Love</b><br/><sub>Hayden James, AR/CO</sub></td><td><a href="https://open.spotify.com/track/0bVZmDucXR96aZQJxHlE5m"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02490db4a35f658b73b30e18fe" width="36" height="36" alt="album art"/></td><td><b>HOLLYWOOD</b><br/><sub>Peso Pluma, Estevan Plazola</sub></td><td><a href="https://open.spotify.com/track/7j5DZTwgUTbBS39DZucDz9"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ff34611201eb1d4eed0cddbd" width="36" height="36" alt="album art"/></td><td><b>Nothing Left (feat. Will Heard)</b><br/><sub>Kygo, Will Heard</sub></td><td><a href="https://open.spotify.com/track/0j0DNujXWeupLpZobbABoo"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
