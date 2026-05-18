@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->17 May 2026, 20:59 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->18 May 2026, 21:16 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -137,8 +137,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d" width="36" height="36" alt="artist"/></td><td><b>J Balvin</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034" width="36" height="36" alt="artist"/></td><td><b>Justin Bieber</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab6761610000517466041ce9eb4497057cbc3496" width="36" height="36" alt="artist"/></td><td><b>KAROL G</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174766397ec42a573a53eb5fb87" width="36" height="36" alt="artist"/></td><td><b>Ariana Grande</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6761610000517466041ce9eb4497057cbc3496" width="36" height="36" alt="artist"/></td><td><b>KAROL G</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e7031965c3b6938d71212535" width="36" height="36" alt="album art"/></td><td><b>Cry (Just A Little) - Radio Edit</b><br/><sub>Bingo Players</sub></td><td><a href="https://open.spotify.com/track/3PXamtUEGjrl9vaFxZ318n"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e1c5abf73f4283a1754e20c0" width="36" height="36" alt="album art"/></td><td><b>All I Know (with Khalid)</b><br/><sub>Rudimental, Khalid</sub></td><td><a href="https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b3e7c22cb885cb6cb36b7049" width="36" height="36" alt="album art"/></td><td><b>Blind (feat. Emmi) - Radio Edit</b><br/><sub>Feder, Emmi</sub></td><td><a href="https://open.spotify.com/track/66Cipjt48FUYGrdNSRfkIC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02927c93e23ede299f18afc9c5" width="36" height="36" alt="album art"/></td><td><b>My Love (2024)</b><br/><sub>Alex Wann, Route 94, Jess Glynne</sub></td><td><a href="https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0235f23dd3c46967b6459286c8" width="36" height="36" alt="album art"/></td><td><b>We Could Be Love</b><br/><sub>Hayden James, AR/CO</sub></td><td><a href="https://open.spotify.com/track/0bVZmDucXR96aZQJxHlE5m"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0230c44ddb6197f965637e2b7a" width="36" height="36" alt="album art"/></td><td><b>Baby</b><br/><sub>Bakermat</sub></td><td><a href="https://open.spotify.com/track/1bA2ZK7CFxEMnyn1dWP2jp"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028daa8ac6367fc997c1873b9b" width="36" height="36" alt="album art"/></td><td><b>This Is What You Came For</b><br/><sub>Calvin Harris, Rihanna</sub></td><td><a href="https://open.spotify.com/track/2vlDrKpOC0eSTqTDRcbYyw"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f8358e838064832a3e78fc75" width="36" height="36" alt="album art"/></td><td><b>Hypnotized</b><br/><sub>Purple Disco Machine, Sophie and the Giants</sub></td><td><a href="https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023f97d4244eff5852477d9ee0" width="36" height="36" alt="album art"/></td><td><b>Hot N Cold</b><br/><sub>Katy Perry</sub></td><td><a href="https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029c3e368d0f0c43578ec7d0d4" width="36" height="36" alt="album art"/></td><td><b>I Got U - Radio Edit</b><br/><sub>Duke Dumont, Jax Jones</sub></td><td><a href="https://open.spotify.com/track/7zT1g7FxLVIZKwrw41jBci"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
