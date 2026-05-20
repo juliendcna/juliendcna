@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->19 May 2026, 21:23 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->20 May 2026, 22:00 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -121,8 +121,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e029c684d9cc55defa208560829" width="36" height="36" alt="album art"/></td><td><b>Beneath the Surface</b><br/><sub>Demons Of Ruby Mae</sub></td><td><a href="https://open.spotify.com/track/4Jd1CAMpMCkGEnuxXGLtjU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e026bc7473df6c9d1fd90972e84" width="36" height="36" alt="album art"/></td><td><b>Same Old Love</b><br/><sub>Selena Gomez</sub></td><td><a href="https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0223b82f8efef5a4b0082271e4" width="36" height="36" alt="album art"/></td><td><b>Turn off the Lights</b><br/><sub>Chris Lake, Alexis Roberts</sub></td><td><a href="https://open.spotify.com/track/42CMeHqi0S8sbKvrzLyixS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02707fe4c159f0384c613dc4d2" width="36" height="36" alt="album art"/></td><td><b>Sleepwalking</b><br/><sub>The Chain Gang Of 1974</sub></td><td><a href="https://open.spotify.com/track/0j4mJiFv3L87bl9X5MPMsm"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02093920c6d1f62f023e5a9a68" width="36" height="36" alt="album art"/></td><td><b>Evacuate the Dancefloor - Radio Edit</b><br/><sub>Cascada</sub></td><td><a href="https://open.spotify.com/track/2JreXnkSzK2oVk2yQInpsi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f25708a82f08e58dcc7271bc" width="36" height="36" alt="album art"/></td><td><b>Boom Clap</b><br/><sub>Charli xcx</sub></td><td><a href="https://open.spotify.com/track/3x2YIvkLcxvZQsA5x6xyIR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -137,8 +137,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d" width="36" height="36" alt="artist"/></td><td><b>J Balvin</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034" width="36" height="36" alt="artist"/></td><td><b>Justin Bieber</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174766397ec42a573a53eb5fb87" width="36" height="36" alt="artist"/></td><td><b>Ariana Grande</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517466041ce9eb4497057cbc3496" width="36" height="36" alt="artist"/></td><td><b>KAROL G</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174766397ec42a573a53eb5fb87" width="36" height="36" alt="artist"/></td><td><b>Ariana Grande</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0230c44ddb6197f965637e2b7a" width="36" height="36" alt="album art"/></td><td><b>Baby</b><br/><sub>Bakermat</sub></td><td><a href="https://open.spotify.com/track/1bA2ZK7CFxEMnyn1dWP2jp"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028daa8ac6367fc997c1873b9b" width="36" height="36" alt="album art"/></td><td><b>This Is What You Came For</b><br/><sub>Calvin Harris, Rihanna</sub></td><td><a href="https://open.spotify.com/track/2vlDrKpOC0eSTqTDRcbYyw"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f8358e838064832a3e78fc75" width="36" height="36" alt="album art"/></td><td><b>Hypnotized</b><br/><sub>Purple Disco Machine, Sophie and the Giants</sub></td><td><a href="https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023f97d4244eff5852477d9ee0" width="36" height="36" alt="album art"/></td><td><b>Hot N Cold</b><br/><sub>Katy Perry</sub></td><td><a href="https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029c3e368d0f0c43578ec7d0d4" width="36" height="36" alt="album art"/></td><td><b>I Got U - Radio Edit</b><br/><sub>Duke Dumont, Jax Jones</sub></td><td><a href="https://open.spotify.com/track/7zT1g7FxLVIZKwrw41jBci"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02012c188de1167b6a71c33a53" width="36" height="36" alt="album art"/></td><td><b>We Are Mirage</b><br/><sub>Eric Prydz, Empire Of The Sun</sub></td><td><a href="https://open.spotify.com/track/6mTnH6xSYwKohtsO9RFzcc"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02755a9f1e89ad8e8cf91d4956" width="36" height="36" alt="album art"/></td><td><b>Apologize</b><br/><sub>Timbaland, OneRepublic</sub></td><td><a href="https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029234d656a24527d4fc27ec15" width="36" height="36" alt="album art"/></td><td><b>Love Me Again - Vice Remix</b><br/><sub>John Newman, Vice, Kemal Golden</sub></td><td><a href="https://open.spotify.com/track/2KEtbCU9LVC4u7Ah9suEuK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021841b15585341c98f761d252" width="36" height="36" alt="album art"/></td><td><b>Tu Boda</b><br/><sub>Oscar Maydon, Fuerza Regida</sub></td><td><a href="https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02707fe4c159f0384c613dc4d2" width="36" height="36" alt="album art"/></td><td><b>Sleepwalking</b><br/><sub>The Chain Gang Of 1974</sub></td><td><a href="https://open.spotify.com/track/0j4mJiFv3L87bl9X5MPMsm"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
