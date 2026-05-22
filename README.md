@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->21 May 2026, 21:39 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->22 May 2026, 21:15 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -135,8 +135,8 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034" width="36" height="36" alt="artist"/></td><td><b>Justin Bieber</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d" width="36" height="36" alt="artist"/></td><td><b>J Balvin</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034" width="36" height="36" alt="artist"/></td><td><b>Justin Bieber</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517466041ce9eb4497057cbc3496" width="36" height="36" alt="artist"/></td><td><b>KAROL G</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174c1719ac9e6a75c1c25835018" width="36" height="36" alt="artist"/></td><td><b>The Weeknd</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027b84b5d956376cb8e55425f5" width="36" height="36" alt="album art"/></td><td><b>FLAKITO</b><br/><sub>Quevedo</sub></td><td><a href="https://open.spotify.com/track/32oPtn23E4YAoSsGSNm3J3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027b84b5d956376cb8e55425f5" width="36" height="36" alt="album art"/></td><td><b>FLAKITO</b><br/><sub>Quevedo</sub></td><td><a href="https://open.spotify.com/track/32oPtn23E4YAoSsGSNm3J3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02996764071dbd5240eefb2422" width="36" height="36" alt="album art"/></td><td><b>S E X P L A Y L I S T 1</b><br/><sub>Omar Courtz, Rauw Alejandro</sub></td><td><a href="https://open.spotify.com/track/7w3G5VXJLLbuaWylG7hvVi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020e409fad9527196e73e423ba" width="36" height="36" alt="album art"/></td><td><b>TU VAS SIN (fav)</b><br/><sub>Rels B</sub></td><td><a href="https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0290af5246adcaa93acb721c17" width="36" height="36" alt="album art"/></td><td><b>COMERNOS</b><br/><sub>Omar Courtz, Bad Gyal</sub></td><td><a href="https://open.spotify.com/track/2TYZU0Fvfp5b7gbfqdIAq6"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02aa4491f635497528c1ca09d4" width="36" height="36" alt="album art"/></td><td><b>Buenos Días</b><br/><sub>Eladio Carrion</sub></td><td><a href="https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02007da39ab5596e4e6c204e30" width="36" height="36" alt="album art"/></td><td><b>EL CIELO</b><br/><sub>Rels B, Kali Uchis</sub></td><td><a href="https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f885fb64a381318a1c9c14e4" width="36" height="36" alt="album art"/></td><td><b>Sci-Fi</b><br/><sub>Tainy, Rauw Alejandro</sub></td><td><a href="https://open.spotify.com/track/3fhYAsNRR99ETnqrBZdAy0"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72" width="36" height="36" alt="album art"/></td><td><b>Agosto</b><br/><sub>Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028ab2844ab5337106db41e5ce" width="36" height="36" alt="album art"/></td><td><b>LOVE</b><br/><sub>Clarent</sub></td><td><a href="https://open.spotify.com/track/21syhl9aagHDATZqFHkfjD"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
