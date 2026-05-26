@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->25 May 2026, 21:15 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->26 May 2026, 21:48 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -122,7 +122,7 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e026bc7473df6c9d1fd90972e84" width="36" height="36" alt="album art"/></td><td><b>Same Old Love</b><br/><sub>Selena Gomez</sub></td><td><a href="https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0223b82f8efef5a4b0082271e4" width="36" height="36" alt="album art"/></td><td><b>Turn off the Lights</b><br/><sub>Chris Lake, Alexis Roberts</sub></td><td><a href="https://open.spotify.com/track/42CMeHqi0S8sbKvrzLyixS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a4c01842096428fb14859bdc" width="36" height="36" alt="album art"/></td><td><b>You Make Me Feel... (feat. Sabi)</b><br/><sub>Cobra Starship, Sabi</sub></td><td><a href="https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02707fe4c159f0384c613dc4d2" width="36" height="36" alt="album art"/></td><td><b>Sleepwalking</b><br/><sub>The Chain Gang Of 1974</sub></td><td><a href="https://open.spotify.com/track/0j4mJiFv3L87bl9X5MPMsm"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02093920c6d1f62f023e5a9a68" width="36" height="36" alt="album art"/></td><td><b>Evacuate the Dancefloor - Radio Edit</b><br/><sub>Cascada</sub></td><td><a href="https://open.spotify.com/track/2JreXnkSzK2oVk2yQInpsi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e7639e45d5213cb381d337da" width="36" height="36" alt="album art"/></td><td><b>Or Noir</b><br/><sub>Kaaris</sub></td><td><a href="https://open.spotify.com/track/48vVLay0B0HdQ5SJbgBqLG"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fc8563c0dc75d79e73c2dca0" width="36" height="36" alt="album art"/></td><td><b>Coco Chanel</b><br/><sub>Eladio Carrion, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02786828906b330e1690816d3b" width="36" height="36" alt="album art"/></td><td><b>Waiting All Night (feat. Ella Eyre)</b><br/><sub>Rudimental, Ella Eyre</sub></td><td><a href="https://open.spotify.com/track/666elemQTQGi8xbjAAdIgB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f1aad814a40ec7419c234242" width="36" height="36" alt="album art"/></td><td><b>LUNA</b><br/><sub>Feid, ATL Jacob</sub></td><td><a href="https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0211b9999b620ef9bc0e957623" width="36" height="36" alt="album art"/></td><td><b>No Me Dejes Solo</b><br/><sub>Daddy Yankee, Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/4CjuGBDMwSDpjzWtWINN5g"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027d974d57026584d4796410f4" width="36" height="36" alt="album art"/></td><td><b>Billion Stars</b><br/><sub>Lynx3R</sub></td><td><a href="https://open.spotify.com/track/09vJ5GAIPCBSpJqQyHQrrz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020a76c5660f78f8e512d6629b" width="36" height="36" alt="album art"/></td><td><b>Closer</b><br/><sub>Bou, Slay</sub></td><td><a href="https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02262e593290fbbdcd188a7420" width="36" height="36" alt="album art"/></td><td><b>Vino Bandit</b><br/><sub>K Motionz, Songer</sub></td><td><a href="https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0283efc2bcc542bb38526b072c" width="36" height="36" alt="album art"/></td><td><b>I Run - DnB</b><br/><sub>tripperbeats</sub></td><td><a href="https://open.spotify.com/track/39IVvAMaS6gEBdUWCx4D8v"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0283efc2bcc542bb38526b072c" width="36" height="36" alt="album art"/></td><td><b>I Run - DnB</b><br/><sub>tripperbeats</sub></td><td><a href="https://open.spotify.com/track/39IVvAMaS6gEBdUWCx4D8v"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
