@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->26 May 2026, 21:48 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->27 May 2026, 22:00 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -122,7 +122,7 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e026bc7473df6c9d1fd90972e84" width="36" height="36" alt="album art"/></td><td><b>Same Old Love</b><br/><sub>Selena Gomez</sub></td><td><a href="https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0223b82f8efef5a4b0082271e4" width="36" height="36" alt="album art"/></td><td><b>Turn off the Lights</b><br/><sub>Chris Lake, Alexis Roberts</sub></td><td><a href="https://open.spotify.com/track/42CMeHqi0S8sbKvrzLyixS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a4c01842096428fb14859bdc" width="36" height="36" alt="album art"/></td><td><b>You Make Me Feel... (feat. Sabi)</b><br/><sub>Cobra Starship, Sabi</sub></td><td><a href="https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02093920c6d1f62f023e5a9a68" width="36" height="36" alt="album art"/></td><td><b>Evacuate the Dancefloor - Radio Edit</b><br/><sub>Cascada</sub></td><td><a href="https://open.spotify.com/track/2JreXnkSzK2oVk2yQInpsi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025bfc5e218df1fd72e8393680" width="36" height="36" alt="album art"/></td><td><b>Ella Me Levantó</b><br/><sub>Daddy Yankee</sub></td><td><a href="https://open.spotify.com/track/0nhbuIdjSaPEdflhu3fK2l"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027d974d57026584d4796410f4" width="36" height="36" alt="album art"/></td><td><b>Billion Stars</b><br/><sub>Lynx3R</sub></td><td><a href="https://open.spotify.com/track/09vJ5GAIPCBSpJqQyHQrrz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020a76c5660f78f8e512d6629b" width="36" height="36" alt="album art"/></td><td><b>Closer</b><br/><sub>Bou, Slay</sub></td><td><a href="https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02262e593290fbbdcd188a7420" width="36" height="36" alt="album art"/></td><td><b>Vino Bandit</b><br/><sub>K Motionz, Songer</sub></td><td><a href="https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0283efc2bcc542bb38526b072c" width="36" height="36" alt="album art"/></td><td><b>I Run - DnB</b><br/><sub>tripperbeats</sub></td><td><a href="https://open.spotify.com/track/39IVvAMaS6gEBdUWCx4D8v"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0283efc2bcc542bb38526b072c" width="36" height="36" alt="album art"/></td><td><b>I Run - DnB</b><br/><sub>tripperbeats</sub></td><td><a href="https://open.spotify.com/track/39IVvAMaS6gEBdUWCx4D8v"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0290a221d4840d6bda3956beea" width="36" height="36" alt="album art"/></td><td><b>Mi Gente</b><br/><sub>J Balvin, Willy William</sub></td><td><a href="https://open.spotify.com/track/03aENfSuuy3VS0sbgH7u1D"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b661d9d73921e40ae97cb5e4" width="36" height="36" alt="album art"/></td><td><b>GIVENCHY</b><br/><sub>Duki</sub></td><td><a href="https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02976be14b5e8f1e7b5d8e340c" width="36" height="36" alt="album art"/></td><td><b>El Efecto</b><br/><sub>Rauw Alejandro, Chencho Corleone</sub></td><td><a href="https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02519266cd05491a5b5bc22d1e" width="36" height="36" alt="album art"/></td><td><b>La Romana</b><br/><sub>Bad Bunny, El Alfa</sub></td><td><a href="https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025c469837f14caa284f77cee4" width="36" height="36" alt="album art"/></td><td><b>Se Menea</b><br/><sub>Don Omar, Nio Garcia</sub></td><td><a href="https://open.spotify.com/track/0S2bSxQZo9oiArvkEIpsPu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
