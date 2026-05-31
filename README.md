@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->30 May 2026, 21:04 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->31 May 2026, 21:05 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029bfb875202433356f112edb1" width="36" height="36" alt="album art"/></td><td><b>Saab 900</b><br/><sub>Honey.</sub></td><td><a href="https://open.spotify.com/track/0v3aPNOMzZryOLkZ9nGGyi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029e9b7e737eb7ccbbfd5cfb69" width="36" height="36" alt="album art"/></td><td><b>Roll it up (20 past 4 anthem)</b><br/><sub>Murkage, Vibe Chemistry, Devilman, Jman</sub></td><td><a href="https://open.spotify.com/track/77YD079zdGquATTtu8VRiG"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e6775184dd9076cb06b3bef0" width="36" height="36" alt="album art"/></td><td><b>Hold Me In Heaven</b><br/><sub>Andromedik, Arcando, Raphaella</sub></td><td><a href="https://open.spotify.com/track/5EXprmPJtnGKgfIT8bejLV"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c88f4342b96bc66c68381606" width="36" height="36" alt="album art"/></td><td><b>All I Know (with Khalid)</b><br/><sub>Rudimental, Khalid</sub></td><td><a href="https://open.spotify.com/track/4DdCH1WbRz8KacHVMdRfmt"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0219c7b34201fed832322ed6ba" width="36" height="36" alt="album art"/></td><td><b>Flashback</b><br/><sub>Calvin Harris</sub></td><td><a href="https://open.spotify.com/track/1CcS1yrulOFPXYk7NVKAm2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02401bf6103d4b7f5230a21582" width="36" height="36" alt="album art"/></td><td><b>Never Forget You</b><br/><sub>Zara Larsson, MNEK</sub></td><td><a href="https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f6fa4a75fccc308f26c726c6" width="36" height="36" alt="album art"/></td><td><b>I Like It</b><br/><sub>Enrique Iglesias, Pitbull</sub></td><td><a href="https://open.spotify.com/track/7HacCTm33hZYYN8DXpCYuG"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0229a11127a1ccc876fe6ded9e" width="36" height="36" alt="album art"/></td><td><b>(When You Gonna) Give It Up to Me - Radio Version</b><br/><sub>Sean Paul, Keyshia Cole</sub></td><td><a href="https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0215785fa4f22f8c50902b3a42" width="36" height="36" alt="album art"/></td><td><b>Wild Ones (feat. Sia)</b><br/><sub>Flo Rida, Sia</sub></td><td><a href="https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b" width="36" height="36" alt="album art"/></td><td><b>Latch</b><br/><sub>Disclosure, Sam Smith</sub></td><td><a href="https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
