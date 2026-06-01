@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->31 May 2026, 21:05 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->01 Jun 2026, 22:33 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -135,8 +135,8 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051749a6918fd0b2fd675d63c675d" width="36" height="36" alt="artist"/></td><td><b>Daddy Yankee</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d" width="36" height="36" alt="artist"/></td><td><b>J Balvin</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051747ef745018ee8093fb00cd71f" width="36" height="36" alt="artist"/></td><td><b>Don Omar</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02401bf6103d4b7f5230a21582" width="36" height="36" alt="album art"/></td><td><b>Never Forget You</b><br/><sub>Zara Larsson, MNEK</sub></td><td><a href="https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f6fa4a75fccc308f26c726c6" width="36" height="36" alt="album art"/></td><td><b>I Like It</b><br/><sub>Enrique Iglesias, Pitbull</sub></td><td><a href="https://open.spotify.com/track/7HacCTm33hZYYN8DXpCYuG"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0229a11127a1ccc876fe6ded9e" width="36" height="36" alt="album art"/></td><td><b>(When You Gonna) Give It Up to Me - Radio Version</b><br/><sub>Sean Paul, Keyshia Cole</sub></td><td><a href="https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0215785fa4f22f8c50902b3a42" width="36" height="36" alt="album art"/></td><td><b>Wild Ones (feat. Sia)</b><br/><sub>Flo Rida, Sia</sub></td><td><a href="https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b" width="36" height="36" alt="album art"/></td><td><b>Latch</b><br/><sub>Disclosure, Sam Smith</sub></td><td><a href="https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0272d674be73fb8100238c4dd7" width="36" height="36" alt="album art"/></td><td><b>Here for You (feat. Ella Henderson)</b><br/><sub>Kygo, Ella Henderson</sub></td><td><a href="https://open.spotify.com/track/7vqUr6K2Js9Paq4kdNSOm6"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0282d05c17550c2fcfbc208e5a" width="36" height="36" alt="album art"/></td><td><b>You Are My High - 2024 Remastered</b><br/><sub>Demon</sub></td><td><a href="https://open.spotify.com/track/4HUMMFH06dIfzUG2ht1BJN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d1b85127f6d81eb690a68022" width="36" height="36" alt="album art"/></td><td><b>What You Need</b><br/><sub>Steve Angello, Wh0</sub></td><td><a href="https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027971049dbe093a2da0227268" width="36" height="36" alt="album art"/></td><td><b>Call Your Name</b><br/><sub>Alesso, John Newman</sub></td><td><a href="https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028b5c6d6bb24f7e5bb43b8b44" width="36" height="36" alt="album art"/></td><td><b>Cold Heart - Claptone Remix</b><br/><sub>Elton John, Dua Lipa, Claptone</sub></td><td><a href="https://open.spotify.com/track/3ck2KxuP99yTwWzdf8piiC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
