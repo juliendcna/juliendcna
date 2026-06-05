@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->04 Jun 2026, 21:44 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Jun 2026, 21:37 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c00ce62eeefe679fee27764c" width="36" height="36" alt="album art"/></td><td><b>Las Muñequitas</b><br/><sub>Mr Plata, El Americano 4KT</sub></td><td><a href="https://open.spotify.com/track/3yidFe42tke37g3KP7wzZr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02cf4c32b6fc82dd08bae7697e" width="36" height="36" alt="album art"/></td><td><b>YOGURCITO</b><br/><sub>Blessd</sub></td><td><a href="https://open.spotify.com/track/6rZno3nqeT7hv2PnSWRuYS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02dfa17fad7f190c901603270e" width="36" height="36" alt="album art"/></td><td><b>SWIM</b><br/><sub>BTS</sub></td><td><a href="https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022feb67a486bcf117e7fb15b0" width="36" height="36" alt="album art"/></td><td><b>mi refe</b><br/><sub>Beéle, Ovy On The Drums</sub></td><td><a href="https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0258476875bb86ae6b610c4b23" width="36" height="36" alt="album art"/></td><td><b>Hasta Aquí Llegué</b><br/><sub>Nanpa Básico, Beéle</sub></td><td><a href="https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022feb67a486bcf117e7fb15b0" width="36" height="36" alt="album art"/></td><td><b>no tiene sentido</b><br/><sub>Beéle</sub></td><td><a href="https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ff6fe92fb304613518d68e26" width="36" height="36" alt="album art"/></td><td><b>Te Entiendo - Remix</b><br/><sub>Maisak, Feid, Maluma</sub></td><td><a href="https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02725d2eaad98a9332d4fae899" width="36" height="36" alt="album art"/></td><td><b>CHÉVERE (premium_remix)</b><br/><sub>ARIA VEGA, Ryan Castro</sub></td><td><a href="https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c0353d023daf5ebda0eb003b" width="36" height="36" alt="album art"/></td><td><b>La Plena - W Sound 05</b><br/><sub>W Sound, Beéle, Ovy On The Drums</sub></td><td><a href="https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ece85a893843b0963f4b8a2b" width="36" height="36" alt="album art"/></td><td><b>NUEVA YORK</b><br/><sub>Blessd, Los Money Makers, Prodmonja</sub></td><td><a href="https://open.spotify.com/track/5U3sC7aA5NxoMSeI1kmO2n"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
