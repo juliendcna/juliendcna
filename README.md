@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Jun 2026, 21:37 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->06 Jun 2026, 21:09 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -122,7 +122,7 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f2c16a50e33a97850f1692c1" width="36" height="36" alt="album art"/></td><td><b>Me Estas Tentando</b><br/><sub>Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/7JVIiaJPFiZypYSOMREhhA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0211b9999b620ef9bc0e957623" width="36" height="36" alt="album art"/></td><td><b>No Me Dejes Solo</b><br/><sub>Daddy Yankee, Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/4CjuGBDMwSDpjzWtWINN5g"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0230c958b0bed6e79846e1d35b" width="36" height="36" alt="album art"/></td><td><b>Ayer La Vi</b><br/><sub>Don Omar</sub></td><td><a href="https://open.spotify.com/track/3gvGnkmg8zVZdBAx4B7Cvq"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021b540c6520c468dfc0171a60" width="36" height="36" alt="album art"/></td><td><b>King</b><br/><sub>Olly Alexander (Years & Years)</sub></td><td><a href="https://open.spotify.com/track/5Z3zRrMIJk7CVpfcLsM9wD"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025bfc5e218df1fd72e8393680" width="36" height="36" alt="album art"/></td><td><b>Ella Me Levantó</b><br/><sub>Daddy Yankee</sub></td><td><a href="https://open.spotify.com/track/0nhbuIdjSaPEdflhu3fK2l"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022feb67a486bcf117e7fb15b0" width="36" height="36" alt="album art"/></td><td><b>no tiene sentido</b><br/><sub>Beéle</sub></td><td><a href="https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ff6fe92fb304613518d68e26" width="36" height="36" alt="album art"/></td><td><b>Te Entiendo - Remix</b><br/><sub>Maisak, Feid, Maluma</sub></td><td><a href="https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02725d2eaad98a9332d4fae899" width="36" height="36" alt="album art"/></td><td><b>CHÉVERE (premium_remix)</b><br/><sub>ARIA VEGA, Ryan Castro</sub></td><td><a href="https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c0353d023daf5ebda0eb003b" width="36" height="36" alt="album art"/></td><td><b>La Plena - W Sound 05</b><br/><sub>W Sound, Beéle, Ovy On The Drums</sub></td><td><a href="https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ece85a893843b0963f4b8a2b" width="36" height="36" alt="album art"/></td><td><b>NUEVA YORK</b><br/><sub>Blessd, Los Money Makers, Prodmonja</sub></td><td><a href="https://open.spotify.com/track/5U3sC7aA5NxoMSeI1kmO2n"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029948d51cd8429de7b415d1b3" width="36" height="36" alt="album art"/></td><td><b>Fronteo</b><br/><sub>Plan B</sub></td><td><a href="https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02883f1033e2ffc09d7e8b8e42" width="36" height="36" alt="album art"/></td><td><b>Callate y Besame</b><br/><sub>El Bogueto</sub></td><td><a href="https://open.spotify.com/track/4I7u8l7P2A409S1emPOUhX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026ed39fc4ac85aa4ce6ea1793" width="36" height="36" alt="album art"/></td><td><b>PERDISTE EL EMMY.</b><br/><sub>Alvaro Diaz, Tainy</sub></td><td><a href="https://open.spotify.com/track/13ZG0ttABjb0rpL84bOBm6"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c6f871435b37ea62d7032f29" width="36" height="36" alt="album art"/></td><td><b>El Teléfono</b><br/><sub>Héctor "El Father", Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02acfbf7d95b4dd77f8e414859" width="36" height="36" alt="album art"/></td><td><b>UWAIE</b><br/><sub>Kapo</sub></td><td><a href="https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
