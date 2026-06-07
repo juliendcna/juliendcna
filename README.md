@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->06 Jun 2026, 21:09 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->07 Jun 2026, 21:18 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029948d51cd8429de7b415d1b3" width="36" height="36" alt="album art"/></td><td><b>Fronteo</b><br/><sub>Plan B</sub></td><td><a href="https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02883f1033e2ffc09d7e8b8e42" width="36" height="36" alt="album art"/></td><td><b>Callate y Besame</b><br/><sub>El Bogueto</sub></td><td><a href="https://open.spotify.com/track/4I7u8l7P2A409S1emPOUhX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026ed39fc4ac85aa4ce6ea1793" width="36" height="36" alt="album art"/></td><td><b>PERDISTE EL EMMY.</b><br/><sub>Alvaro Diaz, Tainy</sub></td><td><a href="https://open.spotify.com/track/13ZG0ttABjb0rpL84bOBm6"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c6f871435b37ea62d7032f29" width="36" height="36" alt="album art"/></td><td><b>El Teléfono</b><br/><sub>Héctor "El Father", Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02acfbf7d95b4dd77f8e414859" width="36" height="36" alt="album art"/></td><td><b>UWAIE</b><br/><sub>Kapo</sub></td><td><a href="https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a6224f2f93c0ab4b2e01b44b" width="36" height="36" alt="album art"/></td><td><b>Qué Pasaría...</b><br/><sub>Rauw Alejandro, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0290af5246adcaa93acb721c17" width="36" height="36" alt="album art"/></td><td><b>FOREVER TU GANTEL</b><br/><sub>Omar Courtz, Ñengo Flow</sub></td><td><a href="https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e7e82d16e6475db8495e258f" width="36" height="36" alt="album art"/></td><td><b>PONTE PONTE</b><br/><sub>Katteyes</sub></td><td><a href="https://open.spotify.com/track/5pmWnKBWCUazCzhwmKQ4yY"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020a8d9e15e84265d2b6b3b8a5" width="36" height="36" alt="album art"/></td><td><b>Caducaste</b><br/><sub>Zion, Chencho Corleone</sub></td><td><a href="https://open.spotify.com/track/3k0au8hNwghIrLsfpP2W4z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0297c33a00a6864c78bf691266" width="36" height="36" alt="album art"/></td><td><b>Chula Vente</b><br/><sub>Luis R Conriquez, Fuerza Regida, Neton Vega</sub></td><td><a href="https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
