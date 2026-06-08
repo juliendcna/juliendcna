@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->07 Jun 2026, 21:18 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->08 Jun 2026, 21:54 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -118,11 +118,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029c684d9cc55defa208560829" width="36" height="36" alt="album art"/></td><td><b>Beneath the Surface</b><br/><sub>Demons Of Ruby Mae</sub></td><td><a href="https://open.spotify.com/track/4Jd1CAMpMCkGEnuxXGLtjU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f2c16a50e33a97850f1692c1" width="36" height="36" alt="album art"/></td><td><b>Me Estas Tentando</b><br/><sub>Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/7JVIiaJPFiZypYSOMREhhA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0211b9999b620ef9bc0e957623" width="36" height="36" alt="album art"/></td><td><b>No Me Dejes Solo</b><br/><sub>Daddy Yankee, Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/4CjuGBDMwSDpjzWtWINN5g"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0230c958b0bed6e79846e1d35b" width="36" height="36" alt="album art"/></td><td><b>Ayer La Vi</b><br/><sub>Don Omar</sub></td><td><a href="https://open.spotify.com/track/3gvGnkmg8zVZdBAx4B7Cvq"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e025bfc5e218df1fd72e8393680" width="36" height="36" alt="album art"/></td><td><b>Ella Me Levantó</b><br/><sub>Daddy Yankee</sub></td><td><a href="https://open.spotify.com/track/0nhbuIdjSaPEdflhu3fK2l"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021fbb8aa211472dc81f4e4ebc" width="36" height="36" alt="album art"/></td><td><b>Súbelo</b><br/><sub>Anuel AA, Myke Towers, JHAYCO</sub></td><td><a href="https://open.spotify.com/track/3xv8JksRyqHa1lwkM9xvJf"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -134,11 +134,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051747ef745018ee8093fb00cd71f" width="36" height="36" alt="artist"/></td><td><b>Don Omar</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051749a6918fd0b2fd675d63c675d" width="36" height="36" alt="artist"/></td><td><b>Daddy Yankee</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d" width="36" height="36" alt="artist"/></td><td><b>J Balvin</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a6224f2f93c0ab4b2e01b44b" width="36" height="36" alt="album art"/></td><td><b>Qué Pasaría...</b><br/><sub>Rauw Alejandro, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0290af5246adcaa93acb721c17" width="36" height="36" alt="album art"/></td><td><b>FOREVER TU GANTEL</b><br/><sub>Omar Courtz, Ñengo Flow</sub></td><td><a href="https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e7e82d16e6475db8495e258f" width="36" height="36" alt="album art"/></td><td><b>PONTE PONTE</b><br/><sub>Katteyes</sub></td><td><a href="https://open.spotify.com/track/5pmWnKBWCUazCzhwmKQ4yY"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020a8d9e15e84265d2b6b3b8a5" width="36" height="36" alt="album art"/></td><td><b>Caducaste</b><br/><sub>Zion, Chencho Corleone</sub></td><td><a href="https://open.spotify.com/track/3k0au8hNwghIrLsfpP2W4z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0297c33a00a6864c78bf691266" width="36" height="36" alt="album art"/></td><td><b>Chula Vente</b><br/><sub>Luis R Conriquez, Fuerza Regida, Neton Vega</sub></td><td><a href="https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022372ef8dbdcdd797de8956bb" width="36" height="36" alt="album art"/></td><td><b>Quiero Bailar</b><br/><sub>Ivy Queen</sub></td><td><a href="https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02479be26fc986c3b52be1728b" width="36" height="36" alt="album art"/></td><td><b>Pegao</b><br/><sub>Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/2cOLPCuhMrTzrErYHwVFAj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e5afb354deaef85c02abe6d2" width="36" height="36" alt="album art"/></td><td><b>Siente El Boom (feat. Randy)</b><br/><sub>Boy Wonder CF, Tito "El Bambino", Randy</sub></td><td><a href="https://open.spotify.com/track/12nxXb0ABx0anVAQJQWnqU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02380b461de17a4df922f07f3a" width="36" height="36" alt="album art"/></td><td><b>Soy una Gargola</b><br/><sub>Alex Gargolas, Randy Nota Loca</sub></td><td><a href="https://open.spotify.com/track/1Hu8EMKCGD25srDybGOtBC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021de7e895a0244574bc5f32c5" width="36" height="36" alt="album art"/></td><td><b>Mala Conducta (feat. Franco El Gorila)</b><br/><sub>Alexis y Fido, Franco "El Gorilla"</sub></td><td><a href="https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
