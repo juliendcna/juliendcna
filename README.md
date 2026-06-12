@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->11 Jun 2026, 22:05 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->12 Jun 2026, 21:52 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -120,9 +120,9 @@
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f2c16a50e33a97850f1692c1" width="36" height="36" alt="album art"/></td><td><b>Me Estas Tentando</b><br/><sub>Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/7JVIiaJPFiZypYSOMREhhA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0211b9999b620ef9bc0e957623" width="36" height="36" alt="album art"/></td><td><b>No Me Dejes Solo</b><br/><sub>Daddy Yankee, Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/4CjuGBDMwSDpjzWtWINN5g"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0280368f0aa8f90c51674f9dd2" width="36" height="36" alt="album art"/></td><td><b>Higher Love</b><br/><sub>Kygo, Whitney Houston</sub></td><td><a href="https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0230c958b0bed6e79846e1d35b" width="36" height="36" alt="album art"/></td><td><b>Ayer La Vi</b><br/><sub>Don Omar</sub></td><td><a href="https://open.spotify.com/track/3gvGnkmg8zVZdBAx4B7Cvq"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b574d4c9929a31926d5faf1b" width="36" height="36" alt="album art"/></td><td><b>Runaway (U & I)</b><br/><sub>Galantis</sub></td><td><a href="https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0290af5246adcaa93acb721c17" width="36" height="36" alt="album art"/></td><td><b>KOKO</b><br/><sub>Omar Courtz</sub></td><td><a href="https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -136,9 +136,9 @@
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051747ef745018ee8093fb00cd71f" width="36" height="36" alt="artist"/></td><td><b>Don Omar</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051749a6918fd0b2fd675d63c675d" width="36" height="36" alt="artist"/></td><td><b>Daddy Yankee</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051749a6918fd0b2fd675d63c675d" width="36" height="36" alt="artist"/></td><td><b>Daddy Yankee</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174f5b8ee60f1f4ee3453aba40b" width="36" height="36" alt="artist"/></td><td><b>Martin Garrix</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028fba5806a323efd272677c4d" width="36" height="36" alt="album art"/></td><td><b>Blame (feat. John Newman)</b><br/><sub>Calvin Harris, John Newman</sub></td><td><a href="https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0262100064780b1d919a95fcf4" width="36" height="36" alt="album art"/></td><td><b>Midnight City</b><br/><sub>M83</sub></td><td><a href="https://open.spotify.com/track/6GyFP1nfCDB8lbD2bG0Hq9"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0272d674be73fb8100238c4dd7" width="36" height="36" alt="album art"/></td><td><b>Here for You (feat. Ella Henderson)</b><br/><sub>Kygo, Ella Henderson</sub></td><td><a href="https://open.spotify.com/track/7vqUr6K2Js9Paq4kdNSOm6"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0297aa7586b7633e103aceb8ba" width="36" height="36" alt="album art"/></td><td><b>Miss You - Bonus Track</b><br/><sub>Oliver Tree, Robin Schulz</sub></td><td><a href="https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021c5eacf6965d328c2c795cef" width="36" height="36" alt="album art"/></td><td><b>We Found Love</b><br/><sub>Rihanna, Calvin Harris</sub></td><td><a href="https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02151decd939d9cffa865f4031" width="36" height="36" alt="album art"/></td><td><b>Azukita</b><br/><sub>Steve Aoki, Daddy Yankee, Play-N-Skillz, Elvis Crespo</sub></td><td><a href="https://open.spotify.com/track/5e45GhSF18JYoLpaq2F48h"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e4cb0aff43891b506e1d9871" width="36" height="36" alt="album art"/></td><td><b>Distant</b><br/><sub>Maes, Ninho</sub></td><td><a href="https://open.spotify.com/track/1Sb7QJRawbARgpMqyYNMkT"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02065650b72a110b1c120f355d" width="36" height="36" alt="album art"/></td><td><b>Beggin - Original Version</b><br/><sub>Madcon</sub></td><td><a href="https://open.spotify.com/track/7eXrGBrl1mBKhxlWX0IoOQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0283cf24814fcafff4c997b785" width="36" height="36" alt="album art"/></td><td><b>CHEGOU 3</b><br/><sub>shonci, Mc Magrinho</sub></td><td><a href="https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02723d4df900fd02eff83579d9" width="36" height="36" alt="album art"/></td><td><b>Marea (we’ve lost dancing)</b><br/><sub>Fred again.., The Blessed Madonna</sub></td><td><a href="https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
