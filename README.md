@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->12 Jun 2026, 21:52 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->13 Jun 2026, 21:20 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02151decd939d9cffa865f4031" width="36" height="36" alt="album art"/></td><td><b>Azukita</b><br/><sub>Steve Aoki, Daddy Yankee, Play-N-Skillz, Elvis Crespo</sub></td><td><a href="https://open.spotify.com/track/5e45GhSF18JYoLpaq2F48h"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e4cb0aff43891b506e1d9871" width="36" height="36" alt="album art"/></td><td><b>Distant</b><br/><sub>Maes, Ninho</sub></td><td><a href="https://open.spotify.com/track/1Sb7QJRawbARgpMqyYNMkT"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02065650b72a110b1c120f355d" width="36" height="36" alt="album art"/></td><td><b>Beggin - Original Version</b><br/><sub>Madcon</sub></td><td><a href="https://open.spotify.com/track/7eXrGBrl1mBKhxlWX0IoOQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0283cf24814fcafff4c997b785" width="36" height="36" alt="album art"/></td><td><b>CHEGOU 3</b><br/><sub>shonci, Mc Magrinho</sub></td><td><a href="https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02723d4df900fd02eff83579d9" width="36" height="36" alt="album art"/></td><td><b>Marea (we’ve lost dancing)</b><br/><sub>Fred again.., The Blessed Madonna</sub></td><td><a href="https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0295a2cf9262058fff7dfe3674" width="36" height="36" alt="album art"/></td><td><b>Felices los 4</b><br/><sub>Maluma</sub></td><td><a href="https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0216623964d62d6ed94e6fc9b5" width="36" height="36" alt="album art"/></td><td><b>Pumped Up - Ryan Riback Remix</b><br/><sub>Klingande, Ryan Riback</sub></td><td><a href="https://open.spotify.com/track/3XZNwaPCGK4I4c6fpqQmHF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0252e61456aa4995ba48d94e30" width="36" height="36" alt="album art"/></td><td><b>Ni**as In Paris</b><br/><sub>JAŸ-Z, Kanye West</sub></td><td><a href="https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02aad332680f96106effa6c4f7" width="36" height="36" alt="album art"/></td><td><b>Your Voice - Adam Port Remix</b><br/><sub>Caiiro, AWEN, Adam Port</sub></td><td><a href="https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025b6bcc59c3562a6f362344c6" width="36" height="36" alt="album art"/></td><td><b>Fast Car</b><br/><sub>Jonas Blue, Dakota</sub></td><td><a href="https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
