@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->13 Jun 2026, 21:20 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->14 Jun 2026, 21:17 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0295a2cf9262058fff7dfe3674" width="36" height="36" alt="album art"/></td><td><b>Felices los 4</b><br/><sub>Maluma</sub></td><td><a href="https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0216623964d62d6ed94e6fc9b5" width="36" height="36" alt="album art"/></td><td><b>Pumped Up - Ryan Riback Remix</b><br/><sub>Klingande, Ryan Riback</sub></td><td><a href="https://open.spotify.com/track/3XZNwaPCGK4I4c6fpqQmHF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0252e61456aa4995ba48d94e30" width="36" height="36" alt="album art"/></td><td><b>Ni**as In Paris</b><br/><sub>JAŸ-Z, Kanye West</sub></td><td><a href="https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02aad332680f96106effa6c4f7" width="36" height="36" alt="album art"/></td><td><b>Your Voice - Adam Port Remix</b><br/><sub>Caiiro, AWEN, Adam Port</sub></td><td><a href="https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025b6bcc59c3562a6f362344c6" width="36" height="36" alt="album art"/></td><td><b>Fast Car</b><br/><sub>Jonas Blue, Dakota</sub></td><td><a href="https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b38d10a0f9eabec693d8f96e" width="36" height="36" alt="album art"/></td><td><b>Love Me Again</b><br/><sub>John Newman</sub></td><td><a href="https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02585d609a2d843529e8805150" width="36" height="36" alt="album art"/></td><td><b>Sauti</b><br/><sub>Francis Mercier, Faul & Wad, African Children's Choir</sub></td><td><a href="https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e93e7e9e4384f48aea3ed8ed" width="36" height="36" alt="album art"/></td><td><b>Tell Me Why</b><br/><sub>Sound Of Legend</sub></td><td><a href="https://open.spotify.com/track/2b8wujKHgpmcTm7nThSU2V"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025e637584b3a504d501357557" width="36" height="36" alt="album art"/></td><td><b>Easy Love</b><br/><sub>Sigala</sub></td><td><a href="https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b736151ed1c04f2d41d5f69e" width="36" height="36" alt="album art"/></td><td><b>Murder On The Dancefloor</b><br/><sub>Sophie Ellis-Bextor</sub></td><td><a href="https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
