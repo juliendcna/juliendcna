@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->14 Jun 2026, 21:17 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->15 Jun 2026, 22:22 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -134,11 +134,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174f5b8ee60f1f4ee3453aba40b" width="36" height="36" alt="artist"/></td><td><b>Martin Garrix</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051747ef745018ee8093fb00cd71f" width="36" height="36" alt="artist"/></td><td><b>Don Omar</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051749a6918fd0b2fd675d63c675d" width="36" height="36" alt="artist"/></td><td><b>Daddy Yankee</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174f5b8ee60f1f4ee3453aba40b" width="36" height="36" alt="artist"/></td><td><b>Martin Garrix</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b38d10a0f9eabec693d8f96e" width="36" height="36" alt="album art"/></td><td><b>Love Me Again</b><br/><sub>John Newman</sub></td><td><a href="https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02585d609a2d843529e8805150" width="36" height="36" alt="album art"/></td><td><b>Sauti</b><br/><sub>Francis Mercier, Faul & Wad, African Children's Choir</sub></td><td><a href="https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e93e7e9e4384f48aea3ed8ed" width="36" height="36" alt="album art"/></td><td><b>Tell Me Why</b><br/><sub>Sound Of Legend</sub></td><td><a href="https://open.spotify.com/track/2b8wujKHgpmcTm7nThSU2V"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025e637584b3a504d501357557" width="36" height="36" alt="album art"/></td><td><b>Easy Love</b><br/><sub>Sigala</sub></td><td><a href="https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b736151ed1c04f2d41d5f69e" width="36" height="36" alt="album art"/></td><td><b>Murder On The Dancefloor</b><br/><sub>Sophie Ellis-Bextor</sub></td><td><a href="https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028d5589c8d434d3b97e7fea96" width="36" height="36" alt="album art"/></td><td><b>Figa De Guiné</b><br/><sub>Mari Froes</sub></td><td><a href="https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c01ab1c4b2dceb2cfc89e6fa" width="36" height="36" alt="album art"/></td><td><b>Reality</b><br/><sub>Lost Frequencies, Janieck</sub></td><td><a href="https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021dfae5c2bc54a1ab4b7bd5c5" width="36" height="36" alt="album art"/></td><td><b>Never Be Like You</b><br/><sub>Flume, kai</sub></td><td><a href="https://open.spotify.com/track/476j7IDRIDRvv1Xu71EVc8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02394949e7ae8e852dc9f28776" width="36" height="36" alt="album art"/></td><td><b>Hold On & Believe (feat. The Federal Empire)</b><br/><sub>Martin Garrix, The Federal Empire</sub></td><td><a href="https://open.spotify.com/track/0raCeGWafugoSGJAA33FAa"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bf34660a2cc3f4d83966b1e7" width="36" height="36" alt="album art"/></td><td><b>Me, Myself & I</b><br/><sub>G-Eazy, Bebe Rexha</sub></td><td><a href="https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
