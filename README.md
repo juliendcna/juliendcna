@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->15 Jun 2026, 22:22 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->16 Jun 2026, 22:17 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028d5589c8d434d3b97e7fea96" width="36" height="36" alt="album art"/></td><td><b>Figa De Guiné</b><br/><sub>Mari Froes</sub></td><td><a href="https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c01ab1c4b2dceb2cfc89e6fa" width="36" height="36" alt="album art"/></td><td><b>Reality</b><br/><sub>Lost Frequencies, Janieck</sub></td><td><a href="https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021dfae5c2bc54a1ab4b7bd5c5" width="36" height="36" alt="album art"/></td><td><b>Never Be Like You</b><br/><sub>Flume, kai</sub></td><td><a href="https://open.spotify.com/track/476j7IDRIDRvv1Xu71EVc8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02394949e7ae8e852dc9f28776" width="36" height="36" alt="album art"/></td><td><b>Hold On & Believe (feat. The Federal Empire)</b><br/><sub>Martin Garrix, The Federal Empire</sub></td><td><a href="https://open.spotify.com/track/0raCeGWafugoSGJAA33FAa"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bf34660a2cc3f4d83966b1e7" width="36" height="36" alt="album art"/></td><td><b>Me, Myself & I</b><br/><sub>G-Eazy, Bebe Rexha</sub></td><td><a href="https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae" width="36" height="36" alt="album art"/></td><td><b>21 Questions</b><br/><sub>50 Cent, Nate Dogg</sub></td><td><a href="https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04" width="36" height="36" alt="album art"/></td><td><b>Could You Be Loved</b><br/><sub>Bob Marley & The Wailers</sub></td><td><a href="https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0217f2b062fbbcfe6e2831c4d5" width="36" height="36" alt="album art"/></td><td><b>Boogie Wonderland (with The Emotions)</b><br/><sub>Earth, Wind & Fire, The Emotions</sub></td><td><a href="https://open.spotify.com/track/1zyttisKStIB1UMSU7464i"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0263a085d38ba0eaaf005460b0" width="36" height="36" alt="album art"/></td><td><b>What Is Love - Klaas Radio Edit</b><br/><sub>Klaas, Haddaway</sub></td><td><a href="https://open.spotify.com/track/0gawHUPWolEGHxrjYL8emB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0223aadddba5e96a7390d1669f" width="36" height="36" alt="album art"/></td><td><b>Fuego</b><br/><sub>Alok, Bhaskar</sub></td><td><a href="https://open.spotify.com/track/30pVSKdzBpZ9Np4Y2bJbFM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
