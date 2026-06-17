@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->16 Jun 2026, 22:17 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->17 Jun 2026, 22:04 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -121,8 +121,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f2c16a50e33a97850f1692c1" width="36" height="36" alt="album art"/></td><td><b>Me Estas Tentando</b><br/><sub>Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/7JVIiaJPFiZypYSOMREhhA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0211b9999b620ef9bc0e957623" width="36" height="36" alt="album art"/></td><td><b>No Me Dejes Solo</b><br/><sub>Daddy Yankee, Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/4CjuGBDMwSDpjzWtWINN5g"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0280368f0aa8f90c51674f9dd2" width="36" height="36" alt="album art"/></td><td><b>Higher Love</b><br/><sub>Kygo, Whitney Houston</sub></td><td><a href="https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0290af5246adcaa93acb721c17" width="36" height="36" alt="album art"/></td><td><b>KOKO</b><br/><sub>Omar Courtz</sub></td><td><a href="https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0230c958b0bed6e79846e1d35b" width="36" height="36" alt="album art"/></td><td><b>Ayer La Vi</b><br/><sub>Don Omar</sub></td><td><a href="https://open.spotify.com/track/3gvGnkmg8zVZdBAx4B7Cvq"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b574d4c9929a31926d5faf1b" width="36" height="36" alt="album art"/></td><td><b>Runaway (U & I)</b><br/><sub>Galantis</sub></td><td><a href="https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae" width="36" height="36" alt="album art"/></td><td><b>21 Questions</b><br/><sub>50 Cent, Nate Dogg</sub></td><td><a href="https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04" width="36" height="36" alt="album art"/></td><td><b>Could You Be Loved</b><br/><sub>Bob Marley & The Wailers</sub></td><td><a href="https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0217f2b062fbbcfe6e2831c4d5" width="36" height="36" alt="album art"/></td><td><b>Boogie Wonderland (with The Emotions)</b><br/><sub>Earth, Wind & Fire, The Emotions</sub></td><td><a href="https://open.spotify.com/track/1zyttisKStIB1UMSU7464i"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0263a085d38ba0eaaf005460b0" width="36" height="36" alt="album art"/></td><td><b>What Is Love - Klaas Radio Edit</b><br/><sub>Klaas, Haddaway</sub></td><td><a href="https://open.spotify.com/track/0gawHUPWolEGHxrjYL8emB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0223aadddba5e96a7390d1669f" width="36" height="36" alt="album art"/></td><td><b>Fuego</b><br/><sub>Alok, Bhaskar</sub></td><td><a href="https://open.spotify.com/track/30pVSKdzBpZ9Np4Y2bJbFM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0233dba85c0860b77b79b9b12a" width="36" height="36" alt="album art"/></td><td><b>Ojalá</b><br/><sub>Ryan Castro</sub></td><td><a href="https://open.spotify.com/track/3YSkiK0JAaWvZVh0rFa3ja"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ef354f9b30924a0c9f9c6ce3" width="36" height="36" alt="album art"/></td><td><b>ACTITUD</b><br/><sub>Caluu C., THORLONDON</sub></td><td><a href="https://open.spotify.com/track/3eH9YO3o0jLBBwTayCsRCI"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02db751ea8f6bb30c6e2dbc9e4" width="36" height="36" alt="album art"/></td><td><b>Pico Y Chao (W Sound 08)</b><br/><sub>W Sound, Kris R., Ovy On The Drums</sub></td><td><a href="https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0290af5246adcaa93acb721c17" width="36" height="36" alt="album art"/></td><td><b>KOKO</b><br/><sub>Omar Courtz</sub></td><td><a href="https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02595c866ba8d19bd9dd531bdc" width="36" height="36" alt="album art"/></td><td><b>Ya Borracho</b><br/><sub>Herencia De Grandes</sub></td><td><a href="https://open.spotify.com/track/4NyUIohBa3CEMGcXURYSOh"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
