@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->18 Jun 2026, 22:17 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->19 Jun 2026, 21:12 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022feb67a486bcf117e7fb15b0" width="36" height="36" alt="album art"/></td><td><b>no tiene sentido</b><br/><sub>Beéle</sub></td><td><a href="https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02294ea58a8ac4ae598c46d0b0" width="36" height="36" alt="album art"/></td><td><b>Pa' Que La Pases Bien</b><br/><sub>Arcángel</sub></td><td><a href="https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0203cadf1b3fe324c1dc710ed4" width="36" height="36" alt="album art"/></td><td><b>Dai Dai</b><br/><sub>Shakira, Burna Boy</sub></td><td><a href="https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021530ac7f94ecc4b8f913200b" width="36" height="36" alt="album art"/></td><td><b>kexuxa</b><br/><sub>Bla-De, Unreleasedx</sub></td><td><a href="https://open.spotify.com/track/6Ur74prbd7QDVVRdqYecjR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02548f7ec52da7313de0c5e4a0" width="36" height="36" alt="album art"/></td><td><b>Vete</b><br/><sub>Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/2n7ohqg1s68ToAHh4u9mcW"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022393ac757022287d011243ff" width="36" height="36" alt="album art"/></td><td><b>SOLEAO</b><br/><sub>Myke Towers, Quevedo</sub></td><td><a href="https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02569b422cabf0dff20561a6f6" width="36" height="36" alt="album art"/></td><td><b>orióN</b><br/><sub>Boza, ELENA ROSE</sub></td><td><a href="https://open.spotify.com/track/4feh4Ak3ZJfC6ibxkNzlkE"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a7009065e3adf3430e04f63a" width="36" height="36" alt="album art"/></td><td><b>Vente Pa' Ca (feat. Maluma)</b><br/><sub>Ricky Martin, Maluma</sub></td><td><a href="https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0228f1339fc31bdba46751678d" width="36" height="36" alt="album art"/></td><td><b>Se Le Ve</b><br/><sub>Kybba, Ryan Castro, Bad Gyal, Topboy TGR</sub></td><td><a href="https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fcb728019668a4ed423a9d15" width="36" height="36" alt="album art"/></td><td><b>Soltera - W Sound 01</b><br/><sub>W Sound, Blessd, Ovy On The Drums</sub></td><td><a href="https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
