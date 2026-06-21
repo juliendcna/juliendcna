@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->20 Jun 2026, 21:21 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->21 Jun 2026, 21:19 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0266ab16a0f75d517304f18efd" width="36" height="36" alt="album art"/></td><td><b>Vaina Loca</b><br/><sub>Ozuna, Manuel Turizo</sub></td><td><a href="https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0290af5246adcaa93acb721c17" width="36" height="36" alt="album art"/></td><td><b>SKY</b><br/><sub>Omar Courtz</sub></td><td><a href="https://open.spotify.com/track/52eJOGfsKEEkHrfZt6Kl3p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027cfd5799249c246f420aac32" width="36" height="36" alt="album art"/></td><td><b>ALMAS GEMELAS</b><br/><sub>Myke Towers</sub></td><td><a href="https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02996764071dbd5240eefb2422" width="36" height="36" alt="album art"/></td><td><b>⁠LUCES DE COLORES</b><br/><sub>Omar Courtz</sub></td><td><a href="https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e022393ac757022287d011243ff" width="36" height="36" alt="album art"/></td><td><b>SOLEAO</b><br/><sub>Myke Towers, Quevedo</sub></td><td><a href="https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02569b422cabf0dff20561a6f6" width="36" height="36" alt="album art"/></td><td><b>orióN</b><br/><sub>Boza, ELENA ROSE</sub></td><td><a href="https://open.spotify.com/track/4feh4Ak3ZJfC6ibxkNzlkE"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a7009065e3adf3430e04f63a" width="36" height="36" alt="album art"/></td><td><b>Vente Pa' Ca (feat. Maluma)</b><br/><sub>Ricky Martin, Maluma</sub></td><td><a href="https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0228f1339fc31bdba46751678d" width="36" height="36" alt="album art"/></td><td><b>Se Le Ve</b><br/><sub>Kybba, Ryan Castro, Bad Gyal, Topboy TGR</sub></td><td><a href="https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fcb728019668a4ed423a9d15" width="36" height="36" alt="album art"/></td><td><b>Soltera - W Sound 01</b><br/><sub>W Sound, Blessd, Ovy On The Drums</sub></td><td><a href="https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
