@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->22 Jun 2026, 22:07 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->23 Jun 2026, 21:45 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -136,9 +136,9 @@
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f5b8ee60f1f4ee3453aba40b" width="36" height="36" alt="artist"/></td><td><b>Martin Garrix</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051747ef745018ee8093fb00cd71f" width="36" height="36" alt="artist"/></td><td><b>Don Omar</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051749a6918fd0b2fd675d63c675d" width="36" height="36" alt="artist"/></td><td><b>Daddy Yankee</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0266ab16a0f75d517304f18efd" width="36" height="36" alt="album art"/></td><td><b>Vaina Loca</b><br/><sub>Ozuna, Manuel Turizo</sub></td><td><a href="https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0290af5246adcaa93acb721c17" width="36" height="36" alt="album art"/></td><td><b>SKY</b><br/><sub>Omar Courtz</sub></td><td><a href="https://open.spotify.com/track/52eJOGfsKEEkHrfZt6Kl3p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027cfd5799249c246f420aac32" width="36" height="36" alt="album art"/></td><td><b>ALMAS GEMELAS</b><br/><sub>Myke Towers</sub></td><td><a href="https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02996764071dbd5240eefb2422" width="36" height="36" alt="album art"/></td><td><b>⁠LUCES DE COLORES</b><br/><sub>Omar Courtz</sub></td><td><a href="https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022393ac757022287d011243ff" width="36" height="36" alt="album art"/></td><td><b>SOLEAO</b><br/><sub>Myke Towers, Quevedo</sub></td><td><a href="https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028ac778cc7d88779f74d33311" width="36" height="36" alt="album art"/></td><td><b>Around the World</b><br/><sub>Daft Punk</sub></td><td><a href="https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ac2be70b09319ac92b074fde" width="36" height="36" alt="album art"/></td><td><b>Where You Are</b><br/><sub>John Summit, HAYLA</sub></td><td><a href="https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c20213a7803b338e20a1e7d7" width="36" height="36" alt="album art"/></td><td><b>Mammoth</b><br/><sub>Dimitri Vegas, MOGUAI, Like Mike</sub></td><td><a href="https://open.spotify.com/track/0KNYrJlQoXIUMatEyuwFlU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b574d4c9929a31926d5faf1b" width="36" height="36" alt="album art"/></td><td><b>Runaway (U & I)</b><br/><sub>Galantis</sub></td><td><a href="https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029041b9965925059507fb44af" width="36" height="36" alt="album art"/></td><td><b>The Days - NOTION Remix</b><br/><sub>Chrystal, NOTION</sub></td><td><a href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
