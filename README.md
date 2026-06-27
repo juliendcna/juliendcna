@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->26 Jun 2026, 21:23 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->27 Jun 2026, 21:09 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -137,8 +137,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658" width="36" height="36" alt="artist"/></td><td><b>Kygo</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f5b8ee60f1f4ee3453aba40b" width="36" height="36" alt="artist"/></td><td><b>Martin Garrix</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f150017ca69c8793503c2d4f" width="36" height="36" alt="artist"/></td><td><b>David Guetta</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174175df1a8848d8ff67c6d5600" width="36" height="36" alt="artist"/></td><td><b>DJ Snake</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051740b084ede947f009beade9a6a" width="36" height="36" alt="artist"/></td><td><b>Disclosure</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c0353d023daf5ebda0eb003b" width="36" height="36" alt="album art"/></td><td><b>La Plena - W Sound 05</b><br/><sub>W Sound, Beéle, Ovy On The Drums</sub></td><td><a href="https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f870f2ab7d70c6ab2114a5e2" width="36" height="36" alt="album art"/></td><td><b>TUTUTU</b><br/><sub>ELENA ROSE, Alleh</sub></td><td><a href="https://open.spotify.com/track/6Og7yuXfE5KyE8dSHU8yap"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02996764071dbd5240eefb2422" width="36" height="36" alt="album art"/></td><td><b>Q U E V A S H A C E R H O Y ?</b><br/><sub>Omar Courtz, De La Rose</sub></td><td><a href="https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a6fa856d2b032f6a11fcc0dd" width="36" height="36" alt="album art"/></td><td><b>Explícale (feat. Bad Bunny)</b><br/><sub>Yandel, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/1LszjjoVwDDZcWUQbzeDLG"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02341b4de2eb74ee18d282df0a" width="36" height="36" alt="album art"/></td><td><b>¿Cual Es Tu Plan?</b><br/><sub>Bad Bunny, Ñejo, Pj Sin Suela, DJ Nelson</sub></td><td><a href="https://open.spotify.com/track/45jM2fuCq0NHD9p7xn0ptd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0269f943d4d094f77b42e5aadf" width="36" height="36" alt="album art"/></td><td><b>Hace Mucho Tiempo</b><br/><sub>Arcángel</sub></td><td><a href="https://open.spotify.com/track/0a6ogDrZBvYgDjILgsQVaJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023cb695bfc1246bdf66161fce" width="36" height="36" alt="album art"/></td><td><b>Hasta Que Dios Diga</b><br/><sub>Anuel AA, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d6c14e902a595c3d7465f16d" width="36" height="36" alt="album art"/></td><td><b>Madura</b><br/><sub>Cosculluela, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/5n2XTRsYFlZwNBp06KAjDX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024891d9b25d8919448388f3bb" width="36" height="36" alt="album art"/></td><td><b>LA CANCIÓN</b><br/><sub>J Balvin, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72" width="36" height="36" alt="album art"/></td><td><b>Callaita</b><br/><sub>Bad Bunny, Tainy</sub></td><td><a href="https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
