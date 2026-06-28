@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->27 Jun 2026, 21:09 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->28 Jun 2026, 21:07 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02614b5974ec6e23185462700b" width="36" height="36" alt="album art"/></td><td><b>Imaginaste</b><br/><sub>JHAYCO, Tainy</sub></td><td><a href="https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0269f943d4d094f77b42e5aadf" width="36" height="36" alt="album art"/></td><td><b>Hace Mucho Tiempo</b><br/><sub>Arcángel</sub></td><td><a href="https://open.spotify.com/track/0a6ogDrZBvYgDjILgsQVaJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e023cb695bfc1246bdf66161fce" width="36" height="36" alt="album art"/></td><td><b>Hasta Que Dios Diga</b><br/><sub>Anuel AA, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d6c14e902a595c3d7465f16d" width="36" height="36" alt="album art"/></td><td><b>Madura</b><br/><sub>Cosculluela, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/5n2XTRsYFlZwNBp06KAjDX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e024891d9b25d8919448388f3bb" width="36" height="36" alt="album art"/></td><td><b>LA CANCIÓN</b><br/><sub>J Balvin, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72" width="36" height="36" alt="album art"/></td><td><b>Callaita</b><br/><sub>Bad Bunny, Tainy</sub></td><td><a href="https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
