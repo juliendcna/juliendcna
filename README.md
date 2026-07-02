@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->01 Jul 2026, 21:40 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->02 Jul 2026, 21:13 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -118,11 +118,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c00ce62eeefe679fee27764c" width="36" height="36" alt="album art"/></td><td><b>Las Muñequitas</b><br/><sub>Mr Plata, El Americano 4KT</sub></td><td><a href="https://open.spotify.com/track/3yidFe42tke37g3KP7wzZr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeaaa69786db98d2bf2771eb" width="36" height="36" alt="album art"/></td><td><b>La Ocasión</b><br/><sub>DJ Luian, Mambo Kingz, De La Ghetto, Arcángel, Ozuna</sub></td><td><a href="https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b" width="36" height="36" alt="album art"/></td><td><b>Latch</b><br/><sub>Disclosure, Sam Smith</sub></td><td><a href="https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b574d4c9929a31926d5faf1b" width="36" height="36" alt="album art"/></td><td><b>Runaway (U & I)</b><br/><sub>Galantis</sub></td><td><a href="https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0280368f0aa8f90c51674f9dd2" width="36" height="36" alt="album art"/></td><td><b>Higher Love</b><br/><sub>Kygo, Whitney Houston</sub></td><td><a href="https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028d8aeb06bc64c6b1c7b5b485" width="36" height="36" alt="album art"/></td><td><b>Baby When the Light (feat. Cozi)</b><br/><sub>David Guetta, Steve Angello, Cozi</sub></td><td><a href="https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c00ce62eeefe679fee27764c" width="36" height="36" alt="album art"/></td><td><b>Las Muñequitas</b><br/><sub>Mr Plata, El Americano 4KT</sub></td><td><a href="https://open.spotify.com/track/3yidFe42tke37g3KP7wzZr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029aaa796c11497e3e61bdcff0" width="36" height="36" alt="album art"/></td><td><b>Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)</b><br/><sub>Maluma, Trap Capos, Noriel, Bryant Myers, Juhn</sub></td><td><a href="https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -135,10 +135,10 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f5b8ee60f1f4ee3453aba40b" width="36" height="36" alt="artist"/></td><td><b>Martin Garrix</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f150017ca69c8793503c2d4f" width="36" height="36" alt="artist"/></td><td><b>David Guetta</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174576eba1d58ac9097d4a1adb9" width="36" height="36" alt="artist"/></td><td><b>Henry Morris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174c1719ac9e6a75c1c25835018" width="36" height="36" alt="artist"/></td><td><b>The Weeknd</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051747520cf8cf5c0395d388ce696" width="36" height="36" alt="artist"/></td><td><b>Martin Solveig</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029df722b3b03fda33141ae8e8" width="36" height="36" alt="album art"/></td><td><b>Caile</b><br/><sub>Bad Bunny, Bryant Myers, De La Ghetto, Revol, Zion</sub></td><td><a href="https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeaaa69786db98d2bf2771eb" width="36" height="36" alt="album art"/></td><td><b>La Ocasión</b><br/><sub>DJ Luian, Mambo Kingz, De La Ghetto, Arcángel, Ozuna</sub></td><td><a href="https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029aaa796c11497e3e61bdcff0" width="36" height="36" alt="album art"/></td><td><b>Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)</b><br/><sub>Maluma, Trap Capos, Noriel, Bryant Myers, Juhn</sub></td><td><a href="https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029aaa796c11497e3e61bdcff0" width="36" height="36" alt="album art"/></td><td><b>Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)</b><br/><sub>Maluma, Trap Capos, Noriel, Bryant Myers, Juhn</sub></td><td><a href="https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ec748231035512e229a1376e" width="36" height="36" alt="album art"/></td><td><b>Vuelve</b><br/><sub>Daddy Yankee, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0202437c12633fff64cece1b43" width="36" height="36" alt="album art"/></td><td><b>Punto G - (Remix)</b><br/><sub>Brytiago, Farruko, Darell, Arcángel, De La Ghetto</sub></td><td><a href="https://open.spotify.com/track/2AoKiaQylcQaUwsJNKdJOo"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026a890260194d85f648af0d6a" width="36" height="36" alt="album art"/></td><td><b>Si Tu Novio Te Deja Sola</b><br/><sub>J Balvin, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02df19ccb4d64713deb5695a6a" width="36" height="36" alt="album art"/></td><td><b>Me Llueven</b><br/><sub>Mark B., Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/2Iv7PCElmi1dZfzHWzMczA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b0a875d7f1bfe4ec4aaffa48" width="36" height="36" alt="album art"/></td><td><b>El Farsante</b><br/><sub>Ozuna</sub></td><td><a href="https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f62aa1dd0b43f583418cd018" width="36" height="36" alt="album art"/></td><td><b>Diles</b><br/><sub>Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow</sub></td><td><a href="https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
