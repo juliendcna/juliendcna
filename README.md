@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Jul 2026, 21:07 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->06 Jul 2026, 21:39 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a30df8393a00b22fc09c7e9a" width="36" height="36" alt="album art"/></td><td><b>BBY BOO - REMIX</b><br/><sub>iZaak, JHAYCO, Anuel AA</sub></td><td><a href="https://open.spotify.com/track/6BMePaob0uE30t364H6KfL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029ffb99a9a28c0adeb365c4c7" width="36" height="36" alt="album art"/></td><td><b>Choca</b><br/><sub>Plan B</sub></td><td><a href="https://open.spotify.com/track/5E0gsHgrsCwG4FxTit0ltJ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ac0c4be7e86061fca80f862d" width="36" height="36" alt="album art"/></td><td><b>Explícale (feat. Cosculluela & Brytiago) - Remix</b><br/><sub>Yandel, Bad Bunny, Noriel, Cosculluela, Brytiago</sub></td><td><a href="https://open.spotify.com/track/65n40RsQ9SObH7hNvVTHp0"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0282b38d05417145fb5289d7a3" width="36" height="36" alt="album art"/></td><td><b>Amantes de una Noche</b><br/><sub>NATTI NATASHA, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/3BccBzVmd2t5xxktYhzYjR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b60919a3ee3faf57c4ac9679" width="36" height="36" alt="album art"/></td><td><b>Percocet (Remix)</b><br/><sub>Alex Rose, Lenny Tavárez, Quimico Ultra Mega, Chris Wandell</sub></td><td><a href="https://open.spotify.com/track/4dFcLT443YzbUDkVvbF8hu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027da4895c8715a196147ee168" width="36" height="36" alt="album art"/></td><td><b>Kyoto</b><br/><sub>Omar Courtz, De La Rose, Haze</sub></td><td><a href="https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fbc938268bef7aa9a0dafd71" width="36" height="36" alt="album art"/></td><td><b>Me Llamas</b><br/><sub>Arcángel, Mark B., De La Ghetto, Bad Bunny, Amenazzy</sub></td><td><a href="https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028604e7b15a267a4c2e54c51a" width="36" height="36" alt="album art"/></td><td><b>VVS</b><br/><sub>Dei V</sub></td><td><a href="https://open.spotify.com/track/1yNa5Sd2tijUuR3hJJ8uvk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fa9d91ad81ab5b27aa4d5239" width="36" height="36" alt="album art"/></td><td><b>Air Drop</b><br/><sub>Bryant Myers</sub></td><td><a href="https://open.spotify.com/track/1oP4qehV9MBDaA89mfb1HR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023aaeecb1bbae8cfcf4dff63d" width="36" height="36" alt="album art"/></td><td><b>Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)</b><br/><sub>Pepe Quintana, Almighty, Anuel AA, Bryant Myers, Farruko</sub></td><td><a href="https://open.spotify.com/track/2opYh9ZmKbiVrzEuPgrCTX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
