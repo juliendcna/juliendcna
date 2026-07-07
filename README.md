@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->06 Jul 2026, 21:39 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->07 Jul 2026, 21:27 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027da4895c8715a196147ee168" width="36" height="36" alt="album art"/></td><td><b>Kyoto</b><br/><sub>Omar Courtz, De La Rose, Haze</sub></td><td><a href="https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fbc938268bef7aa9a0dafd71" width="36" height="36" alt="album art"/></td><td><b>Me Llamas</b><br/><sub>Arcángel, Mark B., De La Ghetto, Bad Bunny, Amenazzy</sub></td><td><a href="https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028604e7b15a267a4c2e54c51a" width="36" height="36" alt="album art"/></td><td><b>VVS</b><br/><sub>Dei V</sub></td><td><a href="https://open.spotify.com/track/1yNa5Sd2tijUuR3hJJ8uvk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fa9d91ad81ab5b27aa4d5239" width="36" height="36" alt="album art"/></td><td><b>Air Drop</b><br/><sub>Bryant Myers</sub></td><td><a href="https://open.spotify.com/track/1oP4qehV9MBDaA89mfb1HR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023aaeecb1bbae8cfcf4dff63d" width="36" height="36" alt="album art"/></td><td><b>Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)</b><br/><sub>Pepe Quintana, Almighty, Anuel AA, Bryant Myers, Farruko</sub></td><td><a href="https://open.spotify.com/track/2opYh9ZmKbiVrzEuPgrCTX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023b52eca47232bedfbb5e9443" width="36" height="36" alt="album art"/></td><td><b>Dancing With A Stranger (with Normani)</b><br/><sub>Sam Smith, Normani</sub></td><td><a href="https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0275a97c811d77a55c74cc0d8e" width="36" height="36" alt="album art"/></td><td><b>Wait So Long (Why Do I Have To)</b><br/><sub>Swedish House Mafia</sub></td><td><a href="https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02034f85da463faf79527d1fe0" width="36" height="36" alt="album art"/></td><td><b>Dans la légende</b><br/><sub>PNL</sub></td><td><a href="https://open.spotify.com/track/5NZpY9WeWFtlHVgepfCamX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02442b53773d50e1b5369bb16c" width="36" height="36" alt="album art"/></td><td><b>Sugar</b><br/><sub>Maroon 5</sub></td><td><a href="https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bb43351e92b7bd0d121aa8fa" width="36" height="36" alt="album art"/></td><td><b>Is This Love - Montmartre Remix</b><br/><sub>Bob Marley & The Wailers, MONTMARTRE</sub></td><td><a href="https://open.spotify.com/track/3DE2xnbdTDuatFubUV0soe"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
