@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->07 Jul 2026, 21:27 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->08 Jul 2026, 21:12 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -137,8 +137,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f5b8ee60f1f4ee3453aba40b" width="36" height="36" alt="artist"/></td><td><b>Martin Garrix</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f150017ca69c8793503c2d4f" width="36" height="36" alt="artist"/></td><td><b>David Guetta</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174576eba1d58ac9097d4a1adb9" width="36" height="36" alt="artist"/></td><td><b>Henry Morris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174c1719ac9e6a75c1c25835018" width="36" height="36" alt="artist"/></td><td><b>The Weeknd</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023b52eca47232bedfbb5e9443" width="36" height="36" alt="album art"/></td><td><b>Dancing With A Stranger (with Normani)</b><br/><sub>Sam Smith, Normani</sub></td><td><a href="https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0275a97c811d77a55c74cc0d8e" width="36" height="36" alt="album art"/></td><td><b>Wait So Long (Why Do I Have To)</b><br/><sub>Swedish House Mafia</sub></td><td><a href="https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02034f85da463faf79527d1fe0" width="36" height="36" alt="album art"/></td><td><b>Dans la légende</b><br/><sub>PNL</sub></td><td><a href="https://open.spotify.com/track/5NZpY9WeWFtlHVgepfCamX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02442b53773d50e1b5369bb16c" width="36" height="36" alt="album art"/></td><td><b>Sugar</b><br/><sub>Maroon 5</sub></td><td><a href="https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bb43351e92b7bd0d121aa8fa" width="36" height="36" alt="album art"/></td><td><b>Is This Love - Montmartre Remix</b><br/><sub>Bob Marley & The Wailers, MONTMARTRE</sub></td><td><a href="https://open.spotify.com/track/3DE2xnbdTDuatFubUV0soe"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6742d3000053b7c75fae94ff0c5c708f832367" width="36" height="36" alt="album art"/></td><td><b>What's My Name?</b><br/><sub>Rihanna, Drake</sub></td><td><a href="https://open.spotify.com/track/1PxKGbexXZAKNXcicYolqo"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6742d3000053b7f7bb35f555f6117acf84eb4f" width="36" height="36" alt="album art"/></td><td><b>rockstar</b><br/><sub>Post Malone</sub></td><td><a href="https://open.spotify.com/track/1dWu7dnME86HVK1ggvNMfl"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0211dd4c0e55e78ffbf805d27b" width="36" height="36" alt="album art"/></td><td><b>What Is Love - 7" Mix</b><br/><sub>Haddaway</sub></td><td><a href="https://open.spotify.com/track/0OTO8ZF2YqFQVw9hnZylTd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6742d3000053b75063c86e06f1a88c9e2b55fc" width="36" height="36" alt="album art"/></td><td><b>Giant</b><br/><sub>Calvin Harris, Rag'n'Bone Man</sub></td><td><a href="https://open.spotify.com/track/34ev88yZmJUlPyaSGG3Zj5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b03e92f4e7dcd9db3a06c869" width="36" height="36" alt="album art"/></td><td><b>Safe and Sound</b><br/><sub>Capital Cities</sub></td><td><a href="https://open.spotify.com/track/5JVbvCHX10U2pLa5DEqGav"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
