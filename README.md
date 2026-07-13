@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->12 Jul 2026, 20:55 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->13 Jul 2026, 21:00 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -134,11 +134,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174f5b8ee60f1f4ee3453aba40b" width="36" height="36" alt="artist"/></td><td><b>Martin Garrix</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174f150017ca69c8793503c2d4f" width="36" height="36" alt="artist"/></td><td><b>David Guetta</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174d317f301a85fd77964d94b4d" width="36" height="36" alt="artist"/></td><td><b>Omar Courtz</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051749614fcf985ad6fc5b4a7c3de" width="36" height="36" alt="artist"/></td><td><b>Swedish House Mafia</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fc38dcce16b964b1d5e03f04" width="36" height="36" alt="album art"/></td><td><b>Dime</b><br/><sub>Revol, J Balvin, Bad Bunny, Arcángel, De La Ghetto</sub></td><td><a href="https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029df722b3b03fda33141ae8e8" width="36" height="36" alt="album art"/></td><td><b>Caile</b><br/><sub>Bad Bunny, Bryant Myers, De La Ghetto, Revol, Zion</sub></td><td><a href="https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeaaa69786db98d2bf2771eb" width="36" height="36" alt="album art"/></td><td><b>La Ocasión</b><br/><sub>DJ Luian, Mambo Kingz, De La Ghetto, Arcángel, Ozuna</sub></td><td><a href="https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029aaa796c11497e3e61bdcff0" width="36" height="36" alt="album art"/></td><td><b>Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)</b><br/><sub>Maluma, Trap Capos, Noriel, Bryant Myers, Juhn</sub></td><td><a href="https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ec748231035512e229a1376e" width="36" height="36" alt="album art"/></td><td><b>Vuelve</b><br/><sub>Daddy Yankee, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02397213f8b850b24ab8652bd5" width="36" height="36" alt="album art"/></td><td><b>Lola's Theme - Radio Edit</b><br/><sub>The Shapeshifters</sub></td><td><a href="https://open.spotify.com/track/60ZRKTMc94bcjiN4FI0XDm"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bc8945f4d18a31b09b80819b" width="36" height="36" alt="album art"/></td><td><b>Afraid To Feel</b><br/><sub>LF SYSTEM</sub></td><td><a href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0214663fa2b6cc9b0224d10dfa" width="36" height="36" alt="album art"/></td><td><b>Something 'Bout The Music</b><br/><sub>Tobtok, AKA George, Oliver Nelson</sub></td><td><a href="https://open.spotify.com/track/6hDVZ0lY7AaT7E519C31Ig"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029f56db7000afdb9fc66c9c78" width="36" height="36" alt="album art"/></td><td><b>San Francisco - Original Radio Edit</b><br/><sub>PH Electro</sub></td><td><a href="https://open.spotify.com/track/2RtFUNTAmY5GQwyCUtqL3b"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028b5c6d6bb24f7e5bb43b8b44" width="36" height="36" alt="album art"/></td><td><b>Cold Heart - Claptone Remix</b><br/><sub>Elton John, Dua Lipa, Claptone</sub></td><td><a href="https://open.spotify.com/track/3ck2KxuP99yTwWzdf8piiC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
