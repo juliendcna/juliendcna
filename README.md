@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->14 Jul 2026, 21:03 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->15 Jul 2026, 21:03 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -137,8 +137,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174d317f301a85fd77964d94b4d" width="36" height="36" alt="artist"/></td><td><b>Omar Courtz</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0" width="36" height="36" alt="artist"/></td><td><b>Damso</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051749614fcf985ad6fc5b4a7c3de" width="36" height="36" alt="artist"/></td><td><b>Swedish House Mafia</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ece85a893843b0963f4b8a2b" width="36" height="36" alt="album art"/></td><td><b>NUEVA YORK</b><br/><sub>Blessd, Los Money Makers, Prodmonja</sub></td><td><a href="https://open.spotify.com/track/5U3sC7aA5NxoMSeI1kmO2n"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0238d387c8592057da3e42f758" width="36" height="36" alt="album art"/></td><td><b>TUKI TUKI</b><br/><sub>Kris R., GeezyDee, Flame 火炎</sub></td><td><a href="https://open.spotify.com/track/5lZ8kgIFTHbu1PrwMj3Tqr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02863dec7e2d0e8e383f2739d4" width="36" height="36" alt="album art"/></td><td><b>REPORTATE</b><br/><sub>Maxiolly, DARKO</sub></td><td><a href="https://open.spotify.com/track/5pb3ht0LZZQCVUwmURNJI5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024891d9b25d8919448388f3bb" width="36" height="36" alt="album art"/></td><td><b>LA CANCIÓN</b><br/><sub>J Balvin, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeee66f675bbda5a1c9f66bf" width="36" height="36" alt="album art"/></td><td><b>QUÉ LÍO</b><br/><sub>Blessd</sub></td><td><a href="https://open.spotify.com/track/5vDhrXCNTkyahObQwZOYL9"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0234fc9cf3365e3e9d5f86ffe3" width="36" height="36" alt="album art"/></td><td><b>Todo Lo Fue</b><br/><sub>Lenin Ramírez</sub></td><td><a href="https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f5106daf364324f9e0595d41" width="36" height="36" alt="album art"/></td><td><b>TUKI TUKI</b><br/><sub>Kris R., GeezyDee, Flame 火炎</sub></td><td><a href="https://open.spotify.com/track/0bn8tRZZtmn6Zdq82T1mOf"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0293f5131df99137b265d7aed8" width="36" height="36" alt="album art"/></td><td><b>4 Life</b><br/><sub>Kris R.</sub></td><td><a href="https://open.spotify.com/track/3T2dGGsL9eEZofkoih3YpP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028c89b3c897279707d953bc9c" width="36" height="36" alt="album art"/></td><td><b>Bella</b><br/><sub>MHD, Wizkid</sub></td><td><a href="https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d62058e8be027d2c6d86b7c5" width="36" height="36" alt="album art"/></td><td><b>Féfé lambo</b><br/><sub>Djadja & Dinaz</sub></td><td><a href="https://open.spotify.com/track/5hzg9p5zoHldX1O9v8qJor"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
