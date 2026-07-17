@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->16 Jul 2026, 21:06 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->17 Jul 2026, 21:00 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -134,11 +134,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174d317f301a85fd77964d94b4d" width="36" height="36" alt="artist"/></td><td><b>Omar Courtz</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0" width="36" height="36" alt="artist"/></td><td><b>Damso</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174d317f301a85fd77964d94b4d" width="36" height="36" alt="artist"/></td><td><b>Omar Courtz</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051749614fcf985ad6fc5b4a7c3de" width="36" height="36" alt="artist"/></td><td><b>Swedish House Mafia</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2" width="36" height="36" alt="artist"/></td><td><b>Anuel AA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab6761610000517420c3b42a39e774df0103bce0" width="36" height="36" alt="artist"/></td><td><b>PAWSA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028d6aa2f85b904f31dbbbb1ae" width="36" height="36" alt="album art"/></td><td><b>Nobody Else</b><br/><sub>Axwell</sub></td><td><a href="https://open.spotify.com/track/7g2WfNLkwj6QeYmXleHUvi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02701a0c8fa0644a723aa93e58" width="36" height="36" alt="album art"/></td><td><b>All Night</b><br/><sub>Example</sub></td><td><a href="https://open.spotify.com/track/0Ss73hy7lPmXD2YcekqfG2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/5862b8bfa9497b8ba9dc5401af3e8a5414a804e0" width="36" height="36" alt="album art"/></td><td><b>My Body Moves</b><br/><sub>Robbie Rivera, Elizabeth Gandolfo</sub></td><td><a href="https://open.spotify.com/track/54S9I0mFQswfzVXmlhlI5m"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a5ddac6ef41429bf37fa3263" width="36" height="36" alt="album art"/></td><td><b>Show Me Love</b><br/><sub>Laidback Luke, Steve Angello, Robin S</sub></td><td><a href="https://open.spotify.com/track/5qUYWV5N28x6qZHdAcEVNm"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bbc81fccfa9dfe94fef010fd" width="36" height="36" alt="album art"/></td><td><b>Bittersweet Symphony</b><br/><sub>GAMPER & DADONI, Emily Roberts</sub></td><td><a href="https://open.spotify.com/track/0Gp23ds4JDUwan98IfNNL5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02dcef905cb144d4867119850b" width="36" height="36" alt="album art"/></td><td><b>Sweet Nothing (feat. Florence Welch)</b><br/><sub>Calvin Harris, Florence Welch</sub></td><td><a href="https://open.spotify.com/track/24LS4lQShWyixJ0ZrJXfJ5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0221c49a7d540e19b2b8fc143e" width="36" height="36" alt="album art"/></td><td><b>Breathe</b><br/><sub>Feder</sub></td><td><a href="https://open.spotify.com/track/5faMnd4SDjY9kFP4VpSPLi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02298e018d81ba66cbe93c6e62" width="36" height="36" alt="album art"/></td><td><b>Something Good</b><br/><sub>MOUNT, Nicolas Haelg</sub></td><td><a href="https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028ff7c3580d429c8212b9a3b6" width="36" height="36" alt="album art"/></td><td><b>Adventure of a Lifetime</b><br/><sub>Coldplay</sub></td><td><a href="https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02469ed92951169010bb070e28" width="36" height="36" alt="album art"/></td><td><b>Be Faithful</b><br/><sub>Fatman Scoop, Crooklyn Clan</sub></td><td><a href="https://open.spotify.com/track/6SJkJLLe5537O8PrTgKvio"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
