@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->19 Jul 2026, 20:55 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->20 Jul 2026, 21:15 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -134,11 +134,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051744567279fac84a0375c3d819b" width="36" height="36" alt="artist"/></td><td><b>The Chainsmokers</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0" width="36" height="36" alt="artist"/></td><td><b>Damso</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174d317f301a85fd77964d94b4d" width="36" height="36" alt="artist"/></td><td><b>Omar Courtz</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051749614fcf985ad6fc5b4a7c3de" width="36" height="36" alt="artist"/></td><td><b>Swedish House Mafia</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2" width="36" height="36" alt="artist"/></td><td><b>Anuel AA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02dcef905cb144d4867119850b" width="36" height="36" alt="album art"/></td><td><b>Sweet Nothing (feat. Florence Welch)</b><br/><sub>Calvin Harris, Florence Welch</sub></td><td><a href="https://open.spotify.com/track/24LS4lQShWyixJ0ZrJXfJ5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0221c49a7d540e19b2b8fc143e" width="36" height="36" alt="album art"/></td><td><b>Breathe</b><br/><sub>Feder</sub></td><td><a href="https://open.spotify.com/track/5faMnd4SDjY9kFP4VpSPLi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02298e018d81ba66cbe93c6e62" width="36" height="36" alt="album art"/></td><td><b>Something Good</b><br/><sub>MOUNT, Nicolas Haelg</sub></td><td><a href="https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028ff7c3580d429c8212b9a3b6" width="36" height="36" alt="album art"/></td><td><b>Adventure of a Lifetime</b><br/><sub>Coldplay</sub></td><td><a href="https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02469ed92951169010bb070e28" width="36" height="36" alt="album art"/></td><td><b>Be Faithful</b><br/><sub>Fatman Scoop, Crooklyn Clan</sub></td><td><a href="https://open.spotify.com/track/6SJkJLLe5537O8PrTgKvio"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029713f1939e377cf85a2a5b16" width="36" height="36" alt="album art"/></td><td><b>Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)</b><br/><sub>felix jaehn, Jasmine Thompson</sub></td><td><a href="https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452" width="36" height="36" alt="album art"/></td><td><b>I Feel It Coming</b><br/><sub>The Weeknd, Daft Punk</sub></td><td><a href="https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028fba5806a323efd272677c4d" width="36" height="36" alt="album art"/></td><td><b>Outside (feat. Ellie Goulding)</b><br/><sub>Calvin Harris, Ellie Goulding</sub></td><td><a href="https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021468dc3911c9abea1dcf9676" width="36" height="36" alt="album art"/></td><td><b>Feel the Love (feat. John Newman)</b><br/><sub>Rudimental, John Newman</sub></td><td><a href="https://open.spotify.com/track/0k73nWaD6RPx2sHFEkGPcn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0273f63c217b6396b104848b14" width="36" height="36" alt="album art"/></td><td><b>Leave The World Behind - Radio Edit</b><br/><sub>Axwell, Sebastian Ingrosso, Steve Angello, Laidback Luke, Deborah Cox</sub></td><td><a href="https://open.spotify.com/track/25ZEYUgCJyf3gRxkqYbkIc"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
