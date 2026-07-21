@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->20 Jul 2026, 21:15 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->21 Jul 2026, 21:14 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029713f1939e377cf85a2a5b16" width="36" height="36" alt="album art"/></td><td><b>Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)</b><br/><sub>felix jaehn, Jasmine Thompson</sub></td><td><a href="https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452" width="36" height="36" alt="album art"/></td><td><b>I Feel It Coming</b><br/><sub>The Weeknd, Daft Punk</sub></td><td><a href="https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028fba5806a323efd272677c4d" width="36" height="36" alt="album art"/></td><td><b>Outside (feat. Ellie Goulding)</b><br/><sub>Calvin Harris, Ellie Goulding</sub></td><td><a href="https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021468dc3911c9abea1dcf9676" width="36" height="36" alt="album art"/></td><td><b>Feel the Love (feat. John Newman)</b><br/><sub>Rudimental, John Newman</sub></td><td><a href="https://open.spotify.com/track/0k73nWaD6RPx2sHFEkGPcn"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0273f63c217b6396b104848b14" width="36" height="36" alt="album art"/></td><td><b>Leave The World Behind - Radio Edit</b><br/><sub>Axwell, Sebastian Ingrosso, Steve Angello, Laidback Luke, Deborah Cox</sub></td><td><a href="https://open.spotify.com/track/25ZEYUgCJyf3gRxkqYbkIc"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b94e63b320219f8de83b1360" width="36" height="36" alt="album art"/></td><td><b>Underground (Dennis Ferrer Remix) - Mixed</b><br/><sub>Nick Curly, Dennis Ferrer</sub></td><td><a href="https://open.spotify.com/track/1DFv7XhHVD0W5CyMvzVx9W"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b94e63b320219f8de83b1360" width="36" height="36" alt="album art"/></td><td><b>Underground (Dennis Ferrer Remix) - Mixed</b><br/><sub>Nick Curly, Dennis Ferrer</sub></td><td><a href="https://open.spotify.com/track/1DFv7XhHVD0W5CyMvzVx9W"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0256041d5bf452f047dc1e255f" width="36" height="36" alt="album art"/></td><td><b>promise</b><br/><sub>Dualshock</sub></td><td><a href="https://open.spotify.com/track/2pYWr0b4QuIjhJ0QRcO9qb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b951b55425f2a19f4a5756a6" width="36" height="36" alt="album art"/></td><td><b>It's So Nice (ft. 3DDY)</b><br/><sub>ANOTR, 3DDY</sub></td><td><a href="https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d71339f225018412c388476d" width="36" height="36" alt="album art"/></td><td><b>Out of My Mind</b><br/><sub>Joshwa</sub></td><td><a href="https://open.spotify.com/track/2FFwFlkKjKBSCdVpPf38Gj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
