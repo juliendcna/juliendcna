@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->22 Jul 2026, 21:13 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->23 Jul 2026, 21:08 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -138,7 +138,7 @@
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0" width="36" height="36" alt="artist"/></td><td><b>Damso</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2" width="36" height="36" alt="artist"/></td><td><b>Anuel AA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6761610000517420c3b42a39e774df0103bce0" width="36" height="36" alt="artist"/></td><td><b>PAWSA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fec67604e9f588b992665aba" width="36" height="36" alt="album art"/></td><td><b>Reasons</b><br/><sub>Lewis Taylor</sub></td><td><a href="https://open.spotify.com/track/5Tcl2vkBlk32Xpdde8Plr8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fec67604e9f588b992665aba" width="36" height="36" alt="album art"/></td><td><b>Reasons</b><br/><sub>Lewis Taylor</sub></td><td><a href="https://open.spotify.com/track/5Tcl2vkBlk32Xpdde8Plr8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02586475e0e7697109f9c69a49" width="36" height="36" alt="album art"/></td><td><b>Free Your Mind</b><br/><sub>Prospa, Cloonee</sub></td><td><a href="https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e34df8bd9f307a345a812ef9" width="36" height="36" alt="album art"/></td><td><b>Attraction</b><br/><sub>Supernova, II Faces</sub></td><td><a href="https://open.spotify.com/track/6CrKsa7cvbOGsVgBKSDd5l"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02af6ce83c4f61574e702f3443" width="36" height="36" alt="album art"/></td><td><b>Don't Stop</b><br/><sub>Prospa</sub></td><td><a href="https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d694471aecd32e5654830b9b" width="36" height="36" alt="album art"/></td><td><b>Snakes</b><br/><sub>Mellizos, Rami</sub></td><td><a href="https://open.spotify.com/track/7KvYoLTnCDc5DtsOqKj5T2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a6e466de6d77976c4cc30b14" width="36" height="36" alt="album art"/></td><td><b>Switching Levels</b><br/><sub>Nick Curly</sub></td><td><a href="https://open.spotify.com/track/5AGaa1FJdocNu08My6maDR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
