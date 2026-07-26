@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->25 Jul 2026, 20:57 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->26 Jul 2026, 21:02 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02818ccaf9e08020dc14421bfa" width="36" height="36" alt="album art"/></td><td><b>Devuélveme a mi chica</b><br/><sub>Hombres G</sub></td><td><a href="https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0263f3b7f5abf86ad483b57b77" width="36" height="36" alt="album art"/></td><td><b>Oye Mi Amor</b><br/><sub>Maná</sub></td><td><a href="https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02818ccaf9e08020dc14421bfa" width="36" height="36" alt="album art"/></td><td><b>Devuélveme a mi chica</b><br/><sub>Hombres G</sub></td><td><a href="https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeaaa69786db98d2bf2771eb" width="36" height="36" alt="album art"/></td><td><b>La Ocasión</b><br/><sub>DJ Luian, Mambo Kingz, De La Ghetto, Arcángel, Ozuna</sub></td><td><a href="https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029aaa796c11497e3e61bdcff0" width="36" height="36" alt="album art"/></td><td><b>Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)</b><br/><sub>Maluma, Trap Capos, Noriel, Bryant Myers, Juhn</sub></td><td><a href="https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bc8945f4d18a31b09b80819b" width="36" height="36" alt="album art"/></td><td><b>Afraid To Feel</b><br/><sub>LF SYSTEM</sub></td><td><a href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02586475e0e7697109f9c69a49" width="36" height="36" alt="album art"/></td><td><b>Free Your Mind</b><br/><sub>Prospa, Cloonee</sub></td><td><a href="https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bc8945f4d18a31b09b80819b" width="36" height="36" alt="album art"/></td><td><b>Afraid To Feel</b><br/><sub>LF SYSTEM</sub></td><td><a href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a825677be7f427fa2f7b4db9" width="36" height="36" alt="album art"/></td><td><b>So Much In Love</b><br/><sub>D.O.D</sub></td><td><a href="https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02be2754ff702d382c313629c1" width="36" height="36" alt="album art"/></td><td><b>Looking For Love (feat. Laura Davie)</b><br/><sub>Morgan Seatree, Laura Davie</sub></td><td><a href="https://open.spotify.com/track/5XRPNz67jPyfK4GyxjRW2E"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
