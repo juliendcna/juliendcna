@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->26 Jul 2026, 21:02 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->27 Jul 2026, 21:15 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -136,9 +136,9 @@
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051744567279fac84a0375c3d819b" width="36" height="36" alt="artist"/></td><td><b>The Chainsmokers</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0" width="36" height="36" alt="artist"/></td><td><b>Damso</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab6761610000517420c3b42a39e774df0103bce0" width="36" height="36" alt="artist"/></td><td><b>PAWSA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6761610000517451767bb5e3e3add66699344b" width="36" height="36" alt="artist"/></td><td><b>PNL</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bc8945f4d18a31b09b80819b" width="36" height="36" alt="album art"/></td><td><b>Afraid To Feel</b><br/><sub>LF SYSTEM</sub></td><td><a href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02586475e0e7697109f9c69a49" width="36" height="36" alt="album art"/></td><td><b>Free Your Mind</b><br/><sub>Prospa, Cloonee</sub></td><td><a href="https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bc8945f4d18a31b09b80819b" width="36" height="36" alt="album art"/></td><td><b>Afraid To Feel</b><br/><sub>LF SYSTEM</sub></td><td><a href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a825677be7f427fa2f7b4db9" width="36" height="36" alt="album art"/></td><td><b>So Much In Love</b><br/><sub>D.O.D</sub></td><td><a href="https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02be2754ff702d382c313629c1" width="36" height="36" alt="album art"/></td><td><b>Looking For Love (feat. Laura Davie)</b><br/><sub>Morgan Seatree, Laura Davie</sub></td><td><a href="https://open.spotify.com/track/5XRPNz67jPyfK4GyxjRW2E"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b1717c201d31ad8e43dedc55" width="36" height="36" alt="album art"/></td><td><b>Una Locura</b><br/><sub>Ozuna, J Balvin, Chencho Corleone</sub></td><td><a href="https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a66def7d649149464edc8f1e" width="36" height="36" alt="album art"/></td><td><b>Sola (Remix)</b><br/><sub>Anuel AA, Daddy Yankee, Zion & Lennox, Farruko, Wisin</sub></td><td><a href="https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02569b422cabf0dff20561a6f6" width="36" height="36" alt="album art"/></td><td><b>orióN</b><br/><sub>Boza, ELENA ROSE</sub></td><td><a href="https://open.spotify.com/track/4feh4Ak3ZJfC6ibxkNzlkE"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02300e1b3b6b6904d84e76bb14" width="36" height="36" alt="album art"/></td><td><b>La player (Bandolera)</b><br/><sub>Zion & Lennox</sub></td><td><a href="https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0202f94220a4f48034e608bb14" width="36" height="36" alt="album art"/></td><td><b>UNA NA MAS</b><br/><sub>Myke Towers</sub></td><td><a href="https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
