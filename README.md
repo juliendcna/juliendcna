@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->27 Jul 2026, 21:15 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->28 Jul 2026, 21:11 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025c4e130f344c151e4384e023" width="36" height="36" alt="album art"/></td><td><b>Encantadora</b><br/><sub>Yandel</sub></td><td><a href="https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025c73a641e2bac2b2ac893b0a" width="36" height="36" alt="album art"/></td><td><b>ALCOBA</b><br/><sub>Cris MJ, Clarent</sub></td><td><a href="https://open.spotify.com/track/4OX6VWwow4Ta12RvUMwlVT"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b1717c201d31ad8e43dedc55" width="36" height="36" alt="album art"/></td><td><b>Una Locura</b><br/><sub>Ozuna, J Balvin, Chencho Corleone</sub></td><td><a href="https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a66def7d649149464edc8f1e" width="36" height="36" alt="album art"/></td><td><b>Sola (Remix)</b><br/><sub>Anuel AA, Daddy Yankee, Zion & Lennox, Farruko, Wisin</sub></td><td><a href="https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02569b422cabf0dff20561a6f6" width="36" height="36" alt="album art"/></td><td><b>orióN</b><br/><sub>Boza, ELENA ROSE</sub></td><td><a href="https://open.spotify.com/track/4feh4Ak3ZJfC6ibxkNzlkE"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02300e1b3b6b6904d84e76bb14" width="36" height="36" alt="album art"/></td><td><b>La player (Bandolera)</b><br/><sub>Zion & Lennox</sub></td><td><a href="https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0202f94220a4f48034e608bb14" width="36" height="36" alt="album art"/></td><td><b>UNA NA MAS</b><br/><sub>Myke Towers</sub></td><td><a href="https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
