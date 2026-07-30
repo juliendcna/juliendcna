@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->29 Jul 2026, 21:00 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->30 Jul 2026, 21:15 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -120,9 +120,9 @@
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fc38dcce16b964b1d5e03f04" width="36" height="36" alt="album art"/></td><td><b>Dime</b><br/><sub>Revol, J Balvin, Bad Bunny, Arcángel, De La Ghetto</sub></td><td><a href="https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e029aaa796c11497e3e61bdcff0" width="36" height="36" alt="album art"/></td><td><b>Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)</b><br/><sub>Maluma, Trap Capos, Noriel, Bryant Myers, Juhn</sub></td><td><a href="https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029df722b3b03fda33141ae8e8" width="36" height="36" alt="album art"/></td><td><b>Caile</b><br/><sub>Bad Bunny, Bryant Myers, De La Ghetto, Revol, Zion</sub></td><td><a href="https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeaaa69786db98d2bf2771eb" width="36" height="36" alt="album art"/></td><td><b>La Ocasión</b><br/><sub>DJ Luian, Mambo Kingz, De La Ghetto, Arcángel, Ozuna</sub></td><td><a href="https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ec748231035512e229a1376e" width="36" height="36" alt="album art"/></td><td><b>Vuelve</b><br/><sub>Daddy Yankee, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0211b9999b620ef9bc0e957623" width="36" height="36" alt="album art"/></td><td><b>No Me Dejes Solo</b><br/><sub>Daddy Yankee, Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/4CjuGBDMwSDpjzWtWINN5g"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c00ce62eeefe679fee27764c" width="36" height="36" alt="album art"/></td><td><b>Las Muñequitas</b><br/><sub>Mr Plata, El Americano 4KT</sub></td><td><a href="https://open.spotify.com/track/3yidFe42tke37g3KP7wzZr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0253f8535fc21d0b07065ff858" width="36" height="36" alt="album art"/></td><td><b>Silence - Niels van Gogh vs Thomas Gold Remix [Radio Edit]</b><br/><sub>Delerium, Sarah McLachlan, Niels Van Gogh, Thomas Gold</sub></td><td><a href="https://open.spotify.com/track/6VUTDBWIYivB96wd5xcR9K"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0234dc561906b1e3e8d811e7b9" width="36" height="36" alt="album art"/></td><td><b>Shinjuku</b><br/><sub>Franky Rizardo</sub></td><td><a href="https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02586475e0e7697109f9c69a49" width="36" height="36" alt="album art"/></td><td><b>Free Your Mind</b><br/><sub>Prospa, Cloonee</sub></td><td><a href="https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022393ac757022287d011243ff" width="36" height="36" alt="album art"/></td><td><b>SOLEAO</b><br/><sub>Myke Towers, Quevedo</sub></td><td><a href="https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025c73a641e2bac2b2ac893b0a" width="36" height="36" alt="album art"/></td><td><b>ALCOBA</b><br/><sub>Cris MJ, Clarent</sub></td><td><a href="https://open.spotify.com/track/4OX6VWwow4Ta12RvUMwlVT"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022433cb43f0f2f0f23b7c8b82" width="36" height="36" alt="album art"/></td><td><b>Tout oublier</b><br/><sub>Angèle, Roméo Elvis</sub></td><td><a href="https://open.spotify.com/track/06O3hxudc6V0BOuoCFSy71"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0273c5fc4d116faaa53bae414d" width="36" height="36" alt="album art"/></td><td><b>Pumped Up</b><br/><sub>Klingande</sub></td><td><a href="https://open.spotify.com/track/3FWxUeVn99M8ZRisCvwkKV"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026d684b553a40e4a11e1db96d" width="36" height="36" alt="album art"/></td><td><b>Fallin'</b><br/><sub>Alicia Keys</sub></td><td><a href="https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0295a2cf9262058fff7dfe3674" width="36" height="36" alt="album art"/></td><td><b>Felices los 4</b><br/><sub>Maluma</sub></td><td><a href="https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029713f1939e377cf85a2a5b16" width="36" height="36" alt="album art"/></td><td><b>Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)</b><br/><sub>felix jaehn, Jasmine Thompson</sub></td><td><a href="https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
