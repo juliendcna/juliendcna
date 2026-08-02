@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->01 Aug 2026, 20:59 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->02 Aug 2026, 21:00 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -120,9 +120,9 @@
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fc38dcce16b964b1d5e03f04" width="36" height="36" alt="album art"/></td><td><b>Dime</b><br/><sub>Revol, J Balvin, Bad Bunny, Arcángel, De La Ghetto</sub></td><td><a href="https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e029aaa796c11497e3e61bdcff0" width="36" height="36" alt="album art"/></td><td><b>Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)</b><br/><sub>Maluma, Trap Capos, Noriel, Bryant Myers, Juhn</sub></td><td><a href="https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeaaa69786db98d2bf2771eb" width="36" height="36" alt="album art"/></td><td><b>La Ocasión</b><br/><sub>DJ Luian, Mambo Kingz, De La Ghetto, Arcángel, Ozuna</sub></td><td><a href="https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0211b9999b620ef9bc0e957623" width="36" height="36" alt="album art"/></td><td><b>No Me Dejes Solo</b><br/><sub>Daddy Yankee, Wisin & Yandel</sub></td><td><a href="https://open.spotify.com/track/4CjuGBDMwSDpjzWtWINN5g"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ec748231035512e229a1376e" width="36" height="36" alt="album art"/></td><td><b>Vuelve</b><br/><sub>Daddy Yankee, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c00ce62eeefe679fee27764c" width="36" height="36" alt="album art"/></td><td><b>Las Muñequitas</b><br/><sub>Mr Plata, El Americano 4KT</sub></td><td><a href="https://open.spotify.com/track/3yidFe42tke37g3KP7wzZr"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029aaa796c11497e3e61bdcff0" width="36" height="36" alt="album art"/></td><td><b>Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)</b><br/><sub>Maluma, Trap Capos, Noriel, Bryant Myers, Juhn</sub></td><td><a href="https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ec748231035512e229a1376e" width="36" height="36" alt="album art"/></td><td><b>Vuelve</b><br/><sub>Daddy Yankee, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027b84b5d956376cb8e55425f5" width="36" height="36" alt="album art"/></td><td><b>LA GRACIOSA</b><br/><sub>Quevedo, Elvis Crespo</sub></td><td><a href="https://open.spotify.com/track/0TJYJrUDKQ1btt4g0Xwklw"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022393ac757022287d011243ff" width="36" height="36" alt="album art"/></td><td><b>SOLEAO</b><br/><sub>Myke Towers, Quevedo</sub></td><td><a href="https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bed3161d2cb88d1f959bd88f" width="36" height="36" alt="album art"/></td><td><b>amoureux</b><br/><sub>Alleh</sub></td><td><a href="https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bc739e4f39cb4d5c253fcb64" width="36" height="36" alt="album art"/></td><td><b>Solita</b><br/><sub>Ozuna, Mambo Kingz, DJ Luian, Bad Bunny, Wisin</sub></td><td><a href="https://open.spotify.com/track/7rwX0O3RlxqqIjQM8evm5E"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fc38dcce16b964b1d5e03f04" width="36" height="36" alt="album art"/></td><td><b>Dime</b><br/><sub>Revol, J Balvin, Bad Bunny, Arcángel, De La Ghetto</sub></td><td><a href="https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029df722b3b03fda33141ae8e8" width="36" height="36" alt="album art"/></td><td><b>Caile</b><br/><sub>Bad Bunny, Bryant Myers, De La Ghetto, Revol, Zion</sub></td><td><a href="https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeaaa69786db98d2bf2771eb" width="36" height="36" alt="album art"/></td><td><b>La Ocasión</b><br/><sub>DJ Luian, Mambo Kingz, De La Ghetto, Arcángel, Ozuna</sub></td><td><a href="https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeaaa69786db98d2bf2771eb" width="36" height="36" alt="album art"/></td><td><b>La Ocasión</b><br/><sub>DJ Luian, Mambo Kingz, De La Ghetto, Arcángel, Ozuna</sub></td><td><a href="https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
