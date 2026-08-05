@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->04 Aug 2026, 21:15 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->05 Aug 2026, 21:16 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -135,7 +135,7 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051744567279fac84a0375c3d819b" width="36" height="36" alt="artist"/></td><td><b>The Chainsmokers</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b" width="36" height="36" alt="artist"/></td><td><b>Calvin Harris</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051749614fcf985ad6fc5b4a7c3de" width="36" height="36" alt="artist"/></td><td><b>Swedish House Mafia</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051741c4284179078e2529b1630e2" width="36" height="36" alt="artist"/></td><td><b>Ozuna</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2" width="36" height="36" alt="artist"/></td><td><b>Anuel AA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0298572736c1600b134c6aa68c" width="36" height="36" alt="album art"/></td><td><b>Guaya</b><br/><sub>Cosculluela</sub></td><td><a href="https://open.spotify.com/track/6jhmBvxtwBiEIpxdywJtbh"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fddcbb546dd3440b1897c4c7" width="36" height="36" alt="album art"/></td><td><b>Soltera (Remix)</b><br/><sub>Lunay, Daddy Yankee, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020e13eee4ec9f7ca9c603baf4" width="36" height="36" alt="album art"/></td><td><b>Si Se Da - Remix</b><br/><sub>Myke Towers, Farruko, Arcángel, Sech, Zion</sub></td><td><a href="https://open.spotify.com/track/6K5BsR04ijf3FHNzjbaagD"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02cf7e54f668d6a31dd6566f24" width="36" height="36" alt="album art"/></td><td><b>Tal Vez</b><br/><sub>Paulo Londra</sub></td><td><a href="https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02519266cd05491a5b5bc22d1e" width="36" height="36" alt="album art"/></td><td><b>Estamos Bien</b><br/><sub>Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029e730d8fbd256885242f1e96" width="36" height="36" alt="album art"/></td><td><b>Break Free</b><br/><sub>Ariana Grande, Zedd</sub></td><td><a href="https://open.spotify.com/track/3rWbIR3rJIT0Rpu3iR9ZXg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028ff7c3580d429c8212b9a3b6" width="36" height="36" alt="album art"/></td><td><b>Adventure of a Lifetime</b><br/><sub>Coldplay</sub></td><td><a href="https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0282db43e5091301205076d6ab" width="36" height="36" alt="album art"/></td><td><b>Work from Home (feat. Ty Dolla $ign)</b><br/><sub>Fifth Harmony, Ty Dolla $ign</sub></td><td><a href="https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e14f11f796cef9f9a82691a7" width="36" height="36" alt="album art"/></td><td><b>You Make Me</b><br/><sub>Avicii</sub></td><td><a href="https://open.spotify.com/track/52RK8UVEDgUAgpecOpTQM3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020d1f3930676c34a23dbf5c46" width="36" height="36" alt="album art"/></td><td><b>Dancing With A Stranger (with Normani)</b><br/><sub>Sam Smith, Normani</sub></td><td><a href="https://open.spotify.com/track/3xgT3xIlFGqZjYW9QlhJWp"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
