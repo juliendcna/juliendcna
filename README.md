@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->07 Aug 2026, 00:53 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->07 Aug 2026, 20:46 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -136,9 +136,9 @@
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174cdfaeaab2e632fdafcdbd585" width="36" height="36" alt="artist"/></td><td><b>Johnny Hallyday</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051741c4284179078e2529b1630e2" width="36" height="36" alt="artist"/></td><td><b>Ozuna</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0" width="36" height="36" alt="artist"/></td><td><b>Damso</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2" width="36" height="36" alt="artist"/></td><td><b>Anuel AA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174f74070a7e4a3e7743f68b058" width="36" height="36" alt="artist"/></td><td><b>Rudimental</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051741b0d196ca84f4a0d076b4570" width="36" height="36" alt="artist"/></td><td><b>Maluma</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6761610000517451767bb5e3e3add66699344b" width="36" height="36" alt="artist"/></td><td><b>PNL</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02820b43679aab8d3b47001f9c" width="36" height="36" alt="album art"/></td><td><b>The Box</b><br/><sub>Roddy Ricch</sub></td><td><a href="https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b5050e0d58c704da6bb519e1" width="36" height="36" alt="album art"/></td><td><b>NEW DROP</b><br/><sub>Don Toliver</sub></td><td><a href="https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e027d384516b23347e92a587ed1" width="36" height="36" alt="album art"/></td><td><b>First Person Shooter (feat. J. Cole)</b><br/><sub>Drake, J. Cole</sub></td><td><a href="https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029c654f315df05ae7c6ec8980" width="36" height="36" alt="album art"/></td><td><b>BURN</b><br/><sub>¥$, Kanye West, Ty Dolla $ign</sub></td><td><a href="https://open.spotify.com/track/7BPadP3q9qwMkho3IMPU99"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02ee1ae7d44f10961722736148" width="36" height="36" alt="album art"/></td><td><b>Sky Walker (feat. Travis Scott)</b><br/><sub>Miguel, Travis Scott</sub></td><td><a href="https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a6fd3d9540e0f96427dd1614" width="36" height="36" alt="album art"/></td><td><b>You Are In My System - Club Mix</b><br/><sub>Kerri Chandler, Dennis Quin, Troy Denari</sub></td><td><a href="https://open.spotify.com/track/63IgbFgnPSWCQWzyH3ipAs"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02337155342ade101f48d847e7" width="36" height="36" alt="album art"/></td><td><b>Possédé</b><br/><sub>Djadja & Dinaz</sub></td><td><a href="https://open.spotify.com/track/20XmmYuaI12Odl0YE5CW1Y"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028daa8ac6367fc997c1873b9b" width="36" height="36" alt="album art"/></td><td><b>I'm Not Alone - 2019 Edit</b><br/><sub>Calvin Harris</sub></td><td><a href="https://open.spotify.com/track/6zAUCritANdhceCMLVB8xR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d8b7899d56bc7a5dfcad27f2" width="36" height="36" alt="album art"/></td><td><b>Afro In 95 (Needed U) - Radio Edit</b><br/><sub>House 4 House</sub></td><td><a href="https://open.spotify.com/track/1FRIYPPv1I1OYtTA0xuDLS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0270ac1f0bd5de3f8024732514" width="36" height="36" alt="album art"/></td><td><b>Do To Me</b><br/><sub>Tim Sanders</sub></td><td><a href="https://open.spotify.com/track/6ow9Iwh3H3ud5cRREiEX53"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
