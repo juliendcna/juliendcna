@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->16 Aug 2026, 20:27 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->17 Aug 2026, 20:31 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -136,9 +136,9 @@
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174cdfaeaab2e632fdafcdbd585" width="36" height="36" alt="artist"/></td><td><b>Johnny Hallyday</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0" width="36" height="36" alt="artist"/></td><td><b>Damso</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2" width="36" height="36" alt="artist"/></td><td><b>Anuel AA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab676161000051741c4284179078e2529b1630e2" width="36" height="36" alt="artist"/></td><td><b>Ozuna</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2" width="36" height="36" alt="artist"/></td><td><b>Anuel AA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d8243a13e6f41310a5fa7b96" width="36" height="36" alt="album art"/></td><td><b>Me Rehúso</b><br/><sub>Danny Ocean</sub></td><td><a href="https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b38154045c4d37bc043bfc66" width="36" height="36" alt="album art"/></td><td><b>Punto G</b><br/><sub>Brytiago, Darell</sub></td><td><a href="https://open.spotify.com/track/2Er84z3zOBKOJhUUPyRqY7"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0277ecc981b6490db46a2aecae" width="36" height="36" alt="album art"/></td><td><b>La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)</b><br/><sub>Trap Capos, Noriel, Gigolo Y La Exce, Sammy & Falsetto, Mike Duran</sub></td><td><a href="https://open.spotify.com/track/2rnvFmtBu8L32HcFXgBf9F"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b1717c201d31ad8e43dedc55" width="36" height="36" alt="album art"/></td><td><b>Una Locura</b><br/><sub>Ozuna, J Balvin, Chencho Corleone</sub></td><td><a href="https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0285028471a61daea00edfc549" width="36" height="36" alt="album art"/></td><td><b>Soy Peor - Remix</b><br/><sub>Bad Bunny, J Balvin, Ozuna, Arcángel</sub></td><td><a href="https://open.spotify.com/track/1RijmOnza5p9CzaFKr8W1Y"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0282db43e5091301205076d6ab" width="36" height="36" alt="album art"/></td><td><b>Work from Home (feat. Ty Dolla $ign)</b><br/><sub>Fifth Harmony, Ty Dolla $ign</sub></td><td><a href="https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028ff7c3580d429c8212b9a3b6" width="36" height="36" alt="album art"/></td><td><b>Adventure of a Lifetime</b><br/><sub>Coldplay</sub></td><td><a href="https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02dd0a40eecd4b13e4c59988da" width="36" height="36" alt="album art"/></td><td><b>Happier</b><br/><sub>Marshmello, Bastille</sub></td><td><a href="https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02aac3b3863e8f7a43a9b65a19" width="36" height="36" alt="album art"/></td><td><b>Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack</b><br/><sub>Teriyaki Boyz</sub></td><td><a href="https://open.spotify.com/track/0upFohXrGxIIAjyaJmCkMU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02cd7db85678ea7ba817771fe7" width="36" height="36" alt="album art"/></td><td><b>Disco Inferno - Edit</b><br/><sub>The Trammps</sub></td><td><a href="https://open.spotify.com/track/3GXo1eWlT2flv4x01l5OTu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
