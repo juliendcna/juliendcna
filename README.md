@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->17 Aug 2026, 20:31 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->18 Aug 2026, 20:28 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0282db43e5091301205076d6ab" width="36" height="36" alt="album art"/></td><td><b>Work from Home (feat. Ty Dolla $ign)</b><br/><sub>Fifth Harmony, Ty Dolla $ign</sub></td><td><a href="https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028ff7c3580d429c8212b9a3b6" width="36" height="36" alt="album art"/></td><td><b>Adventure of a Lifetime</b><br/><sub>Coldplay</sub></td><td><a href="https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02dd0a40eecd4b13e4c59988da" width="36" height="36" alt="album art"/></td><td><b>Happier</b><br/><sub>Marshmello, Bastille</sub></td><td><a href="https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02aac3b3863e8f7a43a9b65a19" width="36" height="36" alt="album art"/></td><td><b>Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack</b><br/><sub>Teriyaki Boyz</sub></td><td><a href="https://open.spotify.com/track/0upFohXrGxIIAjyaJmCkMU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02cd7db85678ea7ba817771fe7" width="36" height="36" alt="album art"/></td><td><b>Disco Inferno - Edit</b><br/><sub>The Trammps</sub></td><td><a href="https://open.spotify.com/track/3GXo1eWlT2flv4x01l5OTu"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024a3de788d0aecc7c9b06cfc8" width="36" height="36" alt="album art"/></td><td><b>Window Shopper</b><br/><sub>50 Cent</sub></td><td><a href="https://open.spotify.com/track/0NJu93oln1kkgbHLFzLJ4h"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029e730d8fbd256885242f1e96" width="36" height="36" alt="album art"/></td><td><b>Problem</b><br/><sub>Ariana Grande, Iggy Azalea</sub></td><td><a href="https://open.spotify.com/track/5w048fMWMdqxT2UAyXXB1Z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02585c316e217aca06ec83f3b6" width="36" height="36" alt="album art"/></td><td><b>Bad Boys</b><br/><sub>Inner Circle</sub></td><td><a href="https://open.spotify.com/track/1NojrDCqDLh4dWRZ7F589Q"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0215785fa4f22f8c50902b3a42" width="36" height="36" alt="album art"/></td><td><b>I Cry</b><br/><sub>Flo Rida</sub></td><td><a href="https://open.spotify.com/track/4bZd0nRuX8HyjeXAUBczvm"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0242a15a4fe15a8a88ab728d5b" width="36" height="36" alt="album art"/></td><td><b>Don't Go Breaking My Heart</b><br/><sub>Elton John, Kiki Dee</sub></td><td><a href="https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
