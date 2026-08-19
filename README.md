@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->18 Aug 2026, 20:28 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->19 Aug 2026, 20:32 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024a3de788d0aecc7c9b06cfc8" width="36" height="36" alt="album art"/></td><td><b>Window Shopper</b><br/><sub>50 Cent</sub></td><td><a href="https://open.spotify.com/track/0NJu93oln1kkgbHLFzLJ4h"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029e730d8fbd256885242f1e96" width="36" height="36" alt="album art"/></td><td><b>Problem</b><br/><sub>Ariana Grande, Iggy Azalea</sub></td><td><a href="https://open.spotify.com/track/5w048fMWMdqxT2UAyXXB1Z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02585c316e217aca06ec83f3b6" width="36" height="36" alt="album art"/></td><td><b>Bad Boys</b><br/><sub>Inner Circle</sub></td><td><a href="https://open.spotify.com/track/1NojrDCqDLh4dWRZ7F589Q"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0215785fa4f22f8c50902b3a42" width="36" height="36" alt="album art"/></td><td><b>I Cry</b><br/><sub>Flo Rida</sub></td><td><a href="https://open.spotify.com/track/4bZd0nRuX8HyjeXAUBczvm"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0242a15a4fe15a8a88ab728d5b" width="36" height="36" alt="album art"/></td><td><b>Don't Go Breaking My Heart</b><br/><sub>Elton John, Kiki Dee</sub></td><td><a href="https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023e4e6be7009f5481671322e4" width="36" height="36" alt="album art"/></td><td><b>Make Luv</b><br/><sub>Room 5, Oliver Cheatham</sub></td><td><a href="https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b5ef185d28724c5573c2ac9c" width="36" height="36" alt="album art"/></td><td><b>Swimming Pools (Drank)</b><br/><sub>Kendrick Lamar</sub></td><td><a href="https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026bc7473df6c9d1fd90972e84" width="36" height="36" alt="album art"/></td><td><b>Same Old Love</b><br/><sub>Selena Gomez</sub></td><td><a href="https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02105ef588df1ef91bfa811f94" width="36" height="36" alt="album art"/></td><td><b>Hold the Line</b><br/><sub>TOTO</sub></td><td><a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0255af7e0cd246a50f8cd15194" width="36" height="36" alt="album art"/></td><td><b>It Was A Good Day</b><br/><sub>Ice Cube</sub></td><td><a href="https://open.spotify.com/track/2GrOq1y5gksYrqkc8Jzl9T"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
