@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->19 Aug 2026, 20:32 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->20 Aug 2026, 20:32 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -119,10 +119,10 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeaaa69786db98d2bf2771eb" width="36" height="36" alt="album art"/></td><td><b>La Ocasión</b><br/><sub>DJ Luian, Mambo Kingz, De La Ghetto, Arcángel, Ozuna</sub></td><td><a href="https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0234dc561906b1e3e8d811e7b9" width="36" height="36" alt="album art"/></td><td><b>Shinjuku</b><br/><sub>Franky Rizardo</sub></td><td><a href="https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02efcae565f50db5751f17f186" width="36" height="36" alt="album art"/></td><td><b>I Belong To You</b><br/><sub>Lenny Kravitz</sub></td><td><a href="https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e7639e45d5213cb381d337da" width="36" height="36" alt="album art"/></td><td><b>Or Noir</b><br/><sub>Kaaris</sub></td><td><a href="https://open.spotify.com/track/48vVLay0B0HdQ5SJbgBqLG"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bb643ae7287c339560084452" width="36" height="36" alt="album art"/></td><td><b>Casanova</b><br/><sub>Soolking, Gazo</sub></td><td><a href="https://open.spotify.com/track/6NHSjS7gdrpjvr0SaNYNNd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0234dc561906b1e3e8d811e7b9" width="36" height="36" alt="album art"/></td><td><b>Shinjuku</b><br/><sub>Franky Rizardo</sub></td><td><a href="https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fc38dcce16b964b1d5e03f04" width="36" height="36" alt="album art"/></td><td><b>Dime</b><br/><sub>Revol, J Balvin, Bad Bunny, Arcángel, De La Ghetto</sub></td><td><a href="https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e023e4e6be7009f5481671322e4" width="36" height="36" alt="album art"/></td><td><b>Make Luv</b><br/><sub>Room 5, Oliver Cheatham</sub></td><td><a href="https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b5ef185d28724c5573c2ac9c" width="36" height="36" alt="album art"/></td><td><b>Swimming Pools (Drank)</b><br/><sub>Kendrick Lamar</sub></td><td><a href="https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026bc7473df6c9d1fd90972e84" width="36" height="36" alt="album art"/></td><td><b>Same Old Love</b><br/><sub>Selena Gomez</sub></td><td><a href="https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02105ef588df1ef91bfa811f94" width="36" height="36" alt="album art"/></td><td><b>Hold the Line</b><br/><sub>TOTO</sub></td><td><a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0255af7e0cd246a50f8cd15194" width="36" height="36" alt="album art"/></td><td><b>It Was A Good Day</b><br/><sub>Ice Cube</sub></td><td><a href="https://open.spotify.com/track/2GrOq1y5gksYrqkc8Jzl9T"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42" width="36" height="36" alt="album art"/></td><td><b>The Real Slim Shady</b><br/><sub>Eminem</sub></td><td><a href="https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020e36690135fa1a30d048e604" width="36" height="36" alt="album art"/></td><td><b>Come & Get It</b><br/><sub>Selena Gomez</sub></td><td><a href="https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0233342c57a9b2c4e04c97b3f5" width="36" height="36" alt="album art"/></td><td><b>Side To Side</b><br/><sub>Ariana Grande, Nicki Minaj</sub></td><td><a href="https://open.spotify.com/track/44ONERBHALxftQNWq6dmyd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020bd44f5ff9ecc99f7770acc5" width="36" height="36" alt="album art"/></td><td><b>Meet Me Halfway</b><br/><sub>Black Eyed Peas</sub></td><td><a href="https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0221d546b7511792c3aa5b7eee" width="36" height="36" alt="album art"/></td><td><b>SUBEME LA RADIO</b><br/><sub>Enrique Iglesias, Descemer Bueno, Zion & Lennox</sub></td><td><a href="https://open.spotify.com/track/0mnAmQX1pciMncT2qFCNmK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
