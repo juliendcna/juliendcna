@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->20 Aug 2026, 20:32 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->21 Aug 2026, 20:29 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -136,9 +136,9 @@
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174cdfaeaab2e632fdafcdbd585" width="36" height="36" alt="artist"/></td><td><b>Johnny Hallyday</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0" width="36" height="36" alt="artist"/></td><td><b>Damso</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2" width="36" height="36" alt="artist"/></td><td><b>Anuel AA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab676161000051741c4284179078e2529b1630e2" width="36" height="36" alt="artist"/></td><td><b>Ozuna</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2" width="36" height="36" alt="artist"/></td><td><b>Anuel AA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6761610000517451767bb5e3e3add66699344b" width="36" height="36" alt="artist"/></td><td><b>PNL</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f8ed5e28ff514a4d963ceae3" width="36" height="36" alt="album art"/></td><td><b>My Old Warehouse</b><br/><sub>Dmongelos</sub></td><td><a href="https://open.spotify.com/track/4RwlXhnJoxJJFIFMa1HSuB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022bd281188f485ea182f3bd84" width="36" height="36" alt="album art"/></td><td><b>Breathe (feat. Sean Paul) - Rap Version</b><br/><sub>Blu Cantrell, Sean Paul</sub></td><td><a href="https://open.spotify.com/track/1BPybPVkDfUjFDvqG04l58"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42" width="36" height="36" alt="album art"/></td><td><b>The Real Slim Shady</b><br/><sub>Eminem</sub></td><td><a href="https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e020e36690135fa1a30d048e604" width="36" height="36" alt="album art"/></td><td><b>Come & Get It</b><br/><sub>Selena Gomez</sub></td><td><a href="https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e0233342c57a9b2c4e04c97b3f5" width="36" height="36" alt="album art"/></td><td><b>Side To Side</b><br/><sub>Ariana Grande, Nicki Minaj</sub></td><td><a href="https://open.spotify.com/track/44ONERBHALxftQNWq6dmyd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020bd44f5ff9ecc99f7770acc5" width="36" height="36" alt="album art"/></td><td><b>Meet Me Halfway</b><br/><sub>Black Eyed Peas</sub></td><td><a href="https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0221d546b7511792c3aa5b7eee" width="36" height="36" alt="album art"/></td><td><b>SUBEME LA RADIO</b><br/><sub>Enrique Iglesias, Descemer Bueno, Zion & Lennox</sub></td><td><a href="https://open.spotify.com/track/0mnAmQX1pciMncT2qFCNmK"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
