@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->21 Aug 2026, 20:29 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->22 Aug 2026, 20:27 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f8ed5e28ff514a4d963ceae3" width="36" height="36" alt="album art"/></td><td><b>My Old Warehouse</b><br/><sub>Dmongelos</sub></td><td><a href="https://open.spotify.com/track/4RwlXhnJoxJJFIFMa1HSuB"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022bd281188f485ea182f3bd84" width="36" height="36" alt="album art"/></td><td><b>Breathe (feat. Sean Paul) - Rap Version</b><br/><sub>Blu Cantrell, Sean Paul</sub></td><td><a href="https://open.spotify.com/track/1BPybPVkDfUjFDvqG04l58"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42" width="36" height="36" alt="album art"/></td><td><b>The Real Slim Shady</b><br/><sub>Eminem</sub></td><td><a href="https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e020e36690135fa1a30d048e604" width="36" height="36" alt="album art"/></td><td><b>Come & Get It</b><br/><sub>Selena Gomez</sub></td><td><a href="https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0233342c57a9b2c4e04c97b3f5" width="36" height="36" alt="album art"/></td><td><b>Side To Side</b><br/><sub>Ariana Grande, Nicki Minaj</sub></td><td><a href="https://open.spotify.com/track/44ONERBHALxftQNWq6dmyd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a4e6eac83c0fe38bf682f643" width="36" height="36" alt="album art"/></td><td><b>Another One Bites The Dust</b><br/><sub>Queen</sub></td><td><a href="https://open.spotify.com/track/1KPuohcXPmJYQfdyg9zKmR"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5" width="36" height="36" alt="album art"/></td><td><b>Still D.R.E.</b><br/><sub>Dr. Dre, Snoop Dogg</sub></td><td><a href="https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e021dc7483a9fcfce54822a2f19" width="36" height="36" alt="album art"/></td><td><b>International Love (feat. Chris Brown)</b><br/><sub>Pitbull, Chris Brown</sub></td><td><a href="https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c19a3bef3b59347c8070770b" width="36" height="36" alt="album art"/></td><td><b>We Can't Stop</b><br/><sub>Miley Cyrus</sub></td><td><a href="https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a048415db06a5b6fa7ec4e1a" width="36" height="36" alt="album art"/></td><td><b>I Feel It Coming</b><br/><sub>The Weeknd, Daft Punk</sub></td><td><a href="https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
