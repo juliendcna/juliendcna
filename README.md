@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->23 Aug 2026, 20:27 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->24 Aug 2026, 20:34 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -119,10 +119,10 @@
 <table>
 <tbody>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeaaa69786db98d2bf2771eb" width="36" height="36" alt="album art"/></td><td><b>La Ocasión</b><br/><sub>DJ Luian, Mambo Kingz, De La Ghetto, Arcángel, Ozuna</sub></td><td><a href="https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0234dc561906b1e3e8d811e7b9" width="36" height="36" alt="album art"/></td><td><b>Shinjuku</b><br/><sub>Franky Rizardo</sub></td><td><a href="https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02efcae565f50db5751f17f186" width="36" height="36" alt="album art"/></td><td><b>I Belong To You</b><br/><sub>Lenny Kravitz</sub></td><td><a href="https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e7639e45d5213cb381d337da" width="36" height="36" alt="album art"/></td><td><b>Or Noir</b><br/><sub>Kaaris</sub></td><td><a href="https://open.spotify.com/track/48vVLay0B0HdQ5SJbgBqLG"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bb643ae7287c339560084452" width="36" height="36" alt="album art"/></td><td><b>Casanova</b><br/><sub>Soolking, Gazo</sub></td><td><a href="https://open.spotify.com/track/6NHSjS7gdrpjvr0SaNYNNd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02efcae565f50db5751f17f186" width="36" height="36" alt="album art"/></td><td><b>I Belong To You</b><br/><sub>Lenny Kravitz</sub></td><td><a href="https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02deec12a28d1e336c5052e9aa" width="36" height="36" alt="album art"/></td><td><b>Break Free</b><br/><sub>Ariana Grande, Zedd</sub></td><td><a href="https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e7639e45d5213cb381d337da" width="36" height="36" alt="album art"/></td><td><b>Or Noir</b><br/><sub>Kaaris</sub></td><td><a href="https://open.spotify.com/track/48vVLay0B0HdQ5SJbgBqLG"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -138,7 +138,7 @@
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0" width="36" height="36" alt="artist"/></td><td><b>Damso</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2" width="36" height="36" alt="artist"/></td><td><b>Anuel AA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab6761610000517451767bb5e3e3add66699344b" width="36" height="36" alt="artist"/></td><td><b>PNL</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab676161000051747a135c757d5b9c7aeb7609d0" width="36" height="36" alt="artist"/></td><td><b>Black Eyed Peas</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02829026282b4a2e593e720fc8" width="36" height="36" alt="album art"/></td><td><b>Tu Me Enamoraste - Remix</b><br/><sub>Lary Over, Anuel AA, Bryant Myers, Almighty, Brytiago</sub></td><td><a href="https://open.spotify.com/track/2UETxgxRNxlbgRn9GqKgmy"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024084b39ae3c80401165696a1" width="36" height="36" alt="album art"/></td><td><b>Me Ama Me Odia</b><br/><sub>Revol, Ozuna, Cosculluela, Arcángel, Brytiago</sub></td><td><a href="https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a66def7d649149464edc8f1e" width="36" height="36" alt="album art"/></td><td><b>Sola (Remix)</b><br/><sub>Anuel AA, Daddy Yankee, Zion & Lennox, Farruko, Wisin</sub></td><td><a href="https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c132fb4ba462a3859c4f2ff3" width="36" height="36" alt="album art"/></td><td><b>De Lejitos - Remix</b><br/><sub>Jay Wheeler, Omar Courtz</sub></td><td><a href="https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0290af5246adcaa93acb721c17" width="36" height="36" alt="album art"/></td><td><b>KOKO</b><br/><sub>Omar Courtz</sub></td><td><a href="https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0299d53d8504478066f858f544" width="36" height="36" alt="album art"/></td><td><b>Wati by Night</b><br/><sub>Sexion d'Assaut</sub></td><td><a href="https://open.spotify.com/track/4g0kyRLFKBYFxDF1vCxj8v"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0281e87c483fb4f5448e3b5539" width="36" height="36" alt="album art"/></td><td><b>Pocahontas</b><br/><sub>PLK</sub></td><td><a href="https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025e046d6e53058154285a7060" width="36" height="36" alt="album art"/></td><td><b>4 Kampé</b><br/><sub>Joé Dwèt Filé</sub></td><td><a href="https://open.spotify.com/track/0dedkLC2TNM9if16P8QU3J"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025ef735b12fbc296c0a4bbfc3" width="36" height="36" alt="album art"/></td><td><b>VIANO</b><br/><sub>RK, Genezio</sub></td><td><a href="https://open.spotify.com/track/6OuhnnHBGG1tKWCpi8nOlM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024c5cb7c5f071ad8a808aefcb" width="36" height="36" alt="album art"/></td><td><b>Simba</b><br/><sub>Dr. Yaro</sub></td><td><a href="https://open.spotify.com/track/61U7ZDXC4f5iKatYBwSegE"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
