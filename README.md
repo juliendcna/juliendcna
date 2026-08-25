@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->24 Aug 2026, 20:34 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->25 Aug 2026, 20:33 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0299d53d8504478066f858f544" width="36" height="36" alt="album art"/></td><td><b>Wati by Night</b><br/><sub>Sexion d'Assaut</sub></td><td><a href="https://open.spotify.com/track/4g0kyRLFKBYFxDF1vCxj8v"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0281e87c483fb4f5448e3b5539" width="36" height="36" alt="album art"/></td><td><b>Pocahontas</b><br/><sub>PLK</sub></td><td><a href="https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025e046d6e53058154285a7060" width="36" height="36" alt="album art"/></td><td><b>4 Kampé</b><br/><sub>Joé Dwèt Filé</sub></td><td><a href="https://open.spotify.com/track/0dedkLC2TNM9if16P8QU3J"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e025ef735b12fbc296c0a4bbfc3" width="36" height="36" alt="album art"/></td><td><b>VIANO</b><br/><sub>RK, Genezio</sub></td><td><a href="https://open.spotify.com/track/6OuhnnHBGG1tKWCpi8nOlM"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024c5cb7c5f071ad8a808aefcb" width="36" height="36" alt="album art"/></td><td><b>Simba</b><br/><sub>Dr. Yaro</sub></td><td><a href="https://open.spotify.com/track/61U7ZDXC4f5iKatYBwSegE"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0278ebac70714895c4f8ffaeb7" width="36" height="36" alt="album art"/></td><td><b>Jealous</b><br/><sub>Mochakk</sub></td><td><a href="https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e026deea746c506ebc831aefc4d" width="36" height="36" alt="album art"/></td><td><b>Confirmé</b><br/><sub>Dr. Yaro</sub></td><td><a href="https://open.spotify.com/track/7gMH6BhkS9Phrh71oXDdqP"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e2b4a9e1813e0ed20ca0e145" width="36" height="36" alt="album art"/></td><td><b>Minimum ça</b><br/><sub>Dr. Yaro</sub></td><td><a href="https://open.spotify.com/track/4mNttG8qiVh4BKrMUrUhCI"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0283d9f4d24df1d86895d70cda" width="36" height="36" alt="album art"/></td><td><b>Gasolina (feat. Ninho)</b><br/><sub>Hornet La Frappe, Ninho</sub></td><td><a href="https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f426617230b3b881cba1c4eb" width="36" height="36" alt="album art"/></td><td><b>RS3</b><br/><sub>Benab, Timal</sub></td><td><a href="https://open.spotify.com/track/5yUuhxtVym6rjeUnmkomvv"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
