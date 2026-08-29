@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->28 Aug 2026, 04:06 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->29 Aug 2026, 02:45 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d89bf816809447cd360a1efa" width="36" height="36" alt="album art"/></td><td><b>Rojo Vivo</b><br/><sub>Octavio Mesa Y Su Conjunto</sub></td><td><a href="https://open.spotify.com/track/1RbG8APgtheIeeeR7VNxn4"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d06c36953d960e241f1522f8" width="36" height="36" alt="album art"/></td><td><b>Hit Sale</b><br/><sub>Therapie TAXI, Roméo Elvis</sub></td><td><a href="https://open.spotify.com/track/3yndKI4zWEyC36BQYrdKBA"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f5b19cfcd4ff4d529533c625" width="36" height="36" alt="album art"/></td><td><b>Le pénitencier</b><br/><sub>Johnny Hallyday</sub></td><td><a href="https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d6d8c2eaa1f9031b62f7a3f7" width="36" height="36" alt="album art"/></td><td><b>Nightcall</b><br/><sub>Kavinsky</sub></td><td><a href="https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b3e7c22cb885cb6cb36b7049" width="36" height="36" alt="album art"/></td><td><b>Blind (feat. Emmi) - Radio Edit</b><br/><sub>Feder, Emmi</sub></td><td><a href="https://open.spotify.com/track/66Cipjt48FUYGrdNSRfkIC"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d6963d8a76c80d9f47bbdc59" width="36" height="36" alt="album art"/></td><td><b>I Love It (feat. Charli XCX)</b><br/><sub>Icona Pop, Charli xcx</sub></td><td><a href="https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0257fc4730e06c9ab20c1e073b" width="36" height="36" alt="album art"/></td><td><b>Take Ü There (feat. Kiesza)</b><br/><sub>Jack Ü, Skrillex, Diplo, Kiesza</sub></td><td><a href="https://open.spotify.com/track/2RpKh7kXSdO8NLrW9VQ46p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02549f59554064ddef23cfcafc" width="36" height="36" alt="album art"/></td><td><b>Booyah - Radio Edit</b><br/><sub>Showtek, We Are Loud, Sonny Wilson</sub></td><td><a href="https://open.spotify.com/track/74qY57XDx0sSUbVnQ8kosS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e7031965c3b6938d71212535" width="36" height="36" alt="album art"/></td><td><b>Cry (Just A Little) - Radio Edit</b><br/><sub>Bingo Players</sub></td><td><a href="https://open.spotify.com/track/3PXamtUEGjrl9vaFxZ318n"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02229b511799188e23773629f0" width="36" height="36" alt="album art"/></td><td><b>My Love</b><br/><sub>Route 94, Jess Glynne</sub></td><td><a href="https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
