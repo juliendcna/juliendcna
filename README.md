@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->29 Aug 2026, 02:45 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->29 Aug 2026, 22:30 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -137,8 +137,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174cdfaeaab2e632fdafcdbd585" width="36" height="36" alt="artist"/></td><td><b>Johnny Hallyday</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0" width="36" height="36" alt="artist"/></td><td><b>Damso</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2" width="36" height="36" alt="artist"/></td><td><b>Anuel AA</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f5e6804e7f2f3ac8a8cfbdb0" width="36" height="36" alt="artist"/></td><td><b>Soolking</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab6761610000517451767bb5e3e3add66699344b" width="36" height="36" alt="artist"/></td><td><b>PNL</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02d6963d8a76c80d9f47bbdc59" width="36" height="36" alt="album art"/></td><td><b>I Love It (feat. Charli XCX)</b><br/><sub>Icona Pop, Charli xcx</sub></td><td><a href="https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0257fc4730e06c9ab20c1e073b" width="36" height="36" alt="album art"/></td><td><b>Take Ü There (feat. Kiesza)</b><br/><sub>Jack Ü, Skrillex, Diplo, Kiesza</sub></td><td><a href="https://open.spotify.com/track/2RpKh7kXSdO8NLrW9VQ46p"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02549f59554064ddef23cfcafc" width="36" height="36" alt="album art"/></td><td><b>Booyah - Radio Edit</b><br/><sub>Showtek, We Are Loud, Sonny Wilson</sub></td><td><a href="https://open.spotify.com/track/74qY57XDx0sSUbVnQ8kosS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e7031965c3b6938d71212535" width="36" height="36" alt="album art"/></td><td><b>Cry (Just A Little) - Radio Edit</b><br/><sub>Bingo Players</sub></td><td><a href="https://open.spotify.com/track/3PXamtUEGjrl9vaFxZ318n"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02229b511799188e23773629f0" width="36" height="36" alt="album art"/></td><td><b>My Love</b><br/><sub>Route 94, Jess Glynne</sub></td><td><a href="https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02519266cd05491a5b5bc22d1e" width="36" height="36" alt="album art"/></td><td><b>La Romana</b><br/><sub>Bad Bunny, El Alfa</sub></td><td><a href="https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a0caffda54afd0a65995bbab" width="36" height="36" alt="album art"/></td><td><b>I Like It</b><br/><sub>Cardi B, Bad Bunny, J Balvin</sub></td><td><a href="https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022ea1f035463d11e1fc3b193d" width="36" height="36" alt="album art"/></td><td><b>MONACO</b><br/><sub>Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fc8563c0dc75d79e73c2dca0" width="36" height="36" alt="album art"/></td><td><b>Coco Chanel</b><br/><sub>Eladio Carrion, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72" width="36" height="36" alt="album art"/></td><td><b>Ojitos Lindos</b><br/><sub>Bad Bunny, Bomba Estéreo</sub></td><td><a href="https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
