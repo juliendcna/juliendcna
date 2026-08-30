@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->29 Aug 2026, 22:30 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->30 Aug 2026, 22:33 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -118,11 +118,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeaaa69786db98d2bf2771eb" width="36" height="36" alt="album art"/></td><td><b>La Ocasión</b><br/><sub>DJ Luian, Mambo Kingz, De La Ghetto, Arcángel, Ozuna</sub></td><td><a href="https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e2b4a9e1813e0ed20ca0e145" width="36" height="36" alt="album art"/></td><td><b>Minimum ça</b><br/><sub>Dr. Yaro</sub></td><td><a href="https://open.spotify.com/track/4mNttG8qiVh4BKrMUrUhCI"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fc38dcce16b964b1d5e03f04" width="36" height="36" alt="album art"/></td><td><b>Dime</b><br/><sub>Revol, J Balvin, Bad Bunny, Arcángel, De La Ghetto</sub></td><td><a href="https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e029df722b3b03fda33141ae8e8" width="36" height="36" alt="album art"/></td><td><b>Caile</b><br/><sub>Bad Bunny, Bryant Myers, De La Ghetto, Revol, Zion</sub></td><td><a href="https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bb643ae7287c339560084452" width="36" height="36" alt="album art"/></td><td><b>Casanova</b><br/><sub>Soolking, Gazo</sub></td><td><a href="https://open.spotify.com/track/6NHSjS7gdrpjvr0SaNYNNd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02efcae565f50db5751f17f186" width="36" height="36" alt="album art"/></td><td><b>I Belong To You</b><br/><sub>Lenny Kravitz</sub></td><td><a href="https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02deec12a28d1e336c5052e9aa" width="36" height="36" alt="album art"/></td><td><b>Break Free</b><br/><sub>Ariana Grande, Zedd</sub></td><td><a href="https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeaaa69786db98d2bf2771eb" width="36" height="36" alt="album art"/></td><td><b>La Ocasión</b><br/><sub>DJ Luian, Mambo Kingz, De La Ghetto, Arcángel, Ozuna</sub></td><td><a href="https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e9f7ba342913f09083c65ab2" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel</b><br/><sub>oskar med k</sub></td><td><a href="https://open.spotify.com/track/6VLEP2a1vS5k2IUugZrn0z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024f1ce364f8d72faf02e967eb" width="36" height="36" alt="album art"/></td><td><b>Your Body</b><br/><sub>Marten Lou</sub></td><td><a href="https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b0d29f52583a4d94ebc42b38" width="36" height="36" alt="album art"/></td><td><b>Inner Light</b><br/><sub>Elderbrook, Bob Moses</sub></td><td><a href="https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0236572e6726714544f5bed456" width="36" height="36" alt="album art"/></td><td><b>Love Is A Long Road</b><br/><sub>Tom Petty</sub></td><td><a href="https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616d00001e02519266cd05491a5b5bc22d1e" width="36" height="36" alt="album art"/></td><td><b>La Romana</b><br/><sub>Bad Bunny, El Alfa</sub></td><td><a href="https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02a0caffda54afd0a65995bbab" width="36" height="36" alt="album art"/></td><td><b>I Like It</b><br/><sub>Cardi B, Bad Bunny, J Balvin</sub></td><td><a href="https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e022ea1f035463d11e1fc3b193d" width="36" height="36" alt="album art"/></td><td><b>MONACO</b><br/><sub>Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02fc8563c0dc75d79e73c2dca0" width="36" height="36" alt="album art"/></td><td><b>Coco Chanel</b><br/><sub>Eladio Carrion, Bad Bunny</sub></td><td><a href="https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72" width="36" height="36" alt="album art"/></td><td><b>Ojitos Lindos</b><br/><sub>Bad Bunny, Bomba Estéreo</sub></td><td><a href="https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
