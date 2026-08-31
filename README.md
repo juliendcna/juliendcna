@@ -103,7 +103,7 @@
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->30 Aug 2026, 22:33 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->31 Aug 2026, 23:39 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
@@ -137,8 +137,8 @@
 <tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174cdfaeaab2e632fdafcdbd585" width="36" height="36" alt="artist"/></td><td><b>Johnny Hallyday</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0" width="36" height="36" alt="artist"/></td><td><b>Damso</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616100005174cb565a8e684e3be458d329ac" width="36" height="36" alt="artist"/></td><td><b>Rihanna</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 <tr><td><img src="https://i.scdn.co/image/ab67616100005174f5e6804e7f2f3ac8a8cfbdb0" width="36" height="36" alt="artist"/></td><td><b>Soolking</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab6761610000517451767bb5e3e3add66699344b" width="36" height="36" alt="artist"/></td><td><b>PNL</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 
 <table>
 <tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e9f7ba342913f09083c65ab2" width="36" height="36" alt="album art"/></td><td><b>Make Me Feel</b><br/><sub>oskar med k</sub></td><td><a href="https://open.spotify.com/track/6VLEP2a1vS5k2IUugZrn0z"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e024f1ce364f8d72faf02e967eb" width="36" height="36" alt="album art"/></td><td><b>Your Body</b><br/><sub>Marten Lou</sub></td><td><a href="https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02b0d29f52583a4d94ebc42b38" width="36" height="36" alt="album art"/></td><td><b>Inner Light</b><br/><sub>Elderbrook, Bob Moses</sub></td><td><a href="https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0236572e6726714544f5bed456" width="36" height="36" alt="album art"/></td><td><b>Love Is A Long Road</b><br/><sub>Tom Petty</sub></td><td><a href="https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02519266cd05491a5b5bc22d1e" width="36" height="36" alt="album art"/></td><td><b>La Romana</b><br/><sub>Bad Bunny, El Alfa</sub></td><td><a href="https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0270cd79659edf4d5fec0840b8" width="36" height="36" alt="album art"/></td><td><b>Talking Body</b><br/><sub>Tove Lo</sub></td><td><a href="https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f1d02a6cec967f8b6b78f76e" width="36" height="36" alt="album art"/></td><td><b>Beauty And A Beat</b><br/><sub>Justin Bieber, Nicki Minaj</sub></td><td><a href="https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c68f26a3d34fbd0faed2b473" width="36" height="36" alt="album art"/></td><td><b>My Love (feat. T.I.)</b><br/><sub>Justin Timberlake, T.I.</sub></td><td><a href="https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028e7451dfba6465648f80dca3" width="36" height="36" alt="album art"/></td><td><b>Lean On (feat. MØ & DJ Snake)</b><br/><sub>Major Lazer, MØ, DJ Snake</sub></td><td><a href="https://open.spotify.com/track/2e7s0oEzUoJtDSPtYJuVvD"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
+<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02caa23612279c2d059a0d3a82" width="36" height="36" alt="album art"/></td><td><b>Nothin' on You (feat. Bruno Mars)</b><br/><sub>B.o.B, Bruno Mars</sub></td><td><a href="https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
 </tbody>
 </table>
 
