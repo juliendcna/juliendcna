@@ -106,11 +106,6 @@
 <sub><img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
-<td valign="top" width="50%">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=juliendcna&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
-
-</td>
 </tr>
 </table>
 
