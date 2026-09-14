@@ -98,68 +98,17 @@
 ![Skiing](https://img.shields.io/badge/Skiing-1E90FF?style=flat-square&logo=snowflake&logoColor=white)
 ![Travel](https://img.shields.io/badge/Travel-FF6F61?style=flat-square&logo=googleearth&logoColor=white)
 ![Food](https://img.shields.io/badge/Food-FF9800?style=flat-square&logo=foodpanda&logoColor=white)
-![Music](https://img.shields.io/badge/Music-1DB954?style=flat-square&logo=spotify&logoColor=white)
+![Music](https://img.shields.io/badge/Music-8E44AD?style=flat-square&logo=applemusic&logoColor=white)
 ![Movies](https://img.shields.io/badge/Movies_&_Series-E50914?style=flat-square&logo=netflix&logoColor=white)
 
 <br/>
 
-<sub>↻ <!-- SPOTIFY_LAST_UPDATE:START -->31 Aug 2026, 23:39 UTC<!-- SPOTIFY_LAST_UPDATE:END --> · <img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
+<sub><img src="https://komarev.com/ghpvc/?username=juliendcna&style=flat-square&color=58A6FF" alt="views"/></sub>
 
 </td>
 <td valign="top" width="50%">
 
 <img width="100%" src="https://streak-stats.demolab.com?user=juliendcna&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
-
-<br/>
-
-![Spotify](https://img.shields.io/badge/top_tracks_this_week-1DB954?style=flat-square&logo=spotify&logoColor=white)
-
-<!-- SPOTIFY_TOP_TRACKS:START -->
-
-<table>
-<tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02e2b4a9e1813e0ed20ca0e145" width="36" height="36" alt="album art"/></td><td><b>Minimum ça</b><br/><sub>Dr. Yaro</sub></td><td><a href="https://open.spotify.com/track/4mNttG8qiVh4BKrMUrUhCI"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02bb643ae7287c339560084452" width="36" height="36" alt="album art"/></td><td><b>Casanova</b><br/><sub>Soolking, Gazo</sub></td><td><a href="https://open.spotify.com/track/6NHSjS7gdrpjvr0SaNYNNd"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02efcae565f50db5751f17f186" width="36" height="36" alt="album art"/></td><td><b>I Belong To You</b><br/><sub>Lenny Kravitz</sub></td><td><a href="https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02deec12a28d1e336c5052e9aa" width="36" height="36" alt="album art"/></td><td><b>Break Free</b><br/><sub>Ariana Grande, Zedd</sub></td><td><a href="https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02eeaaa69786db98d2bf2771eb" width="36" height="36" alt="album art"/></td><td><b>La Ocasión</b><br/><sub>DJ Luian, Mambo Kingz, De La Ghetto, Arcángel, Ozuna</sub></td><td><a href="https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-</tbody>
-</table>
-
-<!-- SPOTIFY_TOP_TRACKS:END -->
-
-![Spotify](https://img.shields.io/badge/top_artists_this_month-1DB954?style=flat-square&logo=spotify&logoColor=white)
-
-<!-- SPOTIFY_TOP_ARTISTS:START -->
-
-<table>
-<tbody>
-<tr><td><img src="https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13" width="36" height="36" alt="artist"/></td><td><b>Bad Bunny</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174cdfaeaab2e632fdafcdbd585" width="36" height="36" alt="artist"/></td><td><b>Johnny Hallyday</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0" width="36" height="36" alt="artist"/></td><td><b>Damso</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174cb565a8e684e3be458d329ac" width="36" height="36" alt="artist"/></td><td><b>Rihanna</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616100005174f5e6804e7f2f3ac8a8cfbdb0" width="36" height="36" alt="artist"/></td><td><b>Soolking</b><br/><sub>Artist</sub></td><td><a href="https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"><img src="https://img.shields.io/badge/-Open-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Open"/></a></td></tr>
-</tbody>
-</table>
-
-<!-- SPOTIFY_TOP_ARTISTS:END -->
-
-![Spotify](https://img.shields.io/badge/recently_played-1DB954?style=flat-square&logo=spotify&logoColor=white)
-
-<!-- SPOTIFY_RECENTLY_PLAYED:START -->
-
-<table>
-<tbody>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e0270cd79659edf4d5fec0840b8" width="36" height="36" alt="album art"/></td><td><b>Talking Body</b><br/><sub>Tove Lo</sub></td><td><a href="https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02f1d02a6cec967f8b6b78f76e" width="36" height="36" alt="album art"/></td><td><b>Beauty And A Beat</b><br/><sub>Justin Bieber, Nicki Minaj</sub></td><td><a href="https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02c68f26a3d34fbd0faed2b473" width="36" height="36" alt="album art"/></td><td><b>My Love (feat. T.I.)</b><br/><sub>Justin Timberlake, T.I.</sub></td><td><a href="https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e028e7451dfba6465648f80dca3" width="36" height="36" alt="album art"/></td><td><b>Lean On (feat. MØ & DJ Snake)</b><br/><sub>Major Lazer, MØ, DJ Snake</sub></td><td><a href="https://open.spotify.com/track/2e7s0oEzUoJtDSPtYJuVvD"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-<tr><td><img src="https://i.scdn.co/image/ab67616d00001e02caa23612279c2d059a0d3a82" width="36" height="36" alt="album art"/></td><td><b>Nothin' on You (feat. Bruno Mars)</b><br/><sub>B.o.B, Bruno Mars</sub></td><td><a href="https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"><img src="https://img.shields.io/badge/-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play"/></a></td></tr>
-</tbody>
-</table>
-
-<!-- SPOTIFY_RECENTLY_PLAYED:END -->
-
 
 </td>
 </tr>
